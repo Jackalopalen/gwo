@@ -1,7 +1,7 @@
 # xivcraft
 Repo
 
-This is a tool I created to assist with crafting in FFXIV: A Realm Reborn
+This is a tool I created to assist with crafting in FFXIV: A Realm Reborn.
 It is similar to the shopping cart found at xivdb.com, but slightly more robust (and probably more prone to bugs since I have no idea what I am doing)
 This is my first attempt at constructing a GUI, I guess it's my first proper "program" (if you can call it that).
 

@@ -16,3 +16,10 @@ Within the tool, select a class, level range, or just type in the name of the it
 Select one or more result and click the '+' button (or double click) to add to the Make List.
 Ingredients will appear in the box above.
 Select one or more item in the Make List and click the '-' button (or double click) to remove it.
+
+The tool is a work in progress, I will improve it as I feel like it.
+Feel free to make your own adjustments as you see fit.
+
+The recipe and ingredient lists I am using come from http://www.gameskinny.com/27qul/just-ashleys-final-fantasy-xiv-guides-current-and-upcoming-listed
+Without Ashley SSS putting the lists together with the tedious work, I'm sure I'd never have done so.
+Thank you.

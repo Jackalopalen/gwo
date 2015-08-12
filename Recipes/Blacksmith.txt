@@ -1,0 +1,1442 @@
+Recipes levels 1 through 5
+Bronze Ingot (Level 1)
+   1 Fire Shard
+   2 Copper Ore
+   1 Tin Ore
+
+Bronze Hatchet (Level 1)
+   1 Fire Shard
+   1 Earth Shard
+   1 Bronze Ingot
+   1 Maple Lumber
+
+Bronze Dagger (Level 2)
+   1 Fire Shard
+   1 Earth Shard
+   1 Bronze Ingot
+   1 Maple Lumber
+   1 Bone Chip
+
+Amateur's File (Level 2)
+   1 Fire Shard
+   1 Earth Shard
+   2 Bronze Ingot
+   1 Leather
+
+Bronze Rivets (Level 3)
+   1 Fire Shard
+   1 Bronze Ingot
+
+Bronze War Axe (Level 3)
+   1 Fire Shard
+   1 Earth Shard
+   2 Bronze Ingot
+   1 Maple Lumber
+
+Amateur's Pliers (Level 3)
+   1 Fire Shard
+   1 Earth Shard
+   1 Bronze Ingot
+   1 Bronze Rivets
+   1 Fish Oil
+
+Bronze Saw (Level 4)
+   1 Fire Shard
+   1 Earth Shard
+   1 Bronze Ingot
+   1 Bronze Rivets
+   1 Maple Lumber
+
+Amateur's Awl (Level 4)
+   1 Fire Shard
+   1 Earth Shard
+   1 Bronze Ingot
+   1 Maple Lumber
+   1 Fish Oil
+
+Amateur's Claw Hammer (Level 5)
+   1 Fire Shard
+   1 Earth Shard
+   1 Bronze Ingot
+   1 Maple Lumber
+   1 Fish Oil
+
+Bronze Cross-Pein Hammer (Level 5)
+   1 Fire Shard
+   1 Earth Shard
+   1 Bronze Ingot
+   1 Undyed Hempen Cloth
+   1 Maple Lumber
+
+Bronze Doming Hammer (Level 5)
+   1 Fire Shard
+   1 Earth Shard
+   1 Bronze Ingot
+   1 Maple Lumber
+
+Recipes levels 6 through 10
+Amateur's Culinary Knife (Level 6)
+   1 Fire Shard
+   1 Earth Shard
+   1 Bronze Ingot
+   1 Ragstone Whetstone
+   1 Maple Lumber
+
+Amateur's Mortar (Level 6)
+   1 Fire Shard
+   1 Earth Shard
+   2 Bronze Ingot
+   1 Maple Lumber
+
+Bronze Labrys (Level 7)
+   1 Fire Shard
+   1 Earth Shard
+   2 Bronze Ingot
+   1 Maple Lumber
+
+Bronze Chaser Hammer (Level 7)
+   1 Fire Shard
+   1 Earth Shard
+   1 Bronze Ingot
+   1 Bronze Rivets
+   1 Maple Lumber
+
+Bronze Gladius (Level 7)
+   1 Fire Shard
+   1 Earth Shard
+   1 Bronze Ingot
+   1 Leather
+   1 Bone Chip
+
+Bronze Pickaxe (Level 8)
+   1 Fire Shard
+   1 Earth Shard
+   1 Bronze Ingot
+   1 Undyed Hempen Cloth
+   1 Maple Lumber
+
+Bronze Head Knife (Level 8)
+   1 Fire Shard
+   1 Earth Shard
+   1 Bronze Ingot
+   1 Ragstone Whetstone
+   1 Maple Lumber
+
+Cloud Axe (Level 9)
+   1 Fire Shard
+   1 Earth Shard
+   1 Bronze War Axe
+   1 Bronze Ingot
+
+Bronze Claw Hammer (Level 9)
+   1 Fire Shard
+   1 Earth Shard
+   1 Bronze Ingot
+   1 Maple Lumber
+   1 Fish Oil
+
+Amateur's Chaser Hammer (Level 10)
+   1 Fire Shard
+   1 Earth Shard
+   1 Bronze Ingot
+   1 Bronze Rivets
+   1 Ash Lumber
+
+Amateur's Cross-Pein Hammer (Level 10)
+   1 Fire Shard
+   1 Earth Shard
+   1 Bronze Ingot
+   1 Undyed Hempen Cloth
+   1 Ash Lumber
+
+Bronze Mortar (Level 10)
+   1 Fire Shard
+   1 Earth Shard
+   2 Bronze Ingot
+   1 Ash Lumber
+
+Bronze Pliers (Level 10)
+   1 Fire Shard
+   1 Earth Shard
+   1 Clove Oil
+   1 Bronze Ingot
+   1 Bronze Rivets
+
+Bronze File (Level 10)
+   1 Fire Shard
+   1 Earth Shard
+   2 Bronze Ingot
+   1 Hard Leather
+
+Recipes levels 11 through 15
+Amateur's Head Knife (Level 11)
+   1 Fire Shard
+   1 Earth Shard
+   1 Bronze Ingot
+   1 Ragstone Whetstone
+   1 Ash Lumber
+
+Amateur's Pickaxe (Level 11)
+   1 Fire Shard
+   1 Earth Shard
+   1 Bronze Ingot
+   1 Undyed Hempen Cloth
+   1 Ash Lumber
+
+Amateur's Doming Hammer (Level 11)
+   1 Fire Shard
+   1 Earth Shard
+   1 Bronze Ingot
+   1 Ash Lumber
+
+Bronze Scythe (Level 11)
+   1 Fire Shard
+   1 Earth Shard
+   1 Bronze Ingot
+   1 Ragstone Whetstone
+   1 Ash Lumber
+
+Bronze Awl (Level 11)
+   1 Fire Shard
+   1 Earth Shard
+   1 Bronze Ingot
+   1 Ash Lumber
+   1 Jellyfish Humours
+
+Bronze Culinary Knife (Level 12)
+   1 Fire Shard
+   1 Earth Shard
+   1 Bronze Ingot
+   1 Ragstone Whetstone
+   1 Ash Lumber
+
+Bronze Sledgehammer (Level 12)
+   1 Fire Shard
+   1 Earth Shard
+   1 Bronze Ingot
+   1 Ash Lumber
+   1 Animal Glue
+
+Amateur's Saw (Level 12)
+   1 Fire Shard
+   1 Earth Shard
+   1 Bronze Ingot
+   1 Bronze Rivets
+   1 Ash Lumber
+
+Amateur's Hatchet (Level 12)
+   1 Fire Shard
+   1 Earth Shard
+   1 Bronze Ingot
+   1 Ash Lumber
+
+Bronze Ornamental Hammer (Level 12)
+   1 Fire Shard
+   1 Earth Shard
+   1 Amateur's Chaser Hammer
+   2 Bronze Rivets
+
+Bronze Spatha (Level 13)
+   1 Fire Shard
+   1 Earth Shard
+   1 Bronze Ingot
+   1 Hard Leather
+   1 Ram Horn
+
+Bronze Knuckles (Level 13)
+   1 Fire Shard
+   1 Earth Shard
+   2 Bronze Ingot
+   1 Hard Leather
+
+Spiked Bronze Labrys (Level 14)
+   1 Fire Shard
+   1 Earth Shard
+   3 Bronze Ingot
+   1 Ash Lumber
+
+Brass Head Knife (Level 14)
+   1 Fire Shard
+   1 Earth Shard
+   1 Bronze Head Knife
+   1 Brass Ingot
+   1 Ragstone Whetstone
+
+Birdsbeak Hammer (Level 15)
+   1 Fire Shard
+   1 Earth Shard
+   1 Bronze Ingot
+   1 Undyed Cotton Cloth
+   1 Ash Lumber
+   1 Jellyfish Humours
+
+Bronze Raising Hammer (Level 15)
+   1 Fire Shard
+   1 Earth Shard
+   1 Bronze Ingot
+   1 Bronze Plate
+   1 Ash Lumber
+
+Recipes levels 16 through 20
+Brass Knuckles (Level 16)
+   1 Fire Shard
+   1 Earth Shard
+   1 Bronze Knuckles
+   1 Brass Ingot
+
+Chocobotail Saw (Level 16)
+   1 Fire Shard
+   1 Earth Shard
+   1 Amateur's Saw
+   2 Bronze Rivets
+
+Brass Dagger (Level 16)
+   1 Fire Shard
+   1 Earth Shard
+   1 Bronze Dagger
+   2 Brass Ingot
+
+Plumed Bronze Pickaxe (Level 16)
+   1 Fire Shard
+   1 Earth Shard
+   1 Bronze Pickaxe
+   1 Hard Leather
+   1 Crow Feather
+
+Iron Ingot (Level 16)
+   1 Fire Shard
+   3 Iron Ore
+
+Iron War Axe (Level 17)
+   1 Fire Shard
+   1 Earth Shard
+   2 Iron Ingot
+   1 Ash Lumber
+
+Iron Hatchet (Level 17)
+   1 Fire Shard
+   1 Earth Shard
+   1 Iron Ingot
+   1 Ash Lumber
+
+Iron Labrys (Level 17)
+   1 Fire Shard
+   1 Earth Shard
+   2 Iron Ingot
+   1 Hard Leather
+   1 Elm Lumber
+
+Iron Rivets (Level 18)
+   1 Fire Shard
+   1 Iron Ingot
+
+Iron Doming Hammer (Level 18)
+   1 Fire Shard
+   1 Earth Shard
+   1 Iron Ingot
+   1 Elm Lumber
+
+Iron Chaser Hammer (Level 18)
+   1 Fire Shard
+   1 Earth Shard
+   1 Iron Ingot
+   1 Iron Rivets
+   1 Elm Lumber
+
+Iron Cross-Pein Hammer (Level 18)
+   1 Fire Shard
+   1 Earth Shard
+   1 Iron Ingot
+   1 Undyed Cotton Cloth
+   1 Elm Lumber
+
+Iron Awl (Level 19)
+   1 Fire Shard
+   1 Earth Shard
+   1 Clove Oil
+   1 Iron Ingot
+   1 Elm Lumber
+
+Initiate's Hatchet (Level 19)
+   1 Fire Shard
+   1 Earth Shard
+   1 Iron Ingot
+   1 Elm Lumber
+
+Initiate's Head Knife (Level 19)
+   1 Fire Shard
+   1 Earth Shard
+   1 Iron Ingot
+   1 Mudstone Whetstone
+   1 Ash Lumber
+
+Initiate's Sledgehammer (Level 19)
+   1 Fire Shard
+   1 Earth Shard
+   1 Iron Ingot
+   1 Elm Lumber
+   1 Fish Glue
+
+Maddening Dagger (Level 20)
+   1 Fire Shard
+   1 Earth Shard
+   1 Brass Dagger
+   1 Aldgoat Leather
+
+Iron Claw Hammer (Level 20)
+   1 Fire Shard
+   1 Earth Shard
+   1 Iron Ingot
+   1 Elm Lumber
+   1 Jellyfish Humours
+
+Initiate's Awl (Level 20)
+   1 Fire Shard
+   1 Earth Shard
+   1 Iron Ingot
+   1 Iron Rivets
+   1 Ash Lumber
+
+Iron Pickaxe (Level 20)
+   1 Fire Shard
+   1 Earth Shard
+   1 Iron Ingot
+   1 Undyed Cotton Cloth
+   1 Ash Lumber
+
+Brass Gladius (Level 20)
+   1 Fire Shard
+   1 Earth Shard
+   1 Bronze Gladius
+   1 Brass Ingot
+   1 Aldgoat Leather
+
+Recipes levels 21 through 25
+Initiate's Doming Hammer (Level 21)
+   2 Fire Shard
+   1 Earth Shard
+   1 Iron Ingot
+   1 Yew Lumber
+
+Initiate's Chaser Hammer (Level 21)
+   2 Fire Shard
+   1 Earth Shard
+   1 Iron Ingot
+   1 Iron Rivets
+   1 Yew Lumber
+
+Initiate's Cross-Pein Hammer (Level 21)
+   2 Fire Shard
+   1 Earth Shard
+   1 Iron Ingot
+   1 Undyed Cotton Cloth
+   1 Yew Lumber
+
+Inferno Axe (Level 21)
+   2 Fire Shard
+   1 Earth Shard
+   1 Iron War Axe
+   1 Iron Ingot
+   1 Brass Ingot
+
+Iron Mortar (Level 21)
+   2 Fire Shard
+   1 Earth Shard
+   2 Iron Ingot
+   1 Elm Lumber
+
+Iron Scythe (Level 21)
+   2 Fire Shard
+   1 Earth Shard
+   1 Iron Ingot
+   1 Mudstone Whetstone
+   1 Elm Lumber
+
+Iron Culinary Knife (Level 21)
+   2 Fire Shard
+   1 Earth Shard
+   1 Iron Ingot
+   1 Mudstone Whetstone
+   1 Elm Lumber
+
+Iron File (Level 22)
+   2 Fire Shard
+   1 Earth Shard
+   2 Iron Ingot
+   1 Aldgoat Leather
+
+Iron Pliers (Level 22)
+   2 Fire Shard
+   1 Earth Shard
+   1 Clove Oil
+   1 Iron Ingot
+   1 Iron Rivets
+
+Initiate's Pickaxe (Level 22)
+   2 Fire Shard
+   1 Earth Shard
+   1 Iron Ingot
+   1 Undyed Cotton Cloth
+   1 Elm Lumber
+
+Iron Shortsword (Level 22)
+   2 Fire Shard
+   1 Earth Shard
+   2 Iron Ingot
+   1 Aldgoat Leather
+   1 Elm Lumber
+
+Spiked Knuckles (Level 23)
+   2 Fire Shard
+   1 Earth Shard
+   1 Iron Ingot
+   1 Iron Plate
+   1 Aldgoat Leather
+
+Initiate's Awl (Level 23)
+   2 Fire Shard
+   1 Earth Shard
+   1 Clove Oil
+   1 Iron Ingot
+   1 Yew Lumber
+
+Iron Sledgehammer (Level 23)
+   2 Fire Shard
+   1 Earth Shard
+   1 Iron Ingot
+   1 Elm Lumber
+   1 Fish Glue
+
+Iron Bill (Level 24)
+   2 Fire Shard
+   2 Earth Shard
+   1 Clove Oil
+   2 Iron Ingot
+   1 Yew Lumber
+
+Brass Hatchet (Level 24)
+   2 Fire Shard
+   2 Earth Shard
+   1 Initiate's Hatchet
+   1 Clove Oil
+   1 Brass Ingot
+
+Bas-Relief Iron Saw (Level 24)
+   2 Fire Shard
+   2 Earth Shard
+   1 Iron Ingot
+   1 Iron Rivets
+   1 Elm Lumber
+
+Initiate's Claw Hammer (Level 24)
+   2 Fire Shard
+   2 Earth Shard
+   1 Iron Ingot
+   1 Yew Lumber
+   1 Crab Oil
+
+Initiate's Mortar (Level 24)
+   2 Fire Shard
+   2 Earth Shard
+   2 Iron Ingot
+   1 Yew Lumber
+
+Initiate's Scythe (Level 25)
+   2 Fire Shard
+   2 Earth Shard
+   1 Iron Ingot
+   1 Mudstone Whetstone
+   1 Yew Lumber
+
+Initiate's Culinary Knife (Level 25)
+   2 Fire Shard
+   2 Earth Shard
+   1 Iron Ingot
+   1 Mudstone Whetstone
+   1 Yew Lumber
+
+Iron Spatha (Level 25)
+   2 Fire Shard
+   2 Earth Shard
+   1 Iron Ingot
+   1 Aldgoat Leather
+   1 Antelope Horn
+
+Iron Round Knife (Level 25)
+   2 Fire Shard
+   2 Earth Shard
+   1 Iron Ingot
+   1 Mudstone Whetstone
+   1 Yew Lumber
+
+Recipes levels 26 through 30
+Steel Ingot (Level 26)
+   2 Fire Shard
+   2 Iron Ore
+   1 Bomb Ash
+
+Iron Ornamental Hammer (Level 26)
+   2 Fire Shard
+   2 Earth Shard
+   1 Initiate's Chaser Hammer
+   1 Brass Ingot
+   1 Iron Rivets
+
+Iron Raising Hammer (Level 26)
+   2 Fire Shard
+   2 Earth Shard
+   1 Iron Ingot
+   1 Iron Plate
+   1 Walnut Lumber
+
+Crowsbeak Hammer (Level 26)
+   2 Fire Shard
+   2 Earth Shard
+   1 Clove Oil
+   1 Iron Ingot
+   1 Undyed Cotton Cloth
+   1 Walnut Lumber
+
+Thunderstorm Axe (Level 26)
+   2 Fire Shard
+   2 Earth Shard
+   1 Inferno Axe
+   1 Iron Ingot
+   1 Silver Ingot
+
+Iron Dolabra (Level 27)
+   3 Fire Shard
+   2 Earth Shard
+   1 Iron Ingot
+   1 Iron Plate
+   1 Aldgoat Leather
+   1 Walnut Lumber
+
+Initiate's Pliers (Level 27)
+   3 Fire Shard
+   2 Earth Shard
+   1 Iron Ingot
+   1 Iron Rivets
+   1 Crab Oil
+
+Initiate's File (Level 27)
+   3 Fire Shard
+   2 Earth Shard
+   2 Iron Ingot
+   1 Toad Leather
+
+Steel Baselard (Level 28)
+   3 Fire Shard
+   2 Earth Shard
+   1 Steel Ingot
+   1 Walnut Lumber
+   1 Wolf Fang
+
+Iron Chocobotail Saw (Level 28)
+   3 Fire Shard
+   2 Earth Shard
+   1 Iron Ingot
+   1 Brass Ingot
+   1 Iron Rivets
+   1 Walnut Lumber
+
+Spiked Steel Labrys (Level 28)
+   3 Fire Shard
+   2 Earth Shard
+   3 Steel Ingot
+   1 Toad Leather
+   1 Walnut Lumber
+
+Steel Rivets (Level 29)
+   3 Fire Shard
+   1 Steel Ingot 
+
+Wrapped Iron Raising (Level 29)
+   3 Fire Shard
+   2 Earth Shard
+   1 Iron Raising Hammer
+   1 Toad Leather
+   1 Walnut Lumber
+
+Steel Claws (Level 29)
+   3 Fire Shard
+   2 Earth Shard
+   1 Steel Ingot
+   1 Steel Plate
+   1 Walnut Lumber
+   1 Fish Glue
+
+Heavy Crowsbeak Hammer (Level 29)
+   3 Fire Shard
+   2 Earth Shard
+   1 Crowsbeak Hammer
+   1 Clove Oil
+   1 Iron Ingot
+
+Plumed Iron Hatchet (Level 29)
+   3 Fire Shard
+   2 Earth Shard
+   1 Iron Ingot
+   1 Chocobo Feather
+   1 Walnut Lumber
+
+Iron Head Knife (Level 29)
+   3 Fire Shard
+   2 Earth Shard
+   1 Iron Ingot
+   1 Mudstone Whetstone
+   1 Walnut Lumber
+
+Steel Chaser Hammer (Level 30)
+   3 Fire Shard
+   3 Earth Shard
+   1 Steel Ingot
+   1 Steel Rivets
+   1 Walnut Lumber
+
+Steel Pickaxe (Level 30)
+   3 Fire Shard
+   3 Earth Shard
+   1 Steel Ingot
+   1 Undyed Velveteen
+   1 Walnut Lumber
+
+Steel Sledgehammer (Level 30)
+   3 Fire Shard
+   3 Earth Shard
+   1 Steel Ingot
+   1 Walnut Lumber
+   1 Fish Glue
+
+Silver Head Knife (Level 30)
+   3 Fire Shard
+   3 Earth Shard
+   1 Iron Head Knife
+   1 Silver Ingot
+   1 Mudstone Whetstone
+
+Bas-Relief Steel Saw (Level 30)
+   3 Fire Shard
+   3 Earth Shard
+   1 Steel Ingot
+   1 Steel Rivets
+   1 Walnut Lumber
+
+Recipes levels 31 through 35
+Steel Claw Hammer (Level 31)
+   3 Fire Shard
+   3 Earth Shard
+   1 Steel Ingot
+   1 Walnut Lumber
+   1 Crab Oil
+
+Steel Falchion (Level 31)
+   3 Fire Shard
+   3 Earth Shard
+   2 Steel Ingot
+   1 Siltstone Whetstone
+   1 Walnut Lumber
+
+Steel Awl (Level 31)
+   3 Fire Shard
+   3 Earth Shard
+   1 Steel Ingot
+   1 Walnut Lumber
+   1 Crab Oil
+
+Steel Culinary Knife (Level 32)
+   3 Fire Shard
+   3 Earth Shard
+   1 Steel Ingot
+   1 Siltstone Whetstone
+   1 Walnut Lumber
+
+Steel Ornamental Hammer (Level 32)
+   3 Fire Shard
+   3 Earth Shard
+   1 Steel Ingot
+   1 Steel Rivets
+   1 Walnut Lumber
+
+Steel Bardiche (Level 32)
+   3 Fire Shard
+   3 Earth Shard
+   2 Steel Ingot
+   1 Yew Branch
+   1 Wolf Fang
+   1 Fish Glue
+
+Steel Mortar (Level 32)
+   3 Fire Shard
+   3 Earth Shard
+   2 Steel Ingot
+   1 Walnut Lumber
+
+Steel Cross-Pein Hammer (Level 32)
+   3 Fire Shard
+   3 Earth Shard
+   1 Steel Ingot
+   1 Undyed Velveteen
+   1 Walnut Lumber
+
+Wrapped Steel (Level 33)
+   4 Fire Shard
+   3 Earth Shard
+   1 Steel Sledgehammer
+   1 Boar Leather
+   1 Fish Glue
+
+Steel Dolabra (Level 33)
+   4 Fire Shard
+   3 Earth Shard
+   1 Steel Ingot
+   1 Steel Plate
+   1 Undyed Velveteen
+   1 Oak Lumber
+
+Plumed Steel Hatchet (Level 33)
+   4 Fire Shard
+   3 Earth Shard
+   1 Steel Ingot
+   1 Chocobo Feather
+   1 Yew Lumber
+
+Steel Scythe (Level 33)
+   4 Fire Shard
+   3 Earth Shard
+   1 Steel Ingot
+   1 Siltstone Whetstone
+   1 Walnut Lumber
+
+Steel File (Level 34)
+   4 Fire Shard
+   3 Earth Shard
+   2 Steel Ingot
+   1 Toad Leather
+
+Steel Crowsbeak Hammer (Level 34)
+   4 Fire Shard
+   3 Earth Shard
+   1 Steel Ingot
+   1 Undyed Velveteen
+   1 Oak Lumber
+   1 Linseed Oil
+
+Steel Doming Hammer (Level 34)
+   4 Fire Shard
+   3 Earth Shard
+   1 Steel Ingot
+   1 Oak Lumber
+
+Steel Pliers (Level 35)
+   4 Fire Shard
+   3 Earth Shard
+   1 Steel Ingot
+   1 Steel Rivets
+   1 Linseed Oil
+
+Steel Hatchet (Level 35)
+   4 Fire Shard
+   3 Earth Shard
+   1 Steel Ingot
+   1 Oak Lumber
+
+Wrapped Steel Culinary Knife (Level 35)
+   4 Fire Shard
+   3 Earth Shard
+   1 Steel Ingot
+   1 Siltstone Whetstone
+   1 Oak Lumber
+
+Crosscut Caw (Level 35)
+   4 Fire Shard
+   3 Earth Shard
+   1 Steel Ingot
+   1 Steel Rivets
+   1 Oak Lumber
+
+Goblin Dagger (Level 35)
+   1 Fire Crystal
+   1 Blunt Goblin Dagger
+   1 Mudstone Whetstone
+
+Heavy Steel Mortar (Level 35)
+   4 Fire Shard
+   3 Earth Shard
+   1 Steel Mortar
+   1 Walnut Lumber
+
+Wrapped Steel Scythe (Level 35)
+   4 Fire Shard
+   3 Earth Shard
+   1 Steel Scythe
+   1 Siltstone Whetstone
+   1 Boar Leather
+
+Steel Bhuj (Level 35)
+   4 Fire Shard
+   3 Earth Shard
+   1 Iron Ingot
+   2 Steel Ingot
+   1 Oak Lumber
+
+Recipes levels 36 through 40
+Wrapped Steel Claw (Level 36)
+   4 Fire Shard
+   4 Earth Shard
+   1 Steel Claw Hammer
+   1 Boar Leather
+   1 Linseed Oil
+
+Wrapped Steel Awl (Level 36)
+   4 Fire Shard
+   4 Earth Shard
+   1 Steel Awl
+   1 Toad Leather
+   1 Linseed Oil
+
+Steel Round Knife (Level 36)
+   4 Fire Shard
+   4 Earth Shard
+   1 Steel Ingot
+   1 Siltstone Whetstone
+   1 Oak Lumber
+
+Steel Longsword (Level 37)
+   4 Fire Shard
+   4 Earth Shard
+   2 Steel Ingot
+   1 Walnut Lumber
+   1 Fish Glue
+
+Wrapped Crowsbeak Hammer (Level 38)
+   4 Fire Shard
+   4 Earth Shard
+   1 Steel Crowsbeak Hammer
+   1 Steel Ingot
+   1 Boar Leather
+
+Steel Raising Hammer (Level 38)
+   4 Fire Shard
+   4 Earth Shard
+   1 Steel Ingot
+   1 Steel Plate
+   1 Oak Lumber
+
+Goblin Gladius (Level 38)
+   1 Earth Crystal
+   1 Blunt Goblin Gladius
+   1 Mudstone Whetstone
+
+Mythril Ingot (Level 38)
+   4 Fire Shard
+   3 Mythril Ore
+
+Plumed Mythril Pickaxe (Level 38)
+   4 Fire Shard
+   4 Earth Shard
+   1 Mythril Ingot
+   1 Undyed Linen
+   1 Wildfowl Feather
+   1 Oak Lumber
+
+Mythril Knife (Level 38)
+   4 Fire Shard
+   4 Earth Shard
+   1 Mythril Ingot
+   1 Oak Lumber
+   1 Wolf Fang
+
+Mythril Hatchet (Level 38)
+   4 Fire Shard
+   4 Earth Shard
+   1 Brass Ingot
+   1 Mythril Ingot
+   1 Oak Lumber
+
+Spiked Mythril Labrys (Level 39)
+   5 Fire Shard
+   4 Earth Shard
+   3 Steel Ingot
+   1 Mythril Ingot
+   1 Boar Leather
+   1 Oak Lumber
+
+Mythril Saw (Level 39)
+   5 Fire Shard
+   4 Earth Shard
+   1 Mythril Ingot
+   1 Mythril Rivets
+   1 Oak Lumber
+
+Mythril Head Knife (Level 39)
+   5 Fire Shard
+   4 Earth Shard
+   1 Mythril Ingot
+   1 Siltstone Whetstone
+   1 Oak Lumber
+
+Mythril Claws (Level 39)
+   5 Fire Shard
+   4 Earth Shard
+   1 Mythril Ingot
+   1 Mythril Plate
+   1 Oak Lumber
+   1 Fish Glue
+
+Mythril Rivets (Level 39)
+   5 Fire Shard
+   1 Mythril Ingot
+
+Mythril File (Level 40)
+   5 Fire Shard
+   4 Earth Shard
+   2 Mythril Ingot
+   1 Boar Leather
+
+Mythril Claw Hammer (Level 40)
+   5 Fire Shard
+   4 Earth Shard
+   1 Mythril Ingot
+   1 Oak Lumber
+   1 Linseed Oil
+
+Mythril Awl (Level 40)
+   5 Fire Shard
+   4 Earth Shard
+   1 Mythril Ingot
+   1 Oak Lumber
+   1 Linseed Oil
+
+Mythril Bhuj (Level 40)
+   5 Fire Shard
+   4 Earth Shard
+   1 Steel Ingot
+   2 Mythril Ingot
+   1 Electrum Ingot
+   1 Walnut Lumber
+
+Mythril Ornamental Hammer (Level 40)
+   5 Fire Shard
+   4 Earth Shard
+   1 Mythril Ingot
+   1 Mythril Rivets
+   1 Oak Lumber
+
+Recipes levels 41 through 45
+Mythril Sledgehammer (Level 41)
+   5 Fire Shard
+   4 Earth Shard
+   1 Mythril Ingot
+   1 Oak Lumber
+   1 Horn Glue
+
+Mythril Culinary Knife (Level 41)
+   5 Fire Shard
+   4 Earth Shard
+   1 Mythril Ingot
+   1 Basilisk Whetstone
+   1 Mahogany Lumber
+
+Mythril Scythe (Level 41)
+   5 Fire Shard
+   4 Earth Shard
+   1 Mythril Ingot
+   1 Basilisk Whetstone
+   1 Mahogany Lumber
+
+Mythril Mortar (Level 41)
+   5 Fire Shard
+   4 Earth Shard
+   2 Mythril Ingot
+   1 Mahogany Lumber
+
+Cobalt Knuckles (Level 42)
+   5 Fire Shard
+   5 Earth Shard
+   2 Cobalt Ingot
+   1 Boar Leather
+
+Cobalt Cross-Pein Hammer (Level 42)
+   5 Fire Shard
+   5 Earth Shard
+   1 Cobalt Ingot
+   1 Boar Leather
+   1 Mahogany Lumber
+
+Goblin Scimitar (Level 42)
+   1 Fire Crystal
+   1 Blunt Goblin Scimitar
+   1 Siltstone Whetstone
+
+Cobalt Katzbalger (Level 42)
+   5 Fire Shard
+   5 Earth Shard
+   2 Cobalt Ingot
+   1 Electrum Ingot
+   1 Boar Leather
+   1 Oak Lumber
+
+Mythril Round Knife (Level 42)
+   5 Fire Shard
+   5 Earth Shard
+   1 Mythril Ingot
+   1 Basilisk Whetstone
+   1 Peiste Leather
+   1 Mahogany Lumber
+
+Mythril Chocobotail Saw (Level 42)
+   5 Fire Shard
+   5 Earth Shard 
+   1 Mythril Ingot
+   1 Mythril Rivets
+   1 Mahogany Lumber
+
+Mythril Pliers (Level 42)
+   5 Fire Shard
+   5 Earth Shard
+   1 Mythril Ingot
+   1 Mythril Rivets
+   1 Linseed Oil
+
+Cobalt Ingot (Level 42)
+   5 Fire Shard
+   1 Iron Ore
+   2 Cobalt Ore
+
+Mythril Lapidary Hammer (Level 42)
+   5 Fire Shard
+   5 Earth Shard
+   1 Mythril Ingot
+   1 Mythril Rivets
+   1 Mahogany Lumber
+
+Cobalt Dolabra (Level 43)
+   5 Fire Shard
+   5 Earth Shard
+   1 Cobalt Ingot
+   1 Aldgoat Leather
+   1 Mahogany Lumber
+
+Cobalt Rivets (Level 43)
+   5 Fire Shard
+   1 Cobalt Ingot
+
+Cobalt Hatchet (Level 43)
+   5 Fire Shard
+   5 Earth Shard
+   1 Cobalt Ingot
+   1 Brass Ingot
+   1 Mahogany Lumber
+
+Cobalt Doming Hammer (Level 43)
+   5 Fire Shard
+   5 Earth Shard
+   1 Cobalt Ingot
+   1 Cobalt Rivets
+   1 Oak Lumber
+
+Cobalt Shamshir (Level 43)
+   5 Fire Shard
+   5 Earth Shard
+   2 Cobalt Ingot
+   1 Basilisk Whetstone
+   1 Aldgoat Horn
+
+Buccaneer's Bardiche (Level 43)
+   5 Fire Shard
+   5 Earth Shard
+   2 Cobalt Ingot
+   1 Rosewood Branch
+   1 Horn Glue
+
+Cobalt Culinary Knife (Level 44)
+   5 Fire Shard
+   5 Earth Shard
+   1 Cobalt Ingot
+   1 Basilisk Whetstone
+   1 Rosewood Lumber
+
+Cobalt Pliers (Level 44)
+   5 Fire Shard
+   5 Earth Shard
+   1 Cobalt Ingot
+   1 Cobalt Rivets
+   1 Shark Oil
+
+Cobalt Sledgehammer (Level 44)
+   5 Fire Shard
+   5 Earth Shard
+   1 Cobalt Ingot
+   1 Rosewood Lumber
+   1 Horn Glue
+
+Cobalt Claw Hammer (Level 44)
+   5 Fire Shard
+   5 Earth Shard
+   1 Cobalt Ingot
+   1 Rosewood Lumber
+   1 Shark Oil
+
+Cobalt Awl (Level 44)
+   5 Fire Shard
+   5 Earth Shard
+   1 Cobalt Ingot
+   1 Mahogany Lumber
+   1 Shark Oil
+
+Cobalt Mortar (Level 45)
+   6 Fire Shard
+   5 Earth Shard 
+   2 Cobalt Ingot
+   1 Rosewood Lumber
+
+Goblin Longsword (Level 45)
+   1 Fire Crystal
+   1 Blunt Goblin Longsword
+   1 Basilisk Whetstone
+
+Demilune Bhuj (Level 45)
+   6 Fire Shard
+   5 Earth Shard
+   1 Steel Ingot
+   2 Cobalt Ingot
+   1 Jadeite
+   1 Mahogany Lumber
+
+Wrapped Hawksbeak Hammer (Level 45)
+   6 Fire Shard
+   5 Earth Shard
+   1 Cobalt Cross-Pein Hammer
+   1 Boar Leather
+   1 Rosewood Lumber
+   1 Shark Oil
+
+Cobalt File (Level 45)
+   6 Fire Shard
+   5 Earth Shard
+   2 Cobalt Ingot
+   1 Raptor Leather
+
+Cobalt Scythe (Level 45)
+   6 Fire Shard
+   5 Earth Shard
+   1 Cobalt Ingot
+   1 Basilisk Whetstone
+   1 Rosewood Lumber
+
+Recipes levels 46 through 50
+Electrum Head Knife (Level 46)
+   6 Fire Shard
+   5 Earth Shard
+   1 Cobalt Ingot
+   1 Electrum Ingot
+   1 Basilisk Whetstone
+   1 Rosewood Lumber
+
+Bas-Relief Cobalt Saw (Level 46)
+   6 Fire Shard
+   5 Earth Shard
+   1 Cobalt Ingot
+   1 Cobalt Rivets
+   1 Rosewood Lumber
+
+Cobalt Raising Hammer (Level 47)
+   6 Fire Shard
+   5 Earth Shard
+   1 Cobalt Ingot
+   1 Cobalt Plate
+   1 Cobalt Rivets
+   1 Rosewood Lumber
+
+Vintage Bill (Level 47)
+   1 Earth Crystal
+   1 Notched Bill
+   1 Basilisk Whetstone
+
+Electrum Lapidary Hammer (Level 47)
+   6 Fire Shard
+   5 Earth Shard
+   1 Cobalt Ingot
+   1 Electrum Ingot
+   1 Cobalt Rivets
+   1 Tourmaline
+   1 Rosewood Lumber
+
+Egret Dolabra (Level 48)
+   6 Fire Shard
+   6 Earth Shard
+   1 Cobalt Ingot
+   1 Cobalt Plate
+   1 Boar Leather
+   1 Rosewood Lumber
+
+Cobalt Winglet (Level 49)
+   6 Fire Shard
+   6 Earth Shard
+   2 Cobalt Ingot
+   1 Mahogany Lumber
+   1 Sunrise Tellin
+   1 Horn Glue
+
+Horned Hatchet (Level 49)
+   6 Fire Shard
+   6 Earth Shard
+   1 Cobalt Ingot
+   1 Boar Leather
+   1 Raptor Sinew
+   1 Rosewood Lumber
+   1 Aldgoat Horn
+
+Cobalt Claws (Level 49)
+   6 Fire Shard
+   6 Earth Shard
+   1 Cobalt Ingot
+   1 Brass Ingot
+   1 Cobalt Plate
+   1 Mahogany Lumber
+   1 Horn Glue
+
+Spiked Cobalt Labrys (Level 49)
+   6 Fire Shard
+   6 Earth Shard
+   3 Cobalt Ingot
+   2 Silver Ingot
+   1 Raptor Leather
+   1 Rosewood Lumber
+
+Recipes levels 55 through 70
+Darksteel Nugget (Level 55)
+   3 Fire Crystal
+   3 Darksteel Ore
+
+Darksteel Rivets (Level 55)
+   3 Fire Crystal
+   1 Darksteel Nugget
+
+Militia Awl (Level 55)
+   3 Fire Crystal
+   2 Earth Crystal
+   1 Darksteel Nugget
+   1 Spruce Lumber
+   1 Shark Oil
+
+Militia Sledgehammer (Level 55)
+   3 Fire Crystal
+   2 Earth Crystal
+   1 Darksteel Nugget
+   1 Spruce Lumber
+   1 Horn Glue
+
+Militia Mortar (Level 55)
+   3 Fire Crystal
+   2 Earth Crystal
+   2 Darksteel Nugget
+   1 Spruce Lumber
+
+Militia Pliers (Level 55)
+   3 Fire Crystal
+   2 Earth Crystal
+   1 Darksteel Nugget
+   1 Darksteel Rivets
+   1 Shark Oil
+
+Aeolian Scimitar (Level 55)
+   3 Fire Crystal
+   2 Earth Crystal
+   1 Blunt Aeolian Scimitar
+   1 Darksteel Nugget
+   1 Basilisk Whetstone
+
+Barbarian's Bardiche (Level 55)
+   3 Fire Crystal
+   2 Earth Crystal
+   1 Darksteel Nugget
+   1 Basilisk Whetstone
+   1 Bloody Bardiche Head
+
+Militia Culinary Knife (Level 55)
+   3 Fire Crystal
+   2 Earth Crystal
+   1 Darksteel Nugget
+   1 Basilisk Whetstone
+   1 Spruce Lumber
+
+Militia Claw Hammer (Level 55)
+   3 Fire Crystal
+   2 Earth Crystal
+   1 Darksteel Nugget
+   1 Spruce Lumber
+   1 Shark Oil
+
+Militia Scythe (Level 55)
+   3 Fire Crystal
+   2 Earth Crystal
+   1 Darksteel Nugget
+   1 Basilisk Whetstone
+   1 Spruce Lumber
+
+Militia File (Level 55)
+   3 Fire Crystal
+   2 Earth Crystal
+   2 Darksteel Nugget
+   1 Hippogryph Leather
+
+Darksteel Ingot (Level 70)
+   1 Fire Cluster
+   2 Darksteel Nugget
+   9 Coke
+
+Avenger Grips (Level 70)
+   1 Fire Cluster
+   1 Earth Cluster
+   1 Darksteel Ingot
+   2 Rose Gold Nugget
+  
+Obelisk Head (Level 70)
+   1 Fire Cluster
+   1 Earth Cluster
+   1 Darksteel Ingot
+   2 Darksteel Nugget
+
+Rampager Head (Level 70)
+   1 Fire Cluster
+   1 Earth Cluster
+   1 Darksteel Ingot
+   2 Darksteel Nugget
+   
+Mailbreaker Blade (Level 70)
+   1 Fire Cluster
+   1 Earth Cluster
+   1 Darksteel Ingot
+   2 Rose Gold Nugget
+
+Avengers (Level 70)
+   1 Fire Cluster
+   1 Earth Cluster
+   1 Darksteel Nugget
+   1 Rose Gold Nugget
+   1 Spruce Lumber
+   1 Avenger Grips
+
+Obelisk (Level 70)
+   1 Fire Cluster
+   1 Earth Cluster
+   3 Darksteel Nugget
+   1 Spruce Lumber
+   1 Obelisk Head
+
+Mailbreaker (Level 70)
+   1 Fire Cluster
+   1 Earth Cluster
+   1 Darksteel Nugget
+   1 Rose Gold Nugget
+   1 Hippogryph Leather
+   1 Mailbreaker Blade
+
+Rampager (Level 70)
+   1 Fire Cluster
+   1 Earth Cluster
+   2 Darksteel Plate
+   1 Spruce Lumber
+   1 Rampager Head

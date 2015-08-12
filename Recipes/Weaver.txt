@@ -1,0 +1,1909 @@
+Recipes level 1 through 5
+Hempen Yarn (Level 1)
+   1 Lightning Shard
+   2 Moko Grass
+
+Undyed Hempen Cloth (Level 2)
+   1 Lightning Shard
+   2 Hempen Yarn
+
+Hempen Halfgloves (Level 2)
+   1 Wind Shard
+   1 Lightning Shard
+   1 Undyed Hempen Cloth
+   1 Hempen Yarn
+
+Hempen Underpants (Level 2)
+   1 Wind Shard
+   1 Lightning Shard
+   1 Undyed Hempen Cloth
+   2 Hempen Yarn
+
+Hempen Pantalettes (Level 2)
+   1 Wind Shard
+   1 Lightning Shard
+   1 Undyed Hempen Cloth
+   2 Hempen Yarn
+
+Hempen Breeches of Crafting (Level 3)
+   1 Wind Shard
+   1 Lightning Shard
+   1 Leather
+   3 Undyed Hempen Cloth
+   1 Hempen Yarn
+
+Hempen Camise (Level 3)
+   1 Wind Shard
+   1 Lightning Shard
+   2 Undyed Hempen Cloth
+   1 Hempen Yarn
+   
+Hempen Coif (Level 3)
+   1 Wind Shard
+   1 Lightning Shard
+   1 Leather
+   1 Undyed Hempen Cloth
+   1 Hempen Yarn
+
+Hempen Undershirt (Level 3)
+   1 Wind Shard
+   1 Lightning Shard
+   2 Undyed Hempen Cloth
+   1 Hempen Yarn
+
+Hempen Breeches (Level 4)
+   1 Wind Shard
+   1 Lightning Shard
+   1 Leather
+   2 Undyed Hempen Cloth
+   1 Hempen Yarn
+
+Hempen Dalmatica (Level 4)
+   1 Wind Shard
+   1 Lightning Shard
+   1 Animal Sinew
+   2 Undyed Hempen Cloth
+   1 Hempen Yarn
+
+Hempen Shepherd's Slops (Level 4)
+   1 Wind Shard
+   1 Lightning Shard
+   1 Leather
+   1 Animal Sinew
+   2 Undyed Hempen Cloth
+
+Hempen Coif of Gathering (Level 4)
+   1 Wind Shard
+   1 Lightning Shard
+   1 Leather
+   1 Undyed Hempen Cloth
+   1 Hempen Yarn
+
+Hempen Kurta (Level 4)
+   1 Wind Shard
+   1 Lightning Shard
+   3 Undyed Hempen Cloth
+   1 Hempen Yarn
+
+Hempen Cowl (Level 5)
+   1 Wind Shard
+   1 Lightning Shard
+   4 Undyed Hempen Cloth
+   1 Hempen Yarn
+
+Hempen Bandana (Level 5)
+   1 Wind Shard
+   1 Lightning Shard
+   3 Undyed Hempen Cloth
+
+Hempen Tights (Level 5)
+   1 Wind Shard
+   1 Lightning Shard
+   2 Undyed Hempen Cloth
+   1 Hempen Yarn
+
+Hempen Chausses (Level 5)
+   1 Wind Shard
+   1 Lightning Shard
+   3 Undyed Hempen Cloth
+   1 Hempen Yarn
+
+Hempen Sarouel (Level 5)
+   1 Wind Shard
+   1 Lightning Shard
+   1 Leather
+   1 Animal Sinew
+   1 Undyed Hempen Cloth
+   1 Hempen Yarn
+
+Hempen Tunic (Level 5)
+   1 Wind Shard
+   1 Lightning Shard
+   1 Leather
+   2 Undyed Hempen Cloth
+   1 Hempen Yarn
+
+Hempen Dalmatica of Gathering (Level 5)
+   1 Wind Shard
+   1 Lightning Shard
+   1 Animal Sinew
+   2 Undyed Hempen Cloth
+   1 Hempen Yarn
+
+Recipes level 6 through 10
+Hempen Shortgloves (Level 6)
+   1 Wind Shard
+   1 Lightning Shard
+   2 Undyed Hempen Cloth
+   1 Hempen Yarn
+
+Hempen Shepherd's Tunic (Level 6)
+   1 Wind Shard
+   1 Lightning Shard
+   1 Copper Ingot
+   2 Undyed Hempen Cloth
+   1 Hempen Yarn
+
+Hempen Hat (Level 6)
+   1 Wind Shard
+   1 Lightning Shard
+   2 Undyed Hempen Cloth
+   1 Hempen Yarn
+   1 Cock Feather
+
+Hempen Tabard (Level 6)
+   1 Wind Shard
+   1 Lightning Shard
+   1 Leather
+   1 Animal Sinew
+   1 Undyed Hempen Cloth
+   1 Hempen Yarn
+
+Hempen Halfrobe (Level 7)
+   1 Wind Shard
+   1 Lightning Shard
+   3 Undyed Hempen Cloth
+   2 Hempen Yarn
+
+Hempen Work Gloves (Level 7)
+   1 Wind Shard
+   1 Lightning Shard
+   2 Undyed Hempen Cloth
+   1 Hempen Yarn
+   1 Moko Grass
+
+Hempen Sash (Level 7)
+   1 Wind Shard
+   1 Lightning Shard
+   3 Undyed Hempen Cloth
+
+Hempen Gaskins (Level 8)
+   1 Wind Shard
+   1 Lightning Shard
+   2 Leather
+   1 Undyed Hempen Cloth
+   1 Hempen Yarn
+
+Hempen Kecks (Level 8)
+   1 Wind Shard
+   1 Lightning Shard
+   1 Copper Ingot
+   1 Leather
+   2 Undyed Hempen Cloth
+   1 Hempen Yarn
+
+Hempen Acton (Level 8)
+   1 Wind Shard
+   1 Lightning Shard
+   2 Undyed Hempen Cloth
+   1 Hempen Yarn
+   1 Moko Grass
+
+Amateur's Kurta (Level 9)
+   1 Wind Shard
+   1 Lightning Shard
+   3 Undyed Hempen Cloth
+   1 Hempen Yarn
+
+Amateur's Doublet Vest (Level 9)
+   1 Wind Shard
+   1 Lightning Shard
+   1 Copper Ingot
+   1 Leather
+   1 Undyed Hempen Cloth
+   1 Hempen Yarn
+
+Hempen Bottoms (Level 9)
+   1 Wind Shard
+   1 Lightning Shard
+   1 Copper Ingot
+   2 Undyed Hempen Cloth
+   1 Hempen Yarn
+
+Amateur's Slops (Level 9)
+   1 Wind Shard
+   1 Lightning Shard
+   1 Leather
+   1 Animal Sinew
+   2 Undyed Hempen Cloth
+
+Amateur's Breeches (Level 10)
+   1 Wind Shard
+   1 Lightning Shard
+   1 Leather
+   2 Undyed Hempen Cloth
+   1 Hempen Yarn
+
+Amateur's Dalamatica (Level 10)
+   1 Wind Shard
+   1 Lightning Shard
+   2 Undyed Hempen cloth
+   1 Hempen Yarn
+   1 Cock Feather
+
+Amateur's Hempen Coif (Level 10)
+   1 Wind Shard
+   1 Lightning Shard
+   1 Hard Leather
+   1 Undyed Hempen Cloth
+   1 Hempen Yarn
+
+Hempen Trousers (Level 10)
+   1 Wind Shard
+   1 Lightning Shard
+   1 Bronze Rivets
+   1 Leather
+   1 Animal Sinew
+   1 Undyed Hempen Cloth
+   1 Hempen Yarn
+
+Recipes level 11 through 15
+Hempen Dress Gloves (Level 11)
+   1 Wind Shard
+   1 Lightning Shard
+   2 Undyed Hempen Cloth
+   2 Hempen Yarn
+
+Hempen Bracers (Level 11)
+   1 Wind Shard
+   1 Lightning Shard
+   1 Bronze Ingot
+   1 Hard Leather
+   2 Undyed Hempen Cloth
+
+Straw Hat (Level 11)
+   1 Wind Shard
+   1 Lightning Shard
+   3 Straw
+
+Cotton Yarn (Level 12)
+   1 Lightning Shard
+   2 Cotton Boll
+
+Stablemaid's Hat (Level 12)
+   1 Wind Shard
+   1 Lightning Shard
+   3 Straw
+   1 Carnation
+
+Hempen Doublet Vest of Gathering (Level 12)
+   1 Wind Shard
+   1 Lightning Shard
+   1 Copper Ingot
+   1 Leather
+   1 Undyed Hempen Cloth
+   1 Hempen Yarn
+
+Hempen Doublet Vest of Crafting (Level 12)
+   1 Wind Shard
+   1 Lightning Shard
+   1 Copper Ingot
+   1 Leather
+   1 Undyed Hempen Cloth
+   1 Hempen Yarn
+
+Hempen Robe (Level 12)
+   1 Wind Shard
+   1 Lightning Shard
+   3 Undyed Hempen Cloth
+   2 Hempen Yarn
+
+Stablehand's Hat (Level 13)
+   1 Wind Shard
+   1 Lightning Shard
+   1 Undyed Cotton Cloth
+   3 Straw
+
+Striped Cotton Slops (Level 13)
+   1 Wind Shard
+   1 Lightning Shard
+   1 Hard Leather
+   1 Animal Sinew
+   2 Undyed Cotton Cloth
+
+Cotton Turban (Level 13)
+   1 Wind Shard
+   1 Lightning Shard
+   3 Undyed Cotton Cloth
+
+Undyed Cotton Cloth (Level 13)
+   1 Lightning Shard
+   2 Cotton Yarn
+
+Cotton Tights (Level 14)
+   1 Wind Shard
+   1 Lightning Shard
+   2 Undyed Cotton Cloth
+   1 Cotton Yarn
+
+Cotton Chausses (Level 14)
+   1 Wind Shard
+   1 Lightning Shard
+   3 Undyed Cotton Cloth
+   1 Cotton Yarn
+
+Cotton Cowl (Level 14)
+   1 Wind Shard
+   1 Lightning Shard
+   2 Undyed Hempen Cloth
+   2 Undyed Cotton Cloth
+   1 Cotton Yarn
+
+Cotton Longsash (Level 14)
+   1 Wind Shard
+   1 Lightning Shard
+   3 Undyed Cotton Cloth
+   1 Hempen Yarn
+
+Cotton Shirt (Level 14)
+   1 Wind Shard
+   1 Lightning Shard
+   2 Hard Leather
+   1 Undyed Cotton cloth
+   1 Cotton Yarn
+
+Cotton Sarouel (Level 14)
+   1 Wind Shard
+   1 Lightning Shard
+   1 Hard Leather
+   1 Beast Sinew
+   1 Undyed Cotton Cloth
+   1 Cotton Yarn
+
+Cotton Shepherd's Slops (Level 15)
+   1 Wind Shard
+   1 Lightning Shard
+   1 Undyed Hempen Cloth
+   2 Undyed Cotton Cloth
+   1 Cotton Yarn
+
+Cotton Scarf (Level 15)
+   1 Wind Shard
+   1 Lightning Shard
+   2 Undyed Cotton Cloth
+   1 Cotton Yarn
+
+Cotton Halfgloves (Level 15)
+   1 Wind Shard
+   1 Lightning Shard
+   1 Undyed Cotton Yarn
+   1 Cotton Yarn
+
+Recipes level 16 through 20
+Rope Belt (Level 16)
+   1 Wind Shard
+   1 Lightning Shard
+   3 Straw
+
+Cotton Tabard (Level 16)
+   1 Wind Shard
+   1 Lightning Shard
+   1 Hard Leather
+   1 Animal Sinew
+   2 Undyed Cotton Cloth
+   1 Cotton Yarn
+
+Hunting Hat (Level 16)
+   1 Wind Shard
+   1 Lightning Shard
+   1 Hard Leather
+   1 Undyed Cotton Cloth
+   1 Cotton Yarn
+
+Padded Hempen Trousers (Level 16)
+   1 Wind Shard
+   1 Lightning Shard
+   1 Hard Leather
+   1 Beast Sinew
+   1 Undyed Hempen Cloth
+   1 Cotton Yarn
+
+Cotton Shepherd's Tunic (Level 16)
+   1 Wind Shard
+   1 Lightning Shard
+   1 Brass Ingot
+   2 Undyed Cotton Cloth
+   1 Cotton Yarn
+
+Cotton Trousers (Level 16)
+   1 Wind Shard
+   1 Lightning Shard
+   1 Bronze Rivets
+   1 Leather
+   1 Animal Sinew
+   1 Undyed Cotton Cloth
+   1 Cotton Yarn
+
+Cotton Dalmatica (Level 17)
+   1 Wind Shard
+   1 Lightning Shard
+   1 Beast Sinew
+   2 Undyed Cotton cloth
+   1 Cotton Yarn
+
+Cotton Dalmatica of Gathering (Level 17)
+   1 Wind Shard
+   1 Lightning Shard
+   1 Beast Sinew
+   2 Undyed Cotton Cloth
+   1 Cotton Yarn
+
+Cotton Kurta (Level 18)
+   1 Wind Shard
+   1 Lightning Shard
+   3 Undyed Cotton Cloth
+   1 Cotton Yarn
+
+Cotton Breeches of Crafting (Level 19)
+   1 Wind Shard
+   1 Lightning Shard
+   1 Leather
+   2 Undyed Cotton Cloth
+   1 Cotton Yarn
+
+Cotton Breeches (Level 19)
+   1 Wind Shard
+   1 Lightning Shard
+   1 Leather
+   2 Undyed Cotton Cloth
+   1 Cotton Yarn
+
+Cotton Coif of Gathering (Level 19)
+   1 Wind Shard
+   1 Lightning Shard
+   1 Hard Leather
+   1 Undyed Cotton Cloth
+   1 Cotton Yarn
+
+Cotton Coif (Level 19)
+   1 Wind Shard
+   1 Lightning Shard
+   1 Hard Leather
+   1 Undyed Cotton Cloth
+   1 Cotton Yarn
+
+Cotton Acton (Level 19)
+   1 Wind Shard
+   1 Lightning Shard
+   2 Undyed Cotton Cloth
+   1 Cotton Yarn
+   1 Dodo Feather
+
+Initiate's Doublet Vest (Level 20)
+   1 Wind Shard
+   1 Lightning Shard
+   1 Brass Ingot
+   1 Hard Leather
+   1 Undyed Cotton Cloth
+   1 Cotton Yarn
+
+Initiate's Slops (Level 20)
+   1 Wind Shard
+   1 Lightning Shard
+   1 Beast Sinew
+   2 Undyed Cotton Cloth
+   1 Cotton Yarn
+
+Padded Cotton Trousers (Level 20)
+   1 Wind Shard
+   1 Lightning Shard
+   1 Iron Rivets
+   1 Hard Leather
+   1 Animal Sinew
+   1 Undyed Cotton Cloth
+   1 Cotton Yarn
+
+Cotton Work Gloves (Level 20)
+   1 Wind Shard
+   1 Lightning Shard
+   1 Undyed Cotton Cloth
+   1 Cotton Yarn
+   1 Cotton Boll
+
+Recipes level 21 through 25
+Cotton Dress Gloves (Level 21)
+   1 Wind Shard
+   2 Lightning Shard
+   2 Undyed Cotton Cloth
+   2 Cotton Yarn
+
+Cotton Sash (Level 21)
+   1 Wind Shard
+   2 Lightning Shard
+   3 Undyed Cotton Cloth
+   1 Cotton Yarn
+
+Cotton Halfrobe (Level 22)
+   1 Wind Shard
+   2 Lightning Shard
+   3 Undyed Cotton Cloth
+   2 Cotton Yarn
+
+Cotton Gaskins (Level 22)
+   1 Wind Shard
+   2 Lightning Shard
+   2 Hard Leather
+   1 Undyed Cotton Cloth
+   1 Cotton Yarn
+
+Cotton Dress Shoes (Level 22)
+   1 Wind Shard
+   2 Lightning Shard
+   2 Undyed Cotton Cloth
+   1 Cotton Yarn
+   1 Rubber
+
+Cotton Bracers (Level 23)
+   1 Wind Shard
+   2 Lightning shard
+   1 Iron Ingot
+   1 Hard Leather
+   2 Undyed Cotton Cloth
+
+Cotton Trapper's Tunic (Level 23)
+   1 Wind Shard
+   1 Lightning Shard
+   1 Hard Leather
+   1 Beast Sinew
+   2 Undyed Cotton Cloth
+   1 Cotton Yarn
+
+Cotton Sugarloaf Hat (Level 23)
+   1 Wind Shard
+   2 Lightning Shard
+   1 Iron Ingot
+   1 Undyed Cotton Cloth
+   1 Cotton Yarn
+
+Cotton Doublet Vest Of Crafting (Level 23)
+   1 Wind Shard
+   2 Lightning Shard
+   1 Brass Ingot
+   1 Hard Leather
+   1 Undyed Cotton Cloth
+   1 Cotton Yarn
+
+Cotton Doublet Vest Of Gathering (Level 23)
+   1 Wind Shard
+   2 Lightning Shard
+   1 Brass Ingot
+   1 Hard Leather
+   1 Undyed Cotton Cloth
+   1 Cotton Yarn
+
+Dew Thread (Level 23)
+   2 Lightning Shard
+   2 Diremite Web
+
+Velveteen Halfgloves (Level 24)
+   2 Wind Shard
+   2 Lightning Shard
+   1 Undyed Velveteen
+   1 Dew Thread
+
+Velveteen Chausses (Level 24)
+   2 Wind Shard
+   2 Lightning Shard
+   3 Undyed Velveteen
+   1 Dew Thread
+
+Cotton Robe (Level 24)
+   2 Wind Shard
+   2 Lightning Shard
+   3 Undyed Cotton Cloth
+   2 Dew Thread
+
+Initiate's Gown (Level 24)
+   2 Wind Shard
+   2 Lightning Shard
+   1 Iron Ingot
+   2 Undyed Velveteen
+   1 Dew Thread
+   1 Cotton Boll
+
+Cotton Kecks (Level 24)
+   2 Wind Shard
+   2 Lightning Shard
+   1 Iron Ingot
+   1 Leather
+   2 Undyed Cotton Cloth
+   1 Cotton Yarn
+
+Undyed Velveteen (Level 24)
+   2 Lightning Shard
+   1 Cotton Yarn
+   1 Dew Thread
+
+Striped Velveteen Slops (Level 25)
+   2 Wind Shard
+   2 Lightning Shard
+   1 Aldgoat Leather
+   1 Beast Sinew
+   2 Undyed Velveteen
+
+Velveteen Sarouel Of Gathering (Level 25)
+   2 Wind Shard
+   2 Lightning Shard
+   1 Aldgoat Leather
+   1 Beast Sinew
+   1 Undyed Velveteen
+   1 Dew Thread
+
+Velveteen Sarouel (Level 25)
+   2 Wind Shard
+   2 Lightning Shard
+   1 Aldgoat Leather
+   1 Beast Sinew
+   1 Undyed Velveteen
+   1 Dew Thread
+
+Velveteen Bandana (Level 25)
+   2 Wind Shard
+   2 Lightning Shard
+   3 Undyed Velveteen
+   1 Bat Fang
+   1 Sunrise Tellin
+
+Recipes level 26 through 30
+Velveteen Shirt (Level 26)
+   2 Wind Shard
+   2 Lightning Shard
+   2 Aldgoat Leather
+   1 Undyed Velveteen
+   1 Dew Thread
+
+Velveteen Turban (Level 26)
+   2 Wind Shard
+   2 Lightning Shard
+   3 Undyed Velveteen
+
+Tarred Velveteen Longsash (Level 26)
+   2 Wind Shard
+   2 Lightning Shard
+   3 Undyed Velveteen
+   1 Cotton Yarn
+
+Velveteen Tights (Level 27)
+   2 Wind Shard
+   3 Lightning Shard
+   2 Undyed Velveteen
+   1 Dew Thread
+
+Velveteen Cowl (Level 27)
+   2 Wind Shard
+   3 Lightning Shard
+   4 Undyed Velveteen
+   1 Dew Thread
+
+Velveteen Wedge Cap Of Crafting (Level 27)
+   2 Wind Shard
+   3 Lightning Shard
+   1 Undyed Cotton Cloth
+   1 Dew Thread
+   1 Undyed Velveteen
+
+Velveteen Wedge Cap Of Gathering (Level 28)
+   2 Wind Shard
+   3 Lightning Shard
+   1 Undyed Cotton Cloth
+   1 Undyed Velveteen
+   1 Dew Thread
+
+Velveteen Rope Belt (Level 27)
+   2 Wind Shard
+   3 Lightning Shard
+   3 Undyed Velveteen
+
+Velveteen Coatee Of Gathering (Level 28)
+   2 Wind Shard
+   3 Lightning Shard
+   1 Silver Ingot
+   2 Undyed Velveteen
+   2 Dew Thread
+
+Velveteen Half Apron (Level 28)
+   2 Wind Shard
+   3 Lightning Shard
+   1 Silver Ingot
+   2 Undyed Velveteen
+   1 Dew Thread
+
+Velveteen Gaiters (Level 28)
+   2 Wind Shard
+   3 Lightning Shard
+   1 Silver Ingot
+   1 Undyed Cotton Cloth
+   1 Undyed Velveteen
+   1 Rubber
+
+Velveteen Trousers (Level 28)
+   2 Wind Shard
+   3 Lightning Shard
+   1 Iron Rivets
+   1 Aldgoat Leather
+   1 Beast Sinew
+   1 Undyed Velveteen
+   1 Dew Thread
+
+Velveteen Beret (Level 29)
+   2 Wind Shard
+   3 Lightning Shard
+   2 Undyed Velveteen
+   1 Dew Thread
+   1 Cotton Boll
+   1 Dodo Feather
+
+Velveteen Shortgloves (Level 29)
+   2 Wind Shard
+   3 Lightning Shard
+   2 Undyed Velveteen
+   2 Dew Thread
+
+Velveteen Coatee Of Crafting (Level 29)
+   2 Wind Shard
+   3 Lightning Shard
+   1 Silver Ingot
+   2 Undyed Velveteen
+   2 Dew Thread
+
+Velveteen Dress Shoes (Level 30)
+   3 Wind Shard
+   3 Lightning Shard
+   2 Undyed Velveteen
+   1 Dew Thread
+   1 Rubber
+
+Velveteen Bottom (Level 30)
+   3 Wind Shard
+   3 Lightning Shard
+   1 Iron Ingot
+   2 Undyed Velveteen
+   1 Dew Thread
+
+Velveteen Gown (Level 30)
+   3 Wind Shard
+   3 Lightning Shard
+   1 Silver Ingot
+   2 Undyed Velveteen
+   1 Dew Thread
+   1 Cotton Boll
+
+Padded Velveteen Trousers (Level 30)
+   3 Wind Shard
+   3 Lightning Shard
+   1 Iron Rivets
+   1 Toad Leather
+   1 Diremite Sinew
+   1 Undyed Velveteen
+   1 Dew Thread
+
+Velveteen Work Gloves (Level 30)
+   3 Wind Shard
+   3 Lightning Shard
+   2 Undyed Velveteen
+   1 Dew Thread
+   1 Cotton Boll
+
+Recipes level 31 to 35
+Velveteen Dress Gloves (Level 31)
+   3 Wind Shard
+   3 Lightning Shard
+   2 Undyed Velveteen
+   2 Dew Thread
+
+Velveteen Sash (Level 31)
+   3 Wind Shard
+   3 Lightning Shard
+   3 Undyed Velveteen
+   1 Dew Thread
+
+Velveteen Gaskins (Level 31)
+   3 Wind Shard
+   3 Lightning Shard
+   1 Toad Leather
+   1 Undyed Velveteen
+   1 Dew Thread
+
+Velveteen Robe (Level 31)
+   3 Wind Shard
+   3 Lightning Shard
+   1 Silver Ingot
+   3 Undyed Velveteen
+   2 Dew Thread
+
+Velveteen Sugarloaf Hat (Level 32)
+   3 Wind Shard
+   3 Lightning Shard
+   1 Steel Ingot
+   1 Undyed Velveteen
+   1 Dew Thread
+
+Velveteen Doublet Vest Of Crafting (Level 32)
+   3 Wind Shard
+   3 Lightning Shard
+   1 Silver Ingot
+   1 Aldgoat Leather
+   1 Undyed Velveteen
+   1 Dew Thread
+   1 Brimstone
+
+Linen Yarn (Level 32)
+   3 Lightning Shard
+   2 Flax
+
+Velveteen Doublet Vest Of Gathering (Level 33)
+   3 Wind Shard
+   4 Lightning Shard
+   1 Silver Ingot
+   1 Aldgoat Leather
+   1 Undyed Velveteen
+   1 Dew Thread
+   1 Brimstone
+
+Undyed Linen (Level 33)
+   4 Lightning Shard
+   2 Linen Yarn
+
+Linen Halfgloves (Level 33)
+   3 Wind Shard
+   4 Lightning Shard
+   1 Undyed Linen
+   1 Linen Yarn
+
+Linen Chausses (Level 33)
+   3 Wind Shard
+   4 Lightning Shard
+   3 Undyed Linen
+   1 Linen Yarn
+
+Linen Sarouel (Level 34)
+   3 Wind Shard
+   4 Lightning Shard
+   1 Aldgoat Leather
+   1 Diremite Sinew
+   1 Undyed Linen
+   1 Linen Yarn
+
+Linen Sarouel Of Gathering (Level 34)
+   3 Wind Shard
+   4 Lightning Shard
+   1 Aldgoat Leather
+   1 Diremite Sinew
+   1 Undyed Linen
+   1 Linen Yarn
+
+Linen Turban (Level 34)
+   3 Wind Shard
+   4 Lightning Shard
+   3 Undyed Linen
+
+Linen Shirt (Level 34)
+   3 Wind Shard
+   4 Lightning Shard
+   2 Aldgoat Leather
+   1 Undyed Linen
+   1 Linen Yarn
+
+Linen Tights (Level 35)
+   3 Wind Shard
+   4 Lightning Shard
+   2 Undyed Linen
+   1 Linen Yarn
+
+Linen Hat (Level 35)
+   3 Wind Shard
+   4 Lightning Shard
+   2 Undyed Linen
+   1 Linen Yarn
+   1 Crow Feather
+
+Linen Robe (Level 35)
+   3 Wind Shard
+   4 Lightning Shard
+   3 Undyed Linen
+   2 Linen Yarn
+   1 Sunrise Tellin
+
+Vintage Half Apron (Level 35)
+   1 Lightning Crystal
+   1 Greasy Half Apron
+   1 Iron Ingot
+   1 Undyed Cotton Cloth
+   1 Cotton Yarn
+
+Recipes level 36 to 40
+Linen Longsash (Level 36)
+   4 Wind Shard
+   4 Lightning Shard
+   3 Undyed Linen
+   1 Cotton Yarn
+
+Linen Cowl (Level 36)
+   4 Wind Shard
+   4 Lightning Shard
+   4 Undyed Linen
+   1 Linen Yarn
+
+Linen Trousers (Level 36)
+   4 Wind Shard
+   4 Lightning Shard
+   1 Steel Rivets
+   1 Toad Leather
+   1 Diremite Sinew
+   1 Undyed Linen
+   1 Linen Yarn
+
+Angler's Hat (Level 36)
+   4 Wind Shard
+   4 Lightning Shard
+   1 Peiste Leather
+   1 Undyed Linen
+   3 Straw
+
+Vintage Coatee (Level 37)
+   1 Lightning Crystal
+   1 Moth-Eaten Coatee
+   1 Iron Ingot
+   2 Undyed Cotton Cloth
+   1 Cotton Yarn
+
+Linen Wedge Cap Of Crafting (Level 37)
+   4 Wind Shard
+   4 Lightning Shard
+   1 Electrum Ingot
+   2 Undyed Linen
+   1 Linen Yarn
+
+Linen Half Apron (Level 37)
+   4 Wind Shard
+   4 Lightning Shard
+   1 Electrum Ingot
+   2 Undyed Linen
+   1 Linen Yarn
+
+Linen Gaiters (Level 37)
+   4 Wind Shard
+   4 Lightning Shard
+   1 Electrum Ingot
+   1 Undyed Velveteen
+   1 Undyed Linen
+   1 Rubber
+
+Linen Bottom (Level 37)
+   4 Wind Shard
+   4 Lightning Shard
+   1 Undyed Velveteen
+   1 Undyed Linen
+   1 Linen Yarn
+
+Linen Coatee Of Crafting (Level 38)
+   4 Wind Shard
+   4 Lightning Shard
+   1 Electrum Ingot
+   2 Undyed Linen
+   2 Linen Yarn
+
+Woolen Yarn (Level 38)
+   4 Lightning Shard
+   2 Fleece
+
+Vintage Doublet Vest (Level 38)
+   1 Wind Crystal
+   1 Frayed Cotton Doublet Vest
+   1 Brass Ingot
+   2 Hard Leather
+   1 Undyed Cotton Cloth
+   1 Cotton Yarn
+
+Linen Wedge Cap Of Gathering (Level 38)
+   4 Wind Shard
+   4 Lightning Shard
+   1 Electrum Ingot
+   2 Undyed Linen
+   1 Linen Yarn
+
+Linen Coatee Of Gathering (Level 38)
+   4 Wind Shard
+   4 Lightning Shard
+   1 Electrum Ingot
+   2 Undyed Linen
+   2 Linen Yarn
+
+Linen Shortgloves (Level 38)
+   4 Wind Shard
+   4 Lightning Shard
+   2 Undyed Linen
+   1 Linen Yarn
+
+Linen Gaskins (Level 39)
+   4 Wind Shard
+   5 Lightning Shard
+   2 Boar Leather
+   1 Undyed Linen
+   1 Linen Yarn
+
+Linen Bliaud (Level 39)
+   4 Wind Shard
+   5 Lightning Shard
+   1 Boar Leather
+   1 Hippogryph Sinew
+   3 Undyed Woolen Cloth
+   2 Woolen Yarn
+
+Woolen Sash (Level 39)
+   4 Wind Shard
+   5 Lightning Shard
+   3 Undyed Woolen Cloth
+   1 Woolen Yarn
+
+Padded Linen Trousers (Level 39)
+   4 Wind Shard
+   5 Lightning Shard
+   1 Steel Rivets
+   1 Boar Leather
+   1 Diremite Sinew
+   1 Undyed Linen
+   1 Linen Yarn
+
+Undyed Woolen Cloth (Level 39)
+   5 Lightning Shard
+   2 Woolen Yarn
+
+Woolen Coif (Level 39)
+   4 Wind Shard
+   5 Lightning Shard
+   1 Aldgoat Leather
+   1 Undyed Woolen Cloth
+   1 Linen Yarn
+
+Woolen Shirt (Level 39)
+   4 Wind Shard
+   5 Lightning Shard
+   2 Aldgoat Leather
+   1 Undyed Woolen Cloth
+   1 Woolen Yarn
+
+Woolen Turban (Level 39)
+   4 Wind Shard
+   5 Lightning Shard
+   1 Aldgoat Leather
+   3 Undyed Woolen Cloth
+
+Woolen Sarouel Of Gathering (Level 40)
+   4 Wind Shard
+   5 Lightning Shard
+   1 Aldgoat Leather
+   1 Diremite Sinew
+   1 Undyed Woolen Cloth
+   1 Woolen Yarn
+
+Linen Deerkstalker (Level 40)
+   4 Wind Shard
+   5 Lightning Shard
+   1 Undyed Velveteen
+   1 Undyed Linen
+   2 Linen Yarn
+
+Woolen Hat (Level 40)
+   4 Wind Shard
+   5 Lightning Shard
+   2 Undyed Woolen Cloth
+   1 Woolen Yarn
+   1 Dodo Feather
+
+Vintage Chef's Apron (Level 40)
+   1 Lightning Crystal
+   1 Stained Chef's Apron
+   1 Undyed Linen
+   1 Dew Thread
+
+Woolen Coif Of Gathering (Level 40)
+   4 Wind Shard
+   5 Lightning Shard
+   1 Aldgoat Leather
+   1 Undyed Woolen Cloth
+   1 Linen Yarn
+
+Woolen Sarouel (Level 40)
+   4 Wind Shard
+   5 Lightning Shard
+   1 Aldgoat Leather
+   1 Diremite Sinew
+   1 Undyed Woolen Cloth
+   1 Woolen Yarn
+
+Recipes level 41 through 45
+Woolen Dress Gloves (Level 41)
+   4 Wind Shard
+   5 Lightning Shard
+   2 Undyed Woolen Cloth
+   1 Woolen Yarn
+
+Vintage Chef's Hat (Level 41)
+   1 Lightning Crystal
+   1 Ripped Chef's Hat
+   1 Undyed Velveteen
+   1 Undyed Linen
+   1 Dew Thread
+
+Linen Smock (Level 41)
+   4 Wind Shard
+   5 Lightning Shard
+   1 Undyed Velveteen
+   2 Undyed Linen
+   1 Linen Yarn
+   1 Lanolin
+
+Woolen Robe (Level 41)
+   4 Wind Shard
+   5 Lightning Shard
+   1 Mythril Ingot
+   3 Undyed Woolen Cloth
+   2 Woolen Yarn
+
+Woolen Tights (Level 41)
+   4 Wind Shard
+   5 Lightning Shard
+   2 Undyed Woolen Cloth
+   1 Woolen Yarn
+
+Woolen Dress Shoes (Level 42)
+   5 Wind Shard
+   5 Lightning Shard
+   2 Undyed Woolen Cloth
+   1 Woolen Yarn
+   1 Rubber
+
+Woolen Chausses (Level 42)
+   5 Wind Shard
+   5 Lightning Shard
+   1 Undyed Linen
+   2 Undyed Woolen Cloth
+   1 Woolen Yarn
+
+Woolen Gaskins (Level 42)
+   5 Wind Shard
+   5 Lightning Shard
+   2 Toad Leather
+   1 Undyed Woolen Cloth
+   1 Dew Thread
+
+Ranger's Tunic (Level 42)
+   5 Wind Shard
+   5 Lightning Shard
+   1 Aldgoat Leather
+   1 Hippogryph Sinew
+   2 Undyed Woolen Cloth
+   1 Woolen Yarn
+
+Woolen Bracers (Level 42)
+   5 Wind Shard
+   5 Lightning Shard
+   1 Aldgoat Leather
+   1 Boar Leather
+   1 Hippogryph Sinew
+   1 Undyed Woolen Cloth
+
+Woolen Kecks (Level 42)
+   5 Wind Shard
+   5 Lightning Shard
+   1 Steel Ingot
+   1 Boar Leather
+   1 Undyed Linen
+   1 Undyed Woolen Cloth
+   1 Woolen Yarn
+
+Woolen Gown (Level 42)
+   5 Wind Shard
+   5 Lightning Shard
+   1 Mythril Ingot
+   1 Undyed Linen
+   2 Undyed Woolen Cloth
+   1 Woolen Yarn
+
+Ranger's Hat (Level 42)
+   5 Wind Shard
+   5 Lightning Shard
+   1 Boar Leather
+   1 Undyed Woolen Cloth
+   1 Dew Thread
+   1 Chocobo Feather
+   
+Woolen Beret (Level 42)
+   5 Wind Shard
+   5 Lightning Shard
+   1 Undyed Woolen Cloth
+   1 Woolen Yarn
+   1 Apkallu Down
+   1 Chocobo Feather
+
+Linen Doublet (Level 42)
+   5 Wind Shard
+   5 Lightning Shard
+   1 Steel Ingot
+   1 Boar Leather
+   2 Undyed Linen
+   1 Linen Yarn
+
+Linen Slops (Level 42)
+   5 Wind Shard
+   5 Lightning Shard
+   1 Boar Leather
+   2 Undyed Linen
+   1 Linen Yarn
+
+Woolen Cavalier's Hat (Level 42)
+   5 Wind Shard
+   5 Lightning Shard
+   1 Brass Ingot
+   1 Undyed Woolen Cloth
+   1 Woolen Yarn
+   1 Wildfowl Feather
+
+Felt Coif (Level 43)
+   5 Wind Shard
+   5 Lightning Shard
+   1 Aldgoat Leather
+   1 Undyed Felt
+   1 Woolen Yarn
+
+Vintage Hose (Level 43)
+   1 Wind Crystal
+   1 Ripped Hose
+   1 Linen Yarn
+
+Woolen Halfgloves (Level 43)
+   5 Wind Shard
+   5 Lightning Shard
+   1 Mythril Ingot
+   1 Boar Leather
+   1 Undyed Woolen Cloth
+   1 Woolen Yarn
+
+Woolen Work Gloves (Level 43)
+   5 Wind Shard
+   5 Lightning Shard
+   1 Toad Leather
+   2 Undyed Woolen Cloth
+   1 Cotton Boll
+
+Woolen Trousers (Level 43)
+   5 Wind Shard
+   5 Light Shard
+   1 Mythril Rivets
+   1 Boar Leather
+   1 Raptor Sinew
+   1 Undyed Woolen Cloth
+   1 Woolen Yarn
+
+Woolen Bliaud (Level 43)
+   5 Wind Shard
+   5 Light Shard
+   1 Toad Leather
+   1 Hippogryph Sinew
+   3 Undyed Woolen Cloth
+   1 Woolen Yarn
+
+Undyed Felt (Level 43)
+   5 Light Shard
+   2 Fleece
+   1 Snurble Tufts
+   1 Natron
+
+Felt Robe (Level 44)
+   5 Wind Shard
+   5 Light Shard
+   1 Electrum Ingot
+   3 Undyed Felt
+   2 Woolen Yarn
+
+Felt Hat (Level 44)
+   5 Wind Shard
+   5 Light Shard
+   1 Electrum Ingot
+   2 Undyed Felt
+   1 Woolen Yarn
+   1 Wildfowl Feather
+
+Woolen Doublet (Level 44)
+   5 Wind Shard
+   5 Light Shard
+   1 Cobalt Ingot
+   1 Raptor Leather
+   2 Undyed Woolen Cloth
+   1 Woolen Yarn
+
+Woolen Deerstalker (Level 44)
+   5 Wind Shard
+   5 Light Shard
+   2 Undyed Woolen Cloth
+   2 Woolen Yarn
+
+Woolen Slops (Level 44)
+   5 Wind Shard
+   5 Light Shard
+   1 Raptor Leather
+   2 Undyed Woolen Cloth
+   1 Woolen Yarn
+
+Woolen Smock (Level 44)
+   5 Wind Shard
+   5 Light Shard
+   1 Undyed Linen
+   2 Undyed Woolen Cloth
+   1 Woolen Yarn
+   1 Lanolin
+
+Felt Coif Of Gathering (Level 44)
+   5 Wind Shard
+   5 Light Shard
+   1 Aldgoat Leather
+   1 Undyed Felt
+   1 Woolen Yarn
+
+Vintage Seneschal Coatee (Level 44)
+   1 Lightning Crystal
+   1 Moth-Eaten Seneschal Coatee
+   1 Silver Ingot
+   1 Undyed Velveteen
+   1 Undyed Linen
+   1 Linen Yarn
+
+Felt Sash (Level 45)
+   5 Wind Shard
+   6 Light Shard
+   3 Undyed Felt
+   1 Woolen Yarn
+
+Vintage Jester's Cap (Level 45)
+   1 Wind Crystal
+   1 Moldering Jester's Cap
+   1 Undyed Woolen Cloth
+
+Felt Kecks (Level 45)
+   5 Wind Shard
+   6 Lightning Shard
+   1 Mythril Ingot
+   1 Raptor Leather
+   1 Undyed Woolen Cloth
+   1 Undyed Felt
+   1 Woolen Yarn
+
+Felt Chausses (Level 45)
+   5 Wind Shard
+   6 Light Shard
+   1 Undyed Woolen Cloth
+   2 Undyed Felt
+   1 Woolen Yarn
+
+Rainmaker's Runic (Level 45)
+   5 Wind Shard
+   6 Light Shard
+   1 Boar Leather
+   1 Raptor Sinew
+   2 Undyed Felt
+   1 Woolen Yarn
+
+Rainmaker's Hat (Level 45)
+   5 Wind Shard
+   6 Light Shard
+   1 Boar Leather
+   1 Undyed Felt
+   1 Woolen Yarn
+   1 Chocobo Feather
+
+Felt Gown (Level 45)
+   5 Wind Shard
+   6 Light Shard
+   1 Cobalt Ingot
+   2 Undyed Felt
+   1 Woolen Yarn
+   1 Apkallu Down
+
+Woolen Cowl (Level 45)
+   5 Wind Shard
+   6 Light Shard
+   1 Undyed Linen
+   3 Undyed Woolen Cloth
+   1 Woolen Yarn
+
+Felt Halfgloves (Level 45)
+   5 Wind Shard
+   6 Light Shard
+   1 Electrum Ingot
+   1 Boar Leather
+   1 Undyed Felt
+   1 Woolen Felt
+
+Recipes level 46 through 50
+Felt Bracers (Level 46)
+   5 Wind Shard
+   6 Light Shard
+   2 Boar Leather
+   1 Raptor Sinew
+   1 Undyed Felt
+
+Felt Work Gloves (Level 46)
+   5 Wind Shard
+   6 Light Shard
+   1 Boar Leather
+   2 Undyed Felt
+   1 Woolen Yarn
+   1 Cotton Boll
+
+Felt Beret (Level 46)
+   5 Wind Shard
+   6 Light Shard
+   1 Undyed Felt
+   1 Woolen Yarn
+   1 Apkallu Down
+   1 Chocobo Feather
+
+Vintage Coif (Level 46)
+   1 Lightning Crystal
+   1 Torn Coif
+   1 Aldgoat Leather
+   1 Diremite Sinew
+   1 Undyed Woolen Cloth
+
+Felt Dress Shoes (Level 46)
+   5 Wind Shard
+   6 Light Shard
+   2 Undyed Felt
+   1 Woolen Yarn
+   1 Rubber
+
+Felt Gaskins (Level 47)
+   5 Wind Shard
+   6 Light Shard
+   2 Boar Leather
+   1 Undyed Felt
+   1 Woolen Yarn
+
+Felt Cavalier's Hat (Level 47)
+   5 Wind Shard
+   6 Light Shard
+   1 Mythril Ingot
+   1 Undyed Felt
+   1 Woolen Yarn
+   1 Chocobo Feather
+
+Padded Woolen Trousers (Level 47)
+   5 Wind Shard
+   6 Light Shard
+   1 Cobalt Rivets
+   1 Raptor Leather
+   1 Raptor Sinew
+   1 Undyed Woolen Cloth
+   1 Woolen Yarn
+
+Vintage Robe (Level 47)
+   1 Lightning Crystal
+   1 Tattered Robe
+   1 Jadeite
+   1 Boar Leather
+   1 Diremite Sinew
+   1 Linen Yarn
+
+Felt Dress Gloves (Level 48)
+   6 Wind Shard
+   6 Light Shard
+   2 Undyed Felt
+   2 Woolen Yarn
+
+Felt Bliaud (Level 48)
+   6 Wind Shard
+   6 Light Shard
+   1 Boar Leather
+   1 Raptor Sinew
+   3 Undyed Felt
+   1 Woolen Yarn
+
+Felt Trousers (Level 48)
+   6 Wind Shard
+   6 Light Shard
+   1 Cobalt Rivets
+   1 Raptor Leather
+   1 Raptor Sinew
+   1 Undyed Felt
+   1 Woolen Yarn
+
+Wind-Up Qiqrin (Level 50)
+   99 Light Shard
+   1 Vanya Sillk
+   1 Twinthread
+   1 Chocobo Feather
+
+Patrician's Bottoms (Level 50)
+   6 Wind Shard
+   6 Light Shard
+   1 Electrum Ingot
+   1 Undyed Woolen Cloth
+   1 Undyed Felt
+   1 Linen Yarn
+   1 Woolen Yarn
+
+Patrician's Coatee (Level 50)
+   6 Wind Shard
+   6 Light Shard
+   1 Electrum Ingot
+   2 Undyed Felt
+   1 Linen Yarn
+   2 Woolen Yarn
+
+Patrician's Gaiters (Level 50)
+   6 Wind Shard
+   6 Light Shard
+   2 Undyed Felt
+   1 Linen Yarn
+   1 Woolen Yarn
+   1 Rubber
+
+Patrician's Gloves (Level 50)
+   6 Wind Shard
+   6 Light Shard
+   2 Undyed Felt
+   1 Linen Yarn
+   1 Woolen Yarn
+
+Patrician's Wedge Cap (Level 50)
+   6 Wind Shard
+   6 Light Shard
+   1 Electrum Ingot
+   2 Undyed Felt
+   1 Linen Yarn
+   1 Woolen Yarn
+
+Wind-Up Aldgoat (Level 50)
+   99 Light Shard
+   1 Vanya Silk
+   1 Twinthread
+   1 Chocobo Feather
+
+Recipes level 55 to 70
+Twinthread (Level 55)
+   3 Lightning Crystal
+   2 Crawler Cocoon
+   1 Effervescent Water
+
+Goldsmith's Trousers (Level 55)
+   2 Wind Crystal
+   3 Lightning Crystal
+   3 Undyed Felt
+   2 Twinthread
+
+Goldsmith's Doublet (Level 55)
+   2 Wind Crystal
+   3 Lightning Crystal
+   2 Electrum Ingot
+   1 Tourmaline
+   1 Turquoise
+   2 Undyed Felt
+   1 Twinthread
+
+Culinarian's Trousers (Level 55)
+   2 Wind Crystal
+   3 Lightning Crystal
+   1 Undyed Woolen Cloth
+   3 Undyed Felt
+   1 Twinthread
+
+Culinarian's Mitts (Level 55)
+   2 Wind Crystal
+   3 Lightning Crystal
+   1 Hippogryph Sinew
+   1 Undyed Woolen Cloth
+   1 Undyed Felt
+   1 Twinthread
+
+Culinarian's Apron (Level 55)
+   2 Wind Crystal
+   3 Lightning Crystal
+   1 Darksteel Nugget
+   2 Undyed Woolen Cloth
+   2 Undyed Felt
+   1 Twinthread
+
+Culinarian's Hat (Level 55)
+   2 Wind Crystal
+   3 Lightning Crystal
+   1 Rose Gold Nugget
+   1 Undyed Linen
+   1 Undyed Felt
+   1 Twinthread
+
+Carpenter's Gown (Level 55)
+   2 Wind Crystal
+   3 Lightning Crystal
+   2 Undyed Woolen Cloth
+   3 Undyed Felt
+   2 Twinthread
+
+Carpenter's Hood (Level 55)
+   2 Wind Crystal
+   3 Lightning Crystal
+   2 Undyed Woolen Cloth
+   1 Twinthread
+   1 Rosewood Branch
+
+Alchemist's Trousers (Level 55)
+   2 Wind Crystal
+   3 Lightning Crystal
+   1 Rose Gold Nugget
+   1 Hippogryph Leather
+   2 Undyed Felt
+
+Alchemist's Coat (Level 55)
+   2 Wind Crystal
+   3 Lightning Crystal
+   2 Rose Gold Nugget
+   2 Undyed Woolen Cloth
+   2 Undyed Felt
+   1 Twinthread
+
+Alchemist's Gloves (Level 55)
+   2 Wind Crystal
+   3 Lightning Crystal
+   2 Undyed Felt
+   2 Twinthread
+
+Armorer's Slops (Level 55)
+   2 Wind Crystal
+   3 Lightning Crystal
+   3 Undyed Felt
+   2 Twinthread
+
+Armorer's Gown (Level 55)
+   2 Wind Crystal
+   3 Lightning Crystal
+   3 Boar Leather
+   3 Undyed Felt
+   2 Twinthread
+
+Weaver's Swallowtail (Level 55)
+   2 Wind Crystal
+   3 Lightning Crystal
+   1 Rose Gold Nugget
+   1 Hippogryph Leather
+   2 Undyed Woolen Cloth
+   1 Twinthread
+
+Weaver's Trousers (Level 55)
+   2 Wind Crystal
+   3 Lightning Crystal
+   1 Rose Gold Nugget
+   1 Undyed Woolen Cloth
+   1 Twinthread
+
+Weaver's Gibus (Level 55)
+   2 Wind Crystal
+   3 Lightning Crystal
+   1 Undyed Woolen Cloth
+   2 Twinthread
+   1 Chocobo Feather
+
+Blacksmith's Slops (Level 55)
+   2 Wind Crystal
+   3 Lightning Crystal
+   1 Darksteel Nugget
+   4 Undyed Felt
+   1 Twinthread
+
+Imperial Operative Hat (Level 55)
+   2 Wind Crystal
+   3 Lightning Crystal
+   1 Rose Gold Nugget
+   2 Undyed Woolen Cloth
+   1 Twinthread
+
+Imperial Operative Dalmatica (Level 55)
+   2 Wind Crystal
+   3 Lightning Crystal
+   1 Raptor Sinew
+   2 Undyed Woolen Cloth
+   2 Twinthread
+
+Hamlet Cutter's Hat (Level 55)
+   2 Wind Crystal
+   3 Lightning Crystal
+   1 Silver Ingot
+   1 Hippogryph Leather
+   1 Undyed Woolen Cloth
+   1 Twinthread
+
+Militia Tights (Level 55)
+   2 Wind Crystal
+   3 Lightning Crystal
+   2 Undyed Woolen Cloth
+   2 Twinthread
+
+Militia Trousers (Level 55)
+   2 Wind Crystal
+   3 Lightning Crystal
+   1 Darksteel Rivets
+   1 Dodore Leather
+   1 Raptor Sinew
+   1 Undyed Woolen Cloth
+   1 Twinthread
+
+Militia Robe (Level 55)
+   2 Wind Crystal
+   3 Lightning Crystal
+   1 Electrum Ingot
+   3 Undyed Woolen Cloth
+   2 Twinthread
+
+Militia Hat (Level 55)
+   2 Wind Crystal
+   3 Lightning Crystal
+   1 Silver Ingot
+   2 Undyed Woolen Cloth
+   1 Twinthread
+   1 Chocobo Feather
+
+Botanist's Gloves (Level 55)
+   2 Wind Crystal
+   3 Lightning Crystal
+   1 Hippogryph Sinew
+   2 Undyed Felt
+   2 Twinthread
+
+Botanist's Slops (Level 55)
+   2 Wind Crystal
+   3 Lightning Crystal
+   3 Undyed Felt
+   2 Twinthread
+
+Leatherworker's Trousers (Level 55)
+   2 Wind Crystal
+   3 Lightning Crystal
+   1 Rose Gold Nugget
+   2 Undyed Felt
+   1 Twinthread
+
+Fisher's Gaskins (Level 55)
+   2 Wind Crystal
+   3 Lightning Crystal
+   1 Hippogryph Leather
+   2 Undyed Felt
+   1 Twinthread
+
+Vanya Silk (Level 70)
+   1 Lightning Cluster
+   2 Twinthread
+   9 Potash
+
+Vanya Silk Robe Lining (Level 70)
+   1 Wind Cluster
+   1 Lightning Cluster
+   1 Vanya Silk
+   2 Twinthread
+
+Vanya Silk Glove Lining (Level 70)
+   1 Wind Cluster
+   1 Lightning Cluster
+   1 Vanya Silk
+   2 Twinthread
+
+Vanya Silk Hat Lining (Level 70)
+   1 Wind Cluster
+   1 Lightning Cluster
+   1 Vanya Silk
+   2 Twinthread
+
+Vanya Silk Crakow Lining (Level 70)
+   1 Wind Cluster
+   1 Lightning Cluster
+   1 Vanya Silk
+   2 Twinthread
+
+Vanya Crakows (Level 70)
+   1 Wind Cluster
+   1 Lightning Cluster
+   1 Rose Gold Nugget
+   1 Twinthread
+   1 Rubber
+   1 Vanya Silk Crakow Lining
+
+Vanya Trousers (Level 70)
+   1 Wind Cluster
+   1 Lightning Cluster
+   1 Darksteel Ingot
+   1 Hard Hippogryph Leather
+   1 Raptor Sinew
+   1 Vanya Silk
+   1 Twinthread
+
+Vanya Gloves Of Casting (Level 70)
+   1 Wind Cluster
+   1 Lightning Cluster
+   1 Silver Ingot
+   1 Rose Gold Nugget
+   1 Twinthread
+   1 Vanya Silk Glove Lining
+
+Vanya Sash Of Casting (Level 70)
+   1 Wind Cluster
+   1 Lightning Cluster
+   1 Vanya Silk
+   1 Twinthread
+   1 Garlean Fiber
+
+Vanya Hat Of Casting (Level 70)
+   1 Wind Cluster
+   1 Lightning Cluster
+   1 Rose Gold Nugget
+   1 Twinthread
+   1 Vanya Silk Hat Lining
+
+Vanya Robe Of Casting (Level 70)
+   1 Wind Cluster
+   1 Lightning Cluster
+   1 Silver Ingot
+   1 Rose Gold Nugget
+   2 Twinthread
+   1 Vanya Silk Robe Lining
+
+Vanya Breeches Of Casting (Level 70)
+   1 Wind Cluster
+   1 Lightning Cluster
+   1 Hard Hippogryph Leather
+   2 Vanya Silk
+   1 Twinthread
+
+Vanya Gloves Of Healing (Level 70)
+   1 Wind Cluster
+   1 Lightning Cluster
+   1 Silver Ingot
+   1 Rose Gold Nugget
+   1 Twinthread
+   1 Vanya Silk Glove Lining
+
+Vanya Sash Of Healing (Level 70)
+   1 Wind Cluster
+   1 Lightning Cluster
+   1 Vanya Silk
+   1 Twinthread
+   1 Garlean Fiber
+
+Vanya Hat Of Healing (Level 70)
+   1 Wind Cluster
+   1 Lightning Cluster
+   1 Rose Gold Nugget
+   1 Twinthread
+   1 Vanya Silk Hat Lining
+
+Vanya Breeches Of Healing (Level 70)
+   1 Wind Cluster
+   1 Lightning Cluster
+   1 Hard Hippogryph Leather
+   2 Vanya Silk
+   1 Twinthread
+
+Vanya Robe Of Healing (Level 70)
+   1 Wind Cluster
+   1 Lightning Cluster
+   1 Silver Ingot
+   1 Rose Gold Nugget
+   2 Twinthread
+   1 Vanya Silk Robe Lining

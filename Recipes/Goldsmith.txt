@@ -1,0 +1,1727 @@
+Recipes levels 1 through 5
+Copper Ingot (Level 1)
+   1 Wind Shard
+   3 Copper Ore
+
+Bone Hora (Level 2)
+   1 Fire Shard
+   1 Wind Shard
+   1 Animal Sinew
+   2 Bone Chip
+
+Bone Brand (Level 3)
+   1 Fire Shard
+   1 Wind Shard
+   1 Marbled Eye
+   1 Bone Chip
+
+Copper Rings (Level 4)
+   1 Fire Shard
+   1 Copper Ingot
+
+Copper Wristlets (Level 5)
+   1 Fire Shard
+   1 Wind Shard
+   1 Copper Ingot
+   2 Copper Rings
+
+Copper Gorget (Level 5)
+   1 Fire Shard
+   1 Wind Shard
+   2 Copper Ingot
+   1 Leather
+
+Bone Staff (Level 5)
+   1 Fire Shard
+   1 Wind Shard
+   1 Marbled Eye
+   1 Bone Chip
+   1 Soiled Femur
+
+Recipes levels 6 through 10
+Ragstone Whetstone (Level 6)
+   1 Wind Shard
+   2 Ragstone
+
+Copper Earrings (Level 6)
+   1 Fire Shard
+   1 Wind Shard
+   1 Copper Ingot
+   1 Ragstone Whetstone
+
+Copper Ring (Level 7)
+   1 Fire Shard
+   1 Wind Shard
+   1 Copper Ingot
+   1 Ragstone Whetstone
+
+Bone Ring (Level 7)
+   1 Fire Shard
+   1 Wind Shard
+   1 Ragstone Whetstone
+   1 Bone Chip
+
+Bone Necklace (Level 8)
+   1 Fire Shard
+   1 Wind Shard
+   1 Copper Rings
+   2 Soiled Femur
+
+Copper Needle (Level 8)
+   1 Fire Shard
+   1 Wind Shard
+   1 Copper Ingot
+   1 Ragstone Whetstone
+
+Copper Choker (Level 9)
+   1 Fire Shard
+   1 Wind Shard
+   2 Copper Ingot
+   1 Hard Leather
+
+Ramhorn Staff (Level 9)
+   1 Fire Shard
+   1 Wind Shard
+   1 Marbled Eye
+   2 Ram Horn
+
+Ramhorn Claws (Level 10)
+   1 Fire Shard
+   1 Wind Shard
+   1 Animal Sinew
+   2 Ram Horn
+
+Bone Armillae (Level 10)
+   1 Fire Shard
+   1 Wind Shard
+   3 Soiled Femur
+
+Copper Sceptre (Level 10)
+   1 Fire Shard
+   1 Wind Shard
+   1 Copper Ingot
+   1 Marbled Eye
+
+Recipes levels 11 through 15
+Copper Ear Cuffs (Level 11)
+   1 Fire Shard
+   1 Wind Shard
+   2 Copper Ingot
+   1 Ragstone Whetstone
+
+Bronze Scepter (Level 12)
+   1 Fire Shard
+   1 Wind Shard
+   1 Bronze Ingot
+   1 Marbled Eye
+
+Amateur's Needle (Level 12)
+   1 Fire Shard
+   1 Wind Shard
+   1 Bat Fang
+
+Decorated Bone Staff (Level 13)
+   1 Fire Shard
+   1 Wind Shard
+   1 Bone Staff
+   1 Soiled Femur
+   2 Bat Fang
+
+Fluorite (Level 13)
+   1 Wind Shard
+   1 Raw Fluorite
+
+Danburite (Level 13)
+   1 Wind Shard
+   1 Raw Danburite
+
+Sunstone (Level 13)
+   1 Wind Shard
+   1 Raw Sunstone
+
+Lapis Lazuli (Level 14)
+   1 Wind Shard
+   1 Raw Lapis Lazuli
+
+Malachite (Level 14)
+   1 Wind Shard
+   1 Raw Malachite
+
+Sphene (Level 14)
+   1 Wind Shard
+   1 Raw Sphene
+
+Brass Ingot (Level 14)
+   1 Wind Shard
+   2 Copper Ore
+   1 Zinc Ore
+
+Brass Cudgel (Level 14)
+   1 Fire Shard
+   1 Wind Shard
+   1 Bronze Ingot
+   1 Brass Ingot
+   1 Marbled Eye
+
+Brass Spectacles (Level 14)
+   1 Fire Shard
+   1 Wind Shard
+   1 Brass Ingot
+   1 Clear Glass Lens
+
+Brass Wristlets (Level 15)
+   1 Fire Shard
+   1 Wind Shard
+   1 Brass Ingot
+   2 Brass Rings
+
+Brass Gorget (Level 15)
+   1 Fire Shard
+   1 Wind Shard
+   2 Brass Ingot
+   1 Hard Leather
+
+Fang Earrings (Level 15)
+   1 Fire Shard
+   1 Wind Shard
+   1 Brass Ingot
+   1 Hard Leather
+   1 Bat Fang
+
+Brass Rings (Level 15)
+   1 Wind Shard
+   1 Brass Ingot
+
+Recipes levels 16 through 20
+Bat Fang Needle (Level 16)
+   1 Fire Shard
+   1 Wind Shard
+   1 Ragstone Whetstone
+   1 Bat Fang
+
+Brass Wristlets Of Crafting (Level 16)
+   1 Fire Shard
+   1 Wind Shard
+   1 Brass Ingot
+   2 Brass Rings
+
+Toothed Ramhorn Staff (Level 17)
+   1 Fire Shard
+   1 Wind Shard
+   1 Ramhorn Staff
+   1 Ragstone Whetstone
+   2 Ram Horn
+
+Brass Earrings (Level 17)
+   1 Fire Shard
+   1 Wind Shard
+   1 Brass Ingot
+   1 Ragstone Whetstone
+
+Fang Necklace (Level 17)
+   1 Fire Shard
+   1 Wind Shard
+   1 Cotton Yarn
+   2 Bat Fang
+
+Brass Circlet (Sunstone) (Level 18)
+   1 Fire Shard
+   1 Wind Shard
+   3 Brass Ingot
+   1 Sunstone
+
+Brass Circlet (Danburite) (Level 18)
+   1 Fire Shard
+   1 Wind Shard
+   3 Brass Ingot
+   1 Danburite
+
+Brass Circlet (Fluorite) (Level 18)
+   1 Fire Shard
+   1 Wind Shard
+   3 Brass Ingot
+   1 Fluorite
+
+Brass Circlet (Lapis Lazuli) (Level 19)
+   1 Fire Shard
+   1 Wind Shard
+   3 Brass Ingot
+   1 Lapis Lazuli
+
+Brass Circlet (Malachite) (Level 19)
+   1 Fire Shard
+   1 Wind Shard
+   3 Brass Ingot
+   1 Malachite
+
+Brass Circlet (Sphene) (Level 19)
+   1 Fire Shard
+   1 Wind Shard
+   3 Brass Ingot
+   1 Sphene
+
+Staghorn Staff (Level 19)
+   1 Fire Shard
+   1 Wind Shard
+   1 Marbled Eye
+   2 Antelope Horn
+
+Coral Armillae (Level 19)
+   1 Fire Shard
+   1 Wind Shard
+   3 White Coral
+
+Mudstone Whetstone (Level 20)
+   1 Wind Shard
+   2 Mudstone
+
+Decorated Copper Scepter (Level 20)
+   1 Fire Shard
+   1 Wind Shard
+   1 Copper Scepter
+   1 Brass Ingot
+   1 Ragstone Whetstone
+
+Brass Ring (Level 20)
+   1 Fire Shard
+   1 Wind Shard
+   1 Brass Ingot
+   1 Ragstone Whetstone
+
+Brass Ring Of Crafting (Level 20)
+   1 Fire Shard
+   1 Wind Shard
+   1 Brass Ingot
+   1 Ragstone Whetstone
+
+Crow Fly (Level 20)
+   1 Fire Shard
+   1 Wind Shard
+   1 Brass Ingot
+   1 Crow Feather
+
+Recipes levels 21 through 25
+Brass Ear Cuffs (Level 21)
+   1 Fire Shard
+   2 Wind Shard
+   2 Brass Ingot
+   1 Ragstone Whetstone
+
+Coral Ring (Level 21)
+   1 Fire Shard
+   2 Wind Shard
+   1 Mudstone Whetstone
+   1 White Coral
+
+Brass Choker (Level 21)
+   1 Fire Shard
+   2 Wind Shard
+   2 Brass Ingot
+   1 Hard Leather
+
+Eye Of Ice (Level 22)
+   2 Wind Shard
+   1 Ice Rock
+
+Eye Of Water (Level 22)
+   2 Wind Shard
+   1 Water Rock
+
+Eye Of Lightning (Level 22)
+   2 Wind Shard
+   1 Lightning Rock
+
+Brass Needle (Level 22)
+   1 Fire Shard
+   2 Wind Shard
+   1 Brass Ingot
+   1 Mudstone Whetstone
+
+Floating Minnow (Level 22)
+   1 Fire Shard
+   2 Wind Shard
+   1 Brass Ingot
+   1 Ash Lumber
+
+Brass Spoon Lure (Level 23)
+   1 Fire Shard
+   2 Wind Shard
+   1 Brass Ingot
+   1 Mudstone Whetstone
+
+Wind Brand (Level 23)
+   1 Fire Shard
+   2 Wind Shard
+   1 Eye Of Wind
+   1 Aldgoat Leather
+   1 Antelope Horn
+
+Silver Ingot (Level 23)
+   2 Wind Shard
+   3 Silver Ore
+
+Eye Of Fire (Level 23)
+   2 Wind Shard
+   1 Fire Rock
+
+Eye Of Wind (Level 23)
+   2 Wind Shard
+   1 Wind Rock
+
+Eye Of Earth (Level 23)
+   2 Wind Shard
+   1 Earth Rock
+
+Silver Rings (Level 24)
+   2 Wind Shard
+   1 Silver Ingot
+
+Initiate's Needle (Level 24)
+   2 Fire Shard
+   2 Wind Shard
+   1 Iron Ingot
+   1 Mudstone Whetstone
+
+Silver Spectacles (Level 24)
+   2 Fire Shard
+   2 Wind Shard
+   1 Silver Ingot
+   1 Clear Glass Lens
+
+Horn Earrings (Level 24)
+   2 Fire Shard
+   2 Wind Shard
+   1 Silver Ingot
+   1 Aldgoat Leather
+   1 Antelope Horn
+
+Silver Wristlets Of Crafting (Level 25)
+   2 Fire Shard
+   2 Wind Shard
+   1 Silver Ingot
+   2 Silver Rings
+
+Silver Wristlets (Level 25)
+   2 Fire Shard
+   2 Wind Shard
+   1 Silver Ingot
+   2 Silver Rings
+
+Silver Gorget (Level 25)
+   2 Fire Shard
+   2 Wind Shard
+   2 Silver Ingot
+   1 Aldogoat Leather
+
+Toothed Staghorn Staff (Level 25)
+   2 Fire Shard
+   2 Wind Shard
+   1 Staghorn Staff
+   2 Antelope Horn
+   1 Scalekin Blood
+
+Ice Brand (Level 25)
+   2 Fire Shard
+   2 Wind Shard
+   1 Brass Ingot
+   1 Eye Of Ice
+   1 Antelope Horn
+
+Silver Magnifiers (Level 25)
+   2 Fire Shard
+   2 Wind Shard
+   1 Silver Spectacles
+   1 Silver Ingot
+   1 Clear Glass Lens
+
+Recipes levels 26 through 30
+Silver Needle (Level 26)
+   2 Fire Shard
+   2 Wind Shard
+   1 Silver Ingot
+   1 Mudstone Whetstone
+
+Silver Scepter (Level 26)
+   2 Fire Shard
+   2 Wind Shard
+   1 Silver Ingot
+   1 Marbled Eye
+   1 Brimstone
+
+Horn Necklace (Level 26)
+   2 Fire Shard
+   2 Wind Shard
+   1 Dew Thread
+   2 Antelope Horn
+
+Silver Ring Of Crafting (Level 26)
+   2 Fire Shard
+   2 Wind Shard
+   1 Silver Ingot
+   1 Mudstone Whetstone
+
+Silver Ring (Level 26)
+   2 Fire Shard
+   2 Wind Shard
+   1 Silver Ingot
+   1 Mudstone Whetstone
+
+Silver Earrings (Level 26)
+   2 Fire Shard
+   2 Wind Shard
+   1 Silver Ingot
+   1 Mudstone Whetstone
+
+Danburite Ring (Level 27)
+   2 Fire Shard
+   3 Wind Shard
+   1 Silver Ingot
+   1 Danburite
+
+Danburite Earrings (Level 27)
+   2 Fire Shard
+   3 Wind Shard
+   1 Silver Ingot
+   2 Danburite
+
+Danburite Bracelet (Level 27)
+   2 Fire Shard
+   3 Wind Shard
+   1 Silver Ingot
+   2 Danburite
+
+Danburite Choker (Level 27)
+   2 Fire Shard
+   3 Wind Shard
+   2 Silver Ingot
+   1 Danburite
+
+Sunstone Ring (Level 27)
+   2 Fire Shard
+   3 Wind Shard
+   1 Silver Ingot
+   1 Sunstone
+
+Sunstone Earrings (Level 27)
+   2 Fire Shard
+   3 Wind Shard
+   1 Silver Ingot
+   2 Sunstone
+
+Sunstone Bracelet (Level 27)
+   2 Fire Shard
+   3 Wind Shard
+   1 Silver Ingot
+   2 Sunstone
+
+Sunstone Choker (Level 27)
+   2 Fire Shard
+   3 Wind Shard
+   2 Silver Ingot
+   1 Sunstone
+
+Lapis Lazuli Ring (Level 28)
+   2 Fire Shard
+   3 Wind Shard
+   1 Silver Ingot
+   1 Lapis Lazuli
+
+Lapis Lazuli Earrings (Level 28)
+   2 Fire Shard
+   3 Wind Shard
+   1 Silver Ingot
+   2 Lapis Lazuli
+
+Lapis Lazuli Bracelet (Level 28)
+   2 Fire Shard
+   3 Wind Shard
+   1 Silver Ingot
+   2 Lapis Lazuli
+
+Lapis Lazuli Choker (Level 28)
+   2 Fire Shard
+   3 Wind Shard
+   2 Silver Ingot
+   1 Lapis Lazuli
+
+Fluorite Ring (Level 28)
+   2 Fire Shard
+   3 Wind Shard
+   1 Silver Ingot
+   1 Fluorite
+
+Fluorite Earrings (Level 28)
+   2 Fire Shard
+   3 Wind Shard
+   1 Silver Ingot
+   2 Fluorite
+
+Fluorite Bracelet (Level 28)
+   2 Fire Shard
+   3 Wind Shard
+   1 Silver Ingot
+   2 Fluorite
+
+Fluorite Choker (Level 28)
+   2 Fire Shard 
+   3 Wind Shard
+   2 Silver Ingot
+   1 Fluorite
+
+Sphene Earrings (Level 29)
+   2 Fire Shard
+   3 Wind Shard
+   1 Silver Ingot
+   2 Sphene
+
+Sphene Ring (Level 29)
+   2 Fire Shard
+   3 Wind Shard
+   1 Silver Ingot
+   1 Sphene
+
+Sphene Choker (Level 29)
+   2 Fire Shard
+   3 Wind Shard
+   2 Silver Ingot
+   1 Sphene
+
+Sphene Bracelet (Level 29)
+   2 Fire Shard
+   3 Wind Shard
+   1 Silver Ingot
+   2 Sphene
+
+Chocobo Fly (Level 30)
+   3 Fire Shard
+   3 Wind Shard
+   1 Silver Ingot
+   1 Chocobo Feather
+
+Siltstone Whetstone (Level 30)
+   3 Wind Shard
+   2 Siltstone
+
+Malachite Choker (Level 30)
+   3 Fire Shard
+   3 Wind Shard
+   2 Silver Ingot
+   1 Malachite
+
+Malachite Bracelet (Level 30)
+   3 Fire Shard
+   3 Wind Shard
+   1 Silver Ingot
+   2 Malachite
+
+Malachite Earrings (Level 30)
+   3 Fire Shard
+   3 Wind Shard
+   1 Silver Ingot
+   2 Malachite
+
+Malachite Ring (Level 30)
+   3 Fire Shard
+   3 Wind Shard
+   1 Silver Ingot
+   1 Malachite
+
+Recipies levels 31 through 35
+Horn Armillae (Level 31)
+   3 Fire Shard
+   3 Wind Shard
+   3 Aldgoat Horn
+
+Goathorn Staff (Level 31)
+   3 Fire Shard
+   3 Wind Shard
+   1 Marbled Eye
+   2 Aldgoat Horn
+
+Silver Ear Cuffs (Level 31)
+   3 Fire Shard
+   3 Wind Shard
+   2 Silver Ingot
+   1 Siltstone Whetstone
+
+Horn Ring (Level 31)
+   3 Fire Shard
+   3 Wind Shard
+   1 Siltstone Whetstone
+   1 Aldgoat Horn
+
+Silver Choker (Level 31)
+   3 Fire Shard
+   3 Wind Shard
+   2 Silver Ingot
+   1 Aldgoat Horn
+
+Goshenite (Level 32)
+   3 Wind Shard
+   1 Raw Goshenite
+
+Garnet (Level 32)
+   3 Wind Shard
+   1 Raw Garnet
+
+Amethyst (Level 32)
+   3 Wind Shard
+   1 Raw Amethyst
+
+Heliodor (Level 32)
+   3 Wind Shard
+   1 Raw Heliodor
+
+Aquamarine (Level 32)
+   3 Wind Shard
+   1 Raw Aquamarine 
+
+Peridot (Level 32)
+   3 Wind Shard
+   1 Raw Peridot
+
+Silver Spoon Lure (Level 32)
+   3 Fire Shard
+   3 Wind Shard
+   2 Silver Ingot
+   1 Mudstone Whetstone
+
+Worm Fang Needle (Level 32)
+   3 Fire Shard
+   3 Wind Shard
+   1 Siltstone Whetstone
+   1 Wolf Fang
+
+Iron Jig (Level 32)
+   3 Fire Shard
+   3 Wind Shard
+   2 Steel Ingot
+   1 Siltstone Whetstone
+
+Silver Circlet (Aquamarine) (Level 33)
+   3 Fire Shard
+   4 Wind Shard
+   3 Silver Ingot
+   1 Aquamarine
+
+Silver Circlet (Amethyst) (Level 33)
+   3 Fire Shard
+   4 Wind Shard
+   3 Silver Ingot
+   1 Amethyst
+
+Silver Circlet (Heliodor) (Level 33)
+   3 Fire Shard
+   4 Wind Shard
+   3 Silver Ingot
+   1 Heliodor
+
+Silver Circlet (Goshenite) (Level 33)
+   3 Fire Shard
+   4 Wind Shard
+   3 Silver Ingot
+   1 Goshenite
+
+Silver Circlet (Peridot) (Level 33)
+   3 Fire Shard
+   4 Wind Shard
+   3 Silver Ingot
+   1 Peridot
+
+Silver Circlet (Garnet) (Level 33)
+   3 Fire Shard
+   4 Wind Shard
+   3 Silver Ingot
+   1 Garnet
+
+Earth Brand (Level 34)
+   3 Fire Shard
+   4 Wind Shard
+   1 Eye Of Earth
+   1 Toad Leather
+   1 Aldgoat Horn
+
+Steel Goggles (Level 34)
+   3 Fire Shard
+   4 Wind Shard
+   1 Steel Plate
+   1 Aldgoat Leather
+   1 Clear Glass Lens
+
+Crabshell Hora (Level 34)
+   3 Fire Shard
+   4 Wind Shard
+   1 Hippogryph Sinew
+   2 Green Megalocrab Shell
+
+Mythril Ingot (Level 34)
+   4 Wind Shard
+   3 Mythril Ore
+
+Decorated Silver Scepter (Level 34)
+   3 Fire Shard
+   4 Wind Shard
+   1 Silver Scepter
+   2 Silver Ingot
+   1 Scalekin Blood
+
+Mythril Magnifiers (Level 34)
+   3 Fire Shard
+   4 Wind Shard
+   1 Mythril Spectacles
+   1 Mythril Ingot
+   1 Clear Glass Lens
+
+Mythril Spectacles (Level 34)
+   3 Fire Shard
+   4 Wind Shard
+   1 Mythril Ingot
+   1 Clear Glass Lens
+
+Sinking Minnow (Level 34)
+   3 Fire Shard
+   4 Wind Shard
+   1 Silver Ingot
+   1 Oak Lumber
+
+Vintage Cudgel (Level 35)
+   1 Wind Crystal
+   1 Damaged Cudgel
+   1 Iron Rivets
+   1 Siltstone Whetstone
+
+Mythril Rings (Level 35)
+   4 Wind Shard
+   1 Mythril Ingot
+
+Mythril Wristlets Of Crafting (Level 35)
+   3 Fire Shard
+   4 Wind Shard
+   1 Mythril Ingot
+   2 Mythril Rings
+
+Mythril Earrings (Level 35)
+   3 Fire Shard
+   4 Wind Shard
+   1 Mythril Ingot
+   1 Siltstone Whetstone
+
+Mythril Wristlets (Level 35)
+   3 Fire Shard
+   4 Wind Shard
+   1 Mythril Ingot
+   2 Mythril Rings
+
+Mythril Gorget (Level 35)
+   3 Fire Shard
+   4 Wind Shard
+   2 Mythril Ingot
+   1 Toad Leather
+
+Fire Brand (Level 35)
+   3 Fire Shard
+   4 Wind Shard
+   1 Silver Ingot
+   1 Eye Of Fire
+   1 Aldgoat Horn
+
+Wolf Earrings (Level 35)
+   3 Fire Shard
+   4 Wind Shard
+   1 Mythril Ingot
+   1 Boar Leather
+   1 Wolf Fang
+
+Toothed Goathorn Staff (Level 35)
+   3 Fire Shard
+   4 Wind Shard
+   1 Goathorn Staff
+   2 Aldgoat Horn
+   1 Scalekin Blood
+
+Recipes levels 36 through 40
+Mythril Ring (Level 36)
+   4 Fire Shard
+   4 Wind Shard
+   1 Mythril Ingot
+   1 Siltstone Whetstone
+
+Wolf Necklace (Level 36)
+   4 Fire Shard
+   4 Wind Shard
+   1 Linen Yarn
+   2 Wolf Fang
+
+Mythril Ring Of Crafting (Level 36)
+   4 Fire Shard
+   4 Wind Shard
+   1 Mythril Ingot
+   1 Siltstone Whetstone
+
+Wildfowl Fly (Level 36)
+   4 Fire Shard
+   4 Wind Shard
+   1 Silver Ingot
+   1 Wildfowl Feather
+
+Pearl (Level 36)
+   4 Wind Shard
+   1 Whitelip Oyster
+
+Mythril Needle (Level 36)
+   4 Fire Shard
+   4 Wind Shard
+   1 Mythril Ingot
+   1 Siltstone Whetstone
+
+Amethyst Choker (Level 37)
+   4 Fire Shard
+   5 Wind Shard
+   2 Mythril Ingot
+   1 Amethyst
+
+Aquamarine Choker (Level 37)
+   4 Fire Shard
+   4 Wind Shard
+   2 Mythril Ingot
+   1 Aquamarine
+
+Garnet Choker (Level 37)
+   4 Fire Shard
+   4 Wind Shard
+   2 Mythril Ingot
+   1 Garnet
+
+Heavy Iron Jig (Level 37)
+   4 Fire Shard
+   4 Wind Shard
+   1 Steel Ingot
+   1 Basilisk Whetstone
+
+Heliodor Choker (Level 37)
+   4 Fire Shard
+   4 Wind Shard
+   2 Mythril Ingot
+   1 Heliodor
+
+Peridot Choker (Level 37)
+   4 Fire Shard
+   4 Wind Shard
+   2 Mythril Ingot
+   1 Peridot
+
+Pearl Choker (Level 37)
+   4 Fire Shard
+   4 Wind Shard
+   2 Mythril Ingot
+   1 Pearl
+
+Goshenite Choker (Level 37)
+   4 Fire Shard
+   4 Wind Shard
+   2 Mythril Ingot
+   1 Goshenite
+
+Peridot Bracelet (Level 38)
+   4 Fire Shard
+   4 Wind Shard
+   1 Mythril Ingot
+   2 Peridot
+
+Aquamarine Bracelet (Level 38)
+   4 Fire Shard
+   4 Wind Shard
+   1 Mythril Ingot
+   2 Aquamarine
+
+Amethyst Bracelet (Level 38)
+   4 Fire Shard
+   4 Wind Shard
+   1 Mythril Ingot
+   2 Amethyst
+
+Garnet Bracelet (Level 38)
+   4 Fire Shard
+   4 Wind Shard
+   1 Mythril Ingot
+   2 Garnet
+
+Goshenite Bracelet (Level 38)
+   4 Fire Shard
+   4 Wind Shard
+   1 Mythril Ingot
+   2 Goshenite
+
+Heliodor Bracelet (Level 38)
+   4 Fire Shard
+   4 Wind Shard
+   1 Mythril Ingot
+   2 Heliodor
+
+Pearl Bracelet (Level 38)
+   4 Fire Shard
+   4 Wind Shard
+   1 Mythril Ingot
+   2 Pearl
+
+Spinner (Level 39)
+   4 Fire Shard
+   5 Wind Shard
+   1 Whitelip Oyster
+   1 Mythril Ingot
+
+Amethyst Ring (Level 39)
+   4 Fire Shard
+   5 Wind Shard
+   1 Mythril Ingot
+   1 Amethyst
+
+Amethyst Earrings (Level 39)
+   4 Fire Shard
+   5 Wind Shard
+   1 Mythril Ingot
+   2 Amethyst
+
+Aquamarine Earrings (Level 39)
+   4 Fire Shard
+   5 Wind Shard
+   1 Mythril Ingot
+   2 Aquamarine
+
+Garnet Earrings (Level 39)
+   4 Fire Shard
+   5 Wind Shard
+   1 Mythril Ingot
+   2 Garnet
+
+Garnet Ring (Level 39)
+   4 Fire Shard
+   5 Wind Shard
+   1 Mythril Ingot
+   1 Garnet
+
+Goshenite Earrings (Level 39)
+   4 Fire Shard
+   5 Wind Shard
+   1 Mythril Ingot
+   2 Goshenite
+
+Goshenite Ring (Level 39)
+   4 Fire Shard
+   5 Wind Shard
+   1 Mythril Ingot
+   1 Goshenite
+
+Aquamarine Ring (Level 39)
+   4 Fire Shard
+   5 Wind Shard
+   1 Mythril Ingot
+   1 Aquamarine 
+
+Peridot Earrings (Level 40)
+   4 Fire Shard
+   5 Wind Shard
+   1 Mythril Ingot
+   2 Peridot
+
+Peridot Ring (Level 40)
+   4 Fire Shard
+   5 Wind Shard
+   1 Mythril Ingot
+   1 Peridot
+
+Heliodor Earrings (Level 40)
+   4 Fire Shard
+   5 Wind Shard
+   1 Mythril Ingot
+   2 Heliodor
+
+Heliodor Ring (Level 40)
+   4 Fire Shard
+   5 Wind Shard
+   1 Mythril Ingot
+   1 Heliodor
+
+Jadeite (Level 40)
+   5 Wind Shard
+   1 Jade
+
+Basilisk Whetstone (Level 40)
+   5 Wind Shard
+   1 Basilisk Egg
+
+Red Coral Armillae (Level 40)
+   4 Fire Shard
+   5 Wind Shard
+   3 Red Coral
+
+Recipes levels 41 through 45
+Zircon (Level 41)
+   5 Wind Shard
+   1 Raw Zircon
+
+Tourmaline (Level 41)
+   5 Wind Shard
+   1 Raw Tourmaline
+
+Turquoise (Level 41)
+   5 Wind Shard
+   1 Raw Turquoise
+
+Rubellite (Level 41)
+   5 Wind Shard
+   1 Raw Rubellite
+
+Spinel (Level 41)
+   5 Wind Shard
+   1 Raw Spinel
+
+Amber (Level 41)
+   5 Wind Shard
+   1 Raw Amber
+
+Horn Staff (Level 41)
+   4 Fire Shard
+   5 Wind Shard
+   1 Eye Of Fire
+   1 Aldgoat Horn
+   2 Wolf Fang
+
+Pearl Earrings (Level 41)
+   4 Fire Shard
+   5 Wind Shard
+   1 Mythril Ingot
+   2 Pearl
+
+Mythril Spoon Lure (Level 41)
+   4 Fire Shard
+   5 Wind Shard
+   1 Mythril Ingot
+   1 Basilisk Whetstone
+
+Mythril Ear Cuffs (Level 41)
+   4 Fire Shard
+   5 Wind Shard
+   2 Mythril Ingot
+   1 Basilisk Whetstone
+
+Pearl Ring (Level 41)
+   4 Fire Shard
+   5 Wind Shard
+   1 Mythril Ingot
+   1 Pearl
+
+Mythril Choker (Level 41)
+   4 Fire Shard
+   5 Wind Shard
+   2 Mythril Ingot
+   1 Toad Leather
+
+Mythril Circlet (Tourmaline) (Level 42)
+   5 Fire Shard
+   5 Wind Shard
+   3 Mythril Ingot
+   1 Tourmaline
+
+Mythril Circlet (Rubellite) (Level 42)
+   5 Fire Shard
+   5 Wind Shard
+   3 Mythril Ingot
+   1 Rubellite
+
+Mythril Circlet (Turquoise) (Level 42)
+   5 Fire Shard
+   5 Wind Shard
+   3 Mythril Ingot
+   1 Turquoise
+
+Mythril Circlet (Spinel) (Level 42)
+   5 Fire Shard
+   5 Wind Shard
+   3 Mythril Ingot
+   1 Spinel
+
+Mythril Circlet (Zircon) (Level 42)
+   5 Fire Shard
+   5 Wind Shard
+   3 Mythril Ingot
+   1 Zircon
+
+Mythril Circlet (Amber) (Level 42)
+   5 Fire Shard
+   5 Wind Shard
+   3 Mythril Ingot
+   1 Amber
+
+Lightning Brand (Level 42)
+   5 Fire Shard
+   5 Wind Shard
+   1 Eye Of Lightning
+   1 Boar Leather
+   1 Aldgoat Horn
+
+Electrum Ingot (Level 42)
+   5 Wind Shard
+   4 Electrum Ore
+
+Electrum Rings (Level 43)
+   5 Wind Shard
+   1 Electrum Ingot
+
+Snurble Fly (Level 43)
+   5 Fire Shard
+   5 Wind Shard
+   1 Cobalt Ingot
+   1 Snurble Tufts
+
+Electrum Scepter (Level 43)
+   5 Fire Shard
+   5 Wind Shard
+   1 Cobalt Ingot
+   1 Electrum Ingot
+   1 Eye Of Water
+   1 Quicksilver
+
+Electrum Wristlets (Level 43)
+   5 Fire Shard
+   5 Wind Shard
+   1 Electrum Ingot
+   2 Electrum Rings
+
+Electrum Gorget (Level 43)
+   5 Fire Shard
+   5 Wind Shard
+   2 Electrum Ingot
+   1 Peiste Leather
+
+Water Brand (Level 43)
+   5 Fire Shard
+   5 Wind Shard
+   1 Electrum Ingot
+   1 Eye Of Water
+   1 Aldgoat Horn
+
+Red Coral Earrings (Level 43)
+   5 Fire Shard
+   5 Wind Shard
+   1 Electrum Ingot
+   1 Boar Leather
+   1 Red Coral
+
+Red Coral Ring (Level 43)
+   5 Fire Shard
+   5 Wind Shard
+   1 Basilisk Whetstone
+   1 Red Coral
+
+Thousand Needle (Level 43)
+   5 Fire Shard
+   5 Wind Shard
+   1 Basilisk Whetstone
+   1 Cactuar Needle
+
+Electrum Wristlets Of Crafting (Level 44)
+   5 Fire Shard
+   5 Wind Shard
+   1 Electrum Ingot
+   2 Electrum Rings
+
+Cobalt Preserves (Level 44)
+   5 Fire Shard
+   5 Wind Shard
+   1 Cobalt Plate
+   1 Boar Leather
+   1 Clear Glass Lens
+
+Topwater Frog (Level 44)
+   5 Fire Shard
+   5 Wind Shard
+   1 Cobalt Ingot
+   1 Rosewood Lumber
+
+Black Horn Staff (Level 44)
+   5 Fire Shard
+   5 Wind Shard
+   1 Eye Of Wind
+   2 Ogre Horn
+
+Electrum Earrings (Level 44)
+   5 Fire Shard
+   5 Wind Shard
+   1 Electrum Ingot
+   1 Basilisk Whetstone
+
+Electrum Ring (Level 44)
+   5 Fire Shard
+   5 Wind Shard
+   1 Electrum Ingot
+   1 Basilisk Whetstone
+
+Electrum Circlet (Turquoise) (Level 45)
+   5 Fire Shard
+   6 Wind Shard
+   3 Electrum Ingot
+   1 Turquoise
+   
+Electrum Circlet (Rubellite) (Level 45)
+   5 Fire Shard
+   6 Wind Shard
+   3 Electrum Ingot
+   1 Rubellite
+
+Electrum Circlet (Tourmaline) (Level 45)
+   5 Fire Shard
+   6 Wind Shard
+   3 Electrum Ingot
+   1 Tourmaline
+
+Electrum Circlet (Amber) (Level 45)
+   5 Fire Shard
+   6 Wind Shard
+   3 Electrum Ingot
+   1 Amber
+
+Electrum Circlet (Zircon) (Level 45)
+   5 Fire Shard
+   6 Wind Shard
+   3 Electrum Ingot
+   1 Zircon
+
+Electrum Circlet (Spinel) (Level 45)
+   5 Fire Shard
+   6 Wind Shard
+   3 Electrum Ingot
+   1 Spinel
+
+Black Pearl (Level 45)
+   6 Wind Shard
+   1 Blacklip Oyster
+
+Electrum Monocle (Level 45)
+   5 Fire Shard
+   6 Wind Shard
+   1 Electrum Ingot
+   1 Brass Rings
+   1 Aquamarine
+   1 Clear Glass Lens
+
+Vintage Hora (Level 45)
+   1 Fire Crystal
+   1 Chipped Hora
+   1 Raptor Leather
+
+Electrum Ring Of Crafting (Level 45)
+   5 Fire Shard
+   6 Wind Shard
+   1 Electrum Ingot
+   1 Basilisk Whetstone
+
+Amber Choker (Level 45)
+   5 Fire Shard
+   6 Wind Shard
+   2 Electrum Ingot
+   1 Amber
+
+Red Coral Necklace (Level 45)
+   5 Fire Shard
+   6 Wind Shard
+   1 Woolen Yarn
+   3 Red Coral
+
+Recipes levels 46 through 50
+Rainbow Spoon Lure (Level 46)
+   5 Fire Shard
+   6 Wind Shard
+   1 Cobalt Ingot
+   1 Blacklip Oyster
+
+Amber Bracelet (Level 47)
+   5 Fire Shard
+   6 Wind Shard
+   1 Electrum Ingot
+   2 Amber
+
+Spinnerbait (Level 47)
+   5 Fire Shard
+   6 Wind Shard
+   1 Cobalt Ingot
+   1 Undyed Felt
+
+Electrum Needle (Level 47)
+   5 Fire Shard
+   6 Wind Shard
+   1 Electrum Ingot
+   1 Basilisk Whetstone
+
+Zircon Choker (Level 47)
+   5 Fire Shard
+   6 Wind Shard
+   2 Electrum Ingot
+   1 Zircon
+
+Zircon Bracelet (Level 47)
+   5 Fire Shard
+   6 Wind Shard
+   1 Electrum Ingot
+   2 Zircon
+
+Spinel Choker (Level 47)
+   5 Fire Shard
+   6 Wind Shard
+   2 Electrum Ingot
+   1 Spinel
+
+Spinel Bracelet (Level 47)
+   5 Fire Shard
+   6 Wind Shard
+   1 Electrum Ingot
+   2 Spinel
+
+Turquoise Bracelet (Level 47)
+   5 Fire Shard
+   6 Wind Shard
+   1 Electrum Ingot
+   2 Turquoise
+
+Turquoise Choker (Level 47)
+   5 Fire Shard
+   6 Wind Shard
+   2 Electrum Ingot
+   1 Turquoise
+
+Amber Ring (Level 47)
+   5 Fire Shard
+   6 Wind Shard
+   1 Electrum Ingot
+   1 Amber
+
+Tourmaline Bracelet (Level 48)
+   6 Fire Shard
+   6 Wind Shard
+   1 Electrum Ingot
+   2 Tourmaline
+
+Black Pearl Bracelet (Level 48)
+   6 Fire Shard
+   6 Wind Shard
+   1 Electrum Ingot
+   2 Black Pearl
+
+Yumizuno (Level 48)
+   6 Fire Shard
+   6 Wind Shard
+   1 Cobalt Ingot
+   1 Snurble Tufts
+   1 Blacklip Oyster
+
+Streamer (Level 48)
+   6 Fire Shard
+   6 Wind Shard
+   1 Cobalt Ingot
+   1 Undyed Felt
+   1 Chocobo Feather
+
+Black Pearl Choker (Level 48)
+   6 Fire Shard
+   6 Wind Shard
+   2 Electrum Ingot
+   1 Black Pearl
+
+Tourmaline Choker (Level 48)
+   6 Fire Shard
+   6 Wind Shard
+   2 Electrum Ingot
+   1 Tourmaline
+
+Rubellite Choker (Level 48)
+   6 Fire Shard
+   6 Wind Shard
+   2 Electrum Ingot
+   1 Rubellite
+
+Rubellite Bracelet (Level 48)
+   6 Fire Shard
+   6 Wind Shard
+   1 Electrum Ingot
+   1 Rubellite
+
+Tourmaline Ring (Level 49)
+   6 Fire Shard
+   6 Wind Shard
+   1 Electrum Ingot
+   1 Tourmaline
+
+Spinel Ring (Level 49)
+   6 Fire Shard
+   6 Wind Shard
+   1 Electrum Ingot
+   1 Spinel
+
+Rubellite Ring (Level 49)
+   6 Fire Shard
+   6 Wind Shard
+   1 Electrum Ingot
+   1 Rubellite
+
+Black Pearl Ring (Level 49)
+   6 Fire Shard
+   6 Wind Shard
+   1 Electrum Ingot
+   1 Black Pearl
+
+Turquoise Ring (Level 49)
+   6 Fire Shard
+   6 Wind Shard
+   1 Electrum Ingot
+   1 Turquoise
+
+Electrum Ear Cuffs (Level 49)
+   6 Fire Shard
+   6 Wind Shard
+   2 Electrum Ingot
+   2 Basilisk Whetstone
+
+Tortoiseshell Armillae (Level 49)
+   6 Fire Shard
+   6 Wind Shard
+   3 Adamantoise Shell
+
+Electrum Choker (Level 49)
+   6 Fire Shard
+   6 Wind Shard
+   2 Electrum Ingot
+   1 Raptor Leather
+
+Jade Scepter (Level 49)
+   6 Fire Shard
+   6 Wind Shard
+   1 Jade
+   1 Raptor Leather
+   1 Ogre Horn
+
+Zircon Ring (Level 49)
+   6 Fire Shard
+   6 Wind Shard
+   1 Electrum Ingot
+   1 Zircon
+
+Gravel Golem (Level 50)
+   99 Wind Shard
+   3 Astral Rock
+
+Black Pearl Earrings (Level 50)
+   6 Fire Shard
+   6 Wind Shard
+   1 Electrum Ingot
+   2 Black Pearl
+
+Tourmaline Earrings (Level 50)
+   6 Fire Shard
+   6 Wind Shard
+   1 Electrum Ingot
+   2 Tourmaline
+
+Spinel Earrings (Level 50)
+   6 Fire Shard
+   6 Wind Shard
+   1 Electrum Ingot
+   2 Spinel
+
+Zircon Earrings (Level 50)
+   6 Fire Shard
+   6 Wind Shard
+   1 Electrum Ingot
+   2 Zircon
+
+Rubellite Earrings (Level 50)
+   6 Fire Shard
+   6 Wind Shard
+   1 Electrum Ingot
+   2 Rubellite
+
+Amber Earrings (Level 50)
+   6 Fire Shard
+   6 Wind Shard
+   1 Electrum Ingot
+   2 Amber
+
+Turquoise Earrings (Level 50)
+   6 Fire Shard
+   6 Wind Shard
+   1 Electrum Ingot
+   2 Turquoise
+
+Model Vanguard (Level 50)
+   99 Wind Shard
+   1 Garlean Steel Joint
+   1 Garlean Steel Plate
+
+Ivory Staff (Level 50)
+   6 Fire Shard
+   6 Wind Shard
+   1 Eye Of Lightning
+   1 Aldgoat Horn
+   2 Wolf Fang
+   1 Spoken Blood
+
+Sanguine Scepter (Level 50)
+   1 Fire Crystal
+   2 Wind Crystal
+   1 Darksteel Nugget
+   1 Pinprick Pebble
+
+Recipes levels 55 through 70
+Rose Gold Nugget (Level 55)
+   3 Wind Crystal
+   1 Copper Ore
+   3 Gold Ore
+
+Astral Eye (Level 55)
+   3 Wind Crystal
+   1 Astral Rock
+
+Aetheryte Ring (Level 55)
+   1 Water Cluster
+   1 Rose Gold Nugget
+
+Militia Earrings (Level 55)
+   2 Fire Crystal
+   3 Wind Crystal
+   2 Rose Gold Nugget
+   1 Basilisk Whetstone
+
+Militia Bracelets (Level 55)
+   2 Fire Crystal
+   3 Wind Crystal
+   2 Rose Gold Nugget
+   1 Basilisk Whetstone
+
+Militia Wristlets (Level 55)
+   2 Fire Crystal
+   3 Wind Crystal
+   3 Rose Gold Nugget
+
+Goldsmith's Turban (Level 55)
+   2 Fire Crystal
+   3 Wind Crystal
+   2 Rose Gold Nugget
+   1 Rubellite
+   1 Turquoise
+   1 Undyed Linen
+
+Imperial Operative Wristlets (Level 55)
+   2 Fire Crystal
+   3 Wind Crystal
+   3 Rose Gold Nugget
+
+Imperial Operative Choker (Level 55)
+   2 Fire Crystal
+   3 Wind Crystal
+   2 Rose Gold Nugget
+   1 Hippogryph Leather
+
+Alchemist's Monocle (Level 55)
+   2 Fire Crystal
+   3 Wind Crystal
+   1 Darksteel Nugget
+   1 Rose Gold Nugget
+   1 Boar Leather
+   1 Clear Glass Lens
+
+Blacksmith's Goggles (Level 55)
+   2 Fire Crystal
+   3 Wind Crystal
+   1 Darksteel Nugget
+   1 Hippogryph Leather
+   1 Undyed Woolen Cloth
+   1 Clear Glass Lens
+
+Rose Gold Ingot (Level 70)
+   1 Wind Cluster
+   2 Rose Gold Nugget
+   9 Peacock Ore
+
+Radiant Astral Eye (Level 70)
+   1 Wind Cluster
+   1 Astral Eye
+   9 Aqueous Whetstone
+
+Rose Gold Clasps (Level 70)
+   1 Fire Cluster
+   1 Wind Cluster
+   2 Darksteel Nugget
+   1 Rose Gold Ingot
+
+Astrolabe Clinometer (Level 70)
+   1 Fire Cluster
+   1 Wind Cluster
+   2 Rose Gold Nugget
+   1 Radiant Astral Eye
+
+Astral Bracelet (Level 70)
+   1 Fire Cluster
+   1 Wind Cluster
+   2 Rose Gold Ingot
+   1 Basilisk Whetstone
+
+Astral Ring (Level 70)
+   1 Fire Cluster
+   1 Wind Cluster
+   2 Rose Gold Ingot
+   1 Basilisk Whetstone
+
+Astrolabe (Level 70)
+   1 Fire Cluster
+   1 Wind Cluster
+   2 Darksteel Nugget
+   1 Rose Gold Nugget
+   1 Astrolabe Clinometer
+
+Rose Gold Ear Cuffs (Level 70)
+   1 Fire Cluster
+   1 Wind Cluster
+   2 Rose Gold Ingot
+   1 Basilisk Whetstone
+
+Rose Gold Earrings (Level 70)
+   1 Fire Cluster
+   1 Wind Cluster
+   1 Rose Gold Nugget
+   1 Darksteel Plate
+   1 Rose Gold Clasps
+
+Rose Gold Gorget (Level 70)
+   1 Fire Cluster
+   1 Wind Cluster
+   1 Rose Gold Ingot
+   1 Hard Hippogryph Leather
+
+Rose Gold Circlet (Level 70)
+   1 Fire Cluster
+   1 Wind Cluster
+   1 Legionary Visor
+   1 Rose Gold Ingot
+
+Astral Choker (Level 70)
+   1 Fire Cluster
+   1 Wind Cluster
+   1 Rose Gold Ingot
+   1 Hard Hippogryph Leather
+
+Rose Gold Bracelets (Level 70)
+   1 Fire Cluster
+   1 Wind Cluster
+   2 Rose Gold Ingot
+
+Rose Gold Ring (Level 70)
+   1 Fire Cluster
+   1 Wind Cluster
+   2 Rose Gold Ingot
+   1 Basilisk Whetstone
+
+Rose Gold Ear Screws (Level 70)
+   1 Fire Cluster
+   1 Wind Cluster
+   1 Rose Gold Nugget
+   1 Darksteel Plate
+   1 Rose Gold Clasps

@@ -1,0 +1,1064 @@
+Recipes level 1 to 5
+Table Salt (Level 1)
+   1 Fire Shard
+   1 Distilled Water
+   1 Rock Salt
+
+Maple Syrup (Level 1)
+   1 Fire Shard
+   1 Maple Sap
+
+Maple Sugar (Level 2)
+   1 Fire Shard
+   1 Maple Syrup
+
+Raisins (Level 3)
+   1 Fire Shard
+   1 Lowland Grapes
+
+Boiled Egg (Level 3)
+   1 Fire Shard
+   1 Water Shard
+   1 Mineral Water
+   1 Chicken Egg
+
+Rye Flour (Level 4)
+   1 Fire Shard
+   3 Rye
+
+Honey (Level 4)
+   1 Fire Shard
+   3 Beehive Chip
+
+Frumenty (Level 4)
+   1 Fire Shard
+   1 Water Shard
+   1 Raisins
+   1 Aldgoat Milk
+   1 Sunset Wheat
+   1 Cinnamon
+   1 Honey
+
+Grilled Trout (Level 5)
+   1 Fire Shard
+   1 Water Shard
+   1 Table Salt
+   1 Princess Trout
+
+Marmot Steak (Level 5)
+   1 Fire Shard
+   1 Water Shard
+   1 Marmot Meat
+   1 Wild Onion
+   1 Garlean Garlic
+
+Flatbread (Level 5)
+   1 Fire Shard
+   1 Water Shard
+   1 Mineral Water
+   1 Rye Flour
+   1 Table Salt
+
+Crayfish Ball (Level 5)
+   1 Fire Shard
+   1 Water Shard
+   1 Rye Flour
+   3 Crayfish
+
+Recipes level 6 to 10
+Sweet Cream (Level 6)
+   1 Fire Shard
+   1 Buffalo Milk
+
+Orange Juice (Level 6)
+   1 Fire Shard
+   1 Water Shard
+   3 La Noscean Orange
+
+Smooth Butter (Level 7)
+   1 Fire Shard
+   2 Buffalo Milk
+
+Sunset Wheat Flour (Level 7)
+   1 Fire Shard
+   4 Sunset Wheat
+
+Tree Toad Legs (Level 7)
+   1 Fire Shard
+   1 Water Shard
+   1 Sunset Wheat Flour
+   1 Garlean Garlic
+   1 Smooth Butter
+   1 Allagan Snail
+   1 Tree Toad
+
+Chanterelle Saute (Level 8)
+   1 Fire Shard
+   1 Water Shard
+   1 Chanterelle
+   1 Smooth Butter
+
+Braised Pipira (Level 8)
+   1 Fire Shard
+   1 Water Shard
+   1 Chanterelle 
+   1 Table Salt
+   1 Smooth Butter
+   1 Pipira
+
+Mutton Stew (Level 9)
+   1 Fire Shard
+   1 Water Shard
+   1 Mineral Water
+   1 Mutton Loin
+   1 Wild Onion
+   1 Coerthas Carrot
+   1 Sunset Wheat Flour
+
+Boiled Crayfish (Level 9)
+   1 Fire Shard
+   1 Water Shard
+   1 Mineral Water
+   1 Table Salt
+   1 Crimson Crayfish
+
+Kukuru Butter (Level 10)
+   1 Fire Shard
+   2 Kukuru Bean
+
+Goby Ball (Level 10)
+   1 Fire Shard
+   1 Water Shard
+   1 Rye Flour
+   3 Dusk Goby
+
+Mint Lassi (Level 10)
+   1 Fire Shard
+   1 Water Shard
+   1 Aldgoat Milk
+   1 Galago Mint
+
+Jack-o'-lantern (Level 10)
+   1 Fire Shard
+   1 Water Shard
+   1 Mineral Water
+   1 Ogre Pumpkin
+   1 Maple Syrup
+   1 Beeswax
+
+Recipes level 11 to 15
+Olive Oil (Level 11)
+   1 Fire Shard
+   4 Cinderfoot Olive
+
+Kukuru Powder (Level 11)
+   1 Fire Shard
+   2 Kukuru Bean
+
+Grilled Dodo (Level 11)
+   1 Fire Shard
+   1 Water Shard
+   1 Dodo Tenderloin
+   1 Garlean Garlic
+   1 Table Salt
+
+Tomato Sauce (Level 12)
+   1 Fire Shard
+   1 Wild Onion
+   1 Ruby Tomato
+   1 Garlean Garlic
+
+Bubble Chocolate (Level 12)
+   1 Fire Shard
+   1 Water Shard
+   1 Buffalo Milk
+   1 Maple Sugar
+   1 Kukuru Butter
+   1 Kukuru Powder
+
+Pearl Chocolate (Level 12)
+   1 Fire Shard
+   1 Water Shard
+   1 Aldgoat Milk
+   1 Maple Sugar
+   1 Kukuru Butter
+
+Parsnip Salad (Level 13)
+   1 Fire Shard
+   1 Water Shard
+   1 Mineral Water
+   1 Alpine Parsnip
+   1 La Nsocean Lettuce
+   1 Ciedalaes Spinach
+   1 Buffalo Beans
+   1 Olive Oil
+
+Mole Loaf (Level 13)
+   1 Fire Shard
+   1 Water Shard
+   1 Flatbread
+   1 Mole Meat
+   1 Chicken Egg
+   1 Wild Onion
+   1 Black Pepper
+   1 Tomato Sauce
+
+Gelatin (Level 14)
+   1 Fire Shard
+   1 Brass Loach
+   1 Bat Wing
+
+Pie Dough (Level 14)
+   1 Fire Shard
+   1 Mineral Water
+   1 Sunset Wheat Flour
+   1 Table Salt
+
+Rabbit Pie (Level 14)
+   1 Fire Shard
+   1 Water Shard
+   1 Marmot Steak
+   1 Wild Onion
+   1 Coerthas Carrot
+   1 Black Pepper
+   1 Pie Dough
+
+Salt Cod (Level 15)
+   1 Fire Shard
+   1 Water Shard
+   1 Table Salt
+   1 Tiger Cod
+
+Grilled Carp (Level 15)
+   1 Fire Shard
+   1 Water Shard
+   1 Table Salt
+   1 Maiden Carp
+
+Recipes level 16 to 20
+Meat Miq'abob (Level 16)
+   1 Fire Shard
+   1 Water Shard
+   1 Dodo Tenderloin
+   1 Ruby Tomato
+   1 Paprika
+   1 Table Salt
+
+Dodo Omelette (Level 16)
+   1 Fire Shard
+   1 Water Shard
+   1 Aldgoat Milk
+   1 Dodo Egg
+   1 Highland Parsley
+   1 Table Salt
+   1 Smooth Butter
+   1 Tomato Sauce
+
+Cider Vinegar (Level 16)
+   1 Fire Shard
+   1 Mineral Water
+   1 Faerie Apple
+
+Lavender Oil (Level 16)
+   1 Fire Shard
+   4 Lavender
+
+Roasted Nopales (Level 17)
+   1 Fire Shard
+   1 Water Shard
+   1 Blue Cheese
+   1 Nopales
+   1 Table Salt
+
+Stone Soup (Level 17)
+   1 Fire Shard
+   1 Water Shard
+   1 Mineral Water
+   1 Coerthas Carrot
+   1 Popoto
+   1 Table Salt
+   1 Ragstone
+
+Lentils & Chestnuts (Level 17)
+   1 Fire Shard
+   1 Water Shard
+   1 Gridanian Chestnut
+   1 Lalafellin Lentil
+   1 Black Pepper
+   1 Galago Mint
+   1 Olive Oil
+   1 Sour Red
+
+Cottage Cheese (Level 17)
+   1 Fire Shard
+   1 Aldgoat Milk
+   1 Cider Vinegar
+
+Apple Tart (Level 18)
+   1 Fire Shard
+   1 Water Shard
+   1 Chicken Egg
+   1 Faerie Apple
+   1 Cinnamon
+   1 Maple Sugar
+   1 Smooth Butter
+   1 Pie Dough
+
+Walnut Bread (Level 18)
+   1 Fire Shard
+   1 Water Shard
+   1 Buffalo Milk
+   1 Gridanian Walnut
+   1 Sunset Wheat Flour
+   1 Table Salt
+   1 Maple Sugar
+   1 Smooth Butter
+
+Raw Oyster (Level 19)
+   1 Fire Shard
+   1 Water Shard
+   1 Sun Lemon
+   1 Rothlyt Oyster
+
+Antelope Stew (Level 20)
+   1 Fire Shard
+   1 Water Shard
+   1 Antelope Shank
+   1 Wild Onion
+   1 Coerthas Carrot
+   1 Popoto
+   1 Sunset Wheat Flour
+
+Grilled Warmwater Trout (Level 20)
+   1 Fire Shard
+   1 Water Shard
+   1 Garlean Garlic
+   1 Table Salt
+   1 Warmwater Trout
+
+Crab Ball (Level 20)
+   1 Fire Shard
+   1 Water Shard
+   1 Rye Flour
+   3 Helmet Crab
+
+Chicken and Mushrooms (Level 20)
+   1 Fire Shard
+   1 Water Shard
+   1 Chicken Breast
+   1 Gil Bun
+   1 Table Salt
+   1 Smooth Butter
+
+Recipes level 21 to 25
+Honey Muffin (Level 21)
+   2 Fire Shard
+   1 Water Shard
+   1 Mineral Water
+   1 Aldgoat Milk
+   1 Chicken Egg
+   1 Sunset Wheat Flour
+   1 Honey
+   1 Smooth Butter
+
+Grape Juice (Level 21)
+   2 Fire Shard
+   1 Water Shard
+   3 Noble Grapes
+
+Antelope Steak (Level 21)
+   2 Fire Shard
+   1 Water Shard
+   1 Antelope Shank
+   1 Garlean Garlic
+   1 Table Salt
+
+Mashed Popotoes (Level 21)
+   2 Fire Shard
+   1 Water Shard
+   1 Cottage Cheese
+   1 Popoto
+   1 Garlean Garlic
+   1 Sweet Cream
+   1 Smooth Butter
+
+Druid Prunes (Level 22)
+   2 Fire Shard
+   1 Water Shard
+   1 Pixie Plums
+
+Spinach Saute (Level 22)
+   2 Fire Shard
+   1 Water Shard
+   1 Mineral WAter
+   3 Cieldalaes Spinach
+   1 Button Mushroom
+   1 Table Salt
+   1 Smooth Butter
+
+Mustard Eggs (Level 22)
+   2 Fire Shard
+   1 Water Shard
+   1 Mineral Water
+   1 Dodo Egg
+   1 Ala Mhigan Mustard
+   1 Table Salt
+
+Shepherd's Pie (Level 23)
+   2 Fire Shard
+   1 Water Shard
+   1 Antelope Shank
+   1 Wild Onion
+   1 Coerthas Carrot
+   1 Popoto
+   1 Black Pepper
+   1 Smooth Butter
+
+Salmon Meuniere (Level 23)
+   2 Fire Shard
+   1 Water Shard
+   1 Highland Parsley
+   1 Sun Lemon
+   1 Sunset Wheat Flour
+   1 Smooth Butter
+   1 Bluebell Salmon
+
+Dark Pretzel (Level 23)
+   2 Fire Shard
+   1 Water Shard
+   1 Mineral Water
+   1 Chicken Egg
+   1 Sunset Wheat Flour
+   1 Table Salt
+   1 Maple Sugar
+   1 Smooth Butter
+
+Chamomile Tea (Level 24)
+   2 Fire Shard
+   2 Water Shard
+   1 Mineral Water
+   1 Honey
+   1 Chamomile
+
+Eel Pie (Level 25)
+   2 Fire Shard
+   2 Water Shard
+   1 Popoto
+   1 Black Pepper
+   1 Cloves
+   1 Smooth Butter
+   1 Pie Dough
+   1 Black Eel
+
+Bass Ball (Level 25)
+   2 Fire Shard
+   2 Water Shard
+   1 Sunset Wheat Flour
+   3 Dark Bass
+
+Recipes level 26 through 30
+Ginger Cookie (Level 26)
+   2 Fire Shard
+   2 Water Shard
+   1 Chicken Egg
+   1 Sunset Wheat Flour
+   1 Pearl Ginger
+   1 Maple Sugar
+   1 Smooth Butter
+   1 Natron
+
+Pea Soup (Level 26)
+   2 Fire Shard
+   2 Water Shard
+   1 Mineral Water
+   1 Dodo Tenderloin
+   1 Wild Onion
+   1 Jade Peas
+   1 Table Salt
+
+Aldgoat Steak (Level 26)
+   2 Fire Shard
+   2 Water Shard
+   1 Aldgoat Chuck
+   1 Garlean Garlic
+   1 Table Salt
+
+Fried Egg (Level 27)
+   3 Fire Shard
+   2 Water Shard
+   1 Mineral Water
+   1 Puk Egg
+   1 Table Salt
+   1 Smooth Butter
+
+Boiled Bream (Level 27)
+   3 Fire Shard
+   2 Water Shard
+   1 Wild Onion
+   1 Wizard Eggplant
+   1 Midland Cabbage
+   1 Garlean Garlic
+   1 Olive Oil
+   1 Bianaq Bream
+
+Cheese Risotto (Level 27)
+   3 Fire Shard
+   2 Water Shard
+   1 Cottage Cheese
+   1 Wild Onion
+   1 Alpine Parsnip
+   1 Sticky Rice
+
+Crumpet (Level 28)
+   3 Fire Shard
+   2 Water Shard
+   1 Buffalo Milk
+   1 Sunset Wheat Flour
+   1 Table Salt
+   1 Maple Syrup
+   1 Smooth Butter
+   1 Natron
+
+Chicken Stock (Level 28)
+   3 Fire Shard
+   1 Chicken Breast
+   1 Wild Onion
+   1 Coerthas Carrot
+
+Orobon Stew (Level 28)
+   3 Fire Shard
+   2 Water Shard
+   1 Orobon Liver
+   1 Coerthas Carrot
+   1 Sunset Wheat Flour
+   1 Black Pepper
+   1 Sweet Cream
+   1 Chicken Stock
+
+Cornmeal (Level 29)
+   3 Fire Shard
+   3 Millioncorn
+
+Baked Sole (Level 30)
+   3 Fire Shard
+   3 Water Shard
+   1 Cieldalaes Spinach
+   1 Gil Bun
+   1 Table Salt
+   1 Black Sole
+
+Recipes level 31 to 35
+Dark Vinegar (Level 31)
+   3 Fire Shard
+   4 Noble Grapes
+
+Cornbread (Level 31)
+   3 Fire Shard
+   3 Water Shard
+   1 Mineral Water
+   1 Buffalo Milk
+   1 Chicken Egg
+   1 Sunset Wheat Flour
+   1 Cornmeal
+   1 Olive Oil
+
+Alligator Salad (Level 31)
+   3 Fire Shard
+   3 Water Shard
+   1 Blue Cheese
+   1 Paprika
+   1 Alligator Pear
+   1 Table Salt
+   1 Olive Oil
+   1 Dark Vinegar
+
+Forest Miq'abob (Level 32)
+   3 Fire Shard
+   3 Water Shard
+   1 Ruby Tomato
+   1 Aloe
+   1 Button Mushroom
+   1 Black Pepper
+   1 Table Salt
+   1 Lavender Oil
+
+Smoked Raptor (Level 32)
+   3 Fire Shard
+   3 Water Shard
+   1 Raptor Shank
+   1 Sun Lemon
+   1 Black Pepper
+   1 Table Salt
+   1 Olive Oil
+
+Tuna Miq'abob (Level 33)
+   4 Fire Shard
+   3 Water Shard
+   1 Sun Lemon
+   1 Midland Basil
+   1 Table Salt
+   1 Olive Oil
+   1 Finger Shrimp
+   1 Ash Tuna
+
+Blood Currant Tart (Level 33)
+   4 Fire Shard
+   3 Water Shard
+   1 Blood Currants
+   1 Maple Sugar
+   1 Smooth Butter
+   1 Pie Dough
+   1 Gelatin
+   1 Natron
+
+Scrambled Eggs (Level 34)
+   4 Fire Shard
+   3 Water Shard
+   1 Cottage Cheese
+   1 Puk Egg
+   1 White Truffle
+   1 Table Salt
+
+Acorn Cookie (Level 34)
+   4 Fire Shard
+   3 Water Shard
+   1 Mineral Water
+   1 Iron Acorn
+   1 Rye Flour
+   1 Table Salt
+
+Cawl Cennin (Level 35)
+   4 Fire Shard
+   3 Water Shard
+   1 Mineral Water
+   1 Wild Onion
+   1 Salt Leek
+   1 Sweet Cream
+   1 Smooth Butter
+   1 Chicken Stock
+
+Herring Ball (Level 35)
+   4 Fire Shard
+   3 Water Shard
+   1 Sunset Wheat Flour
+   3 Indigo Herring
+
+Recipes level 36 to 40
+Cream Cheese (Level 36)
+   4 Fire Shard
+   1 Sweet Cream
+   2 Night Milk
+
+Sauerkraut (Level 36)
+   4 Fire Shard
+   4 Water Shard
+   1 Mineral Water
+   1 Midland Cabbage
+   1 Dragon Pepper
+   1 Laurel
+   1 Table Salt
+
+Cheese Souffle (Level 37)
+   4 Fire Shard
+   4 Water Shard
+   1 Cream Cheese
+   1 Dodo Egg
+   1 Sun Lemon
+   1 Maple Syrup
+   1 Night Milk
+
+Ratatouille (Level 37)
+   4 Fire Shard
+   4 Water Shard
+   1 Ruby Tomato
+   1 Wizard Eggplant
+   1 Ramhorn Zucchini
+   1 Garlean Garlic
+   1 Laurel
+   1 Lavender Oil
+
+Mugwort Carp (Level 38)
+   4 Fire Shard
+   4 Water Shard
+   1 Mugwort
+   1 Table Salt
+   1 Velodyna Carp
+
+Knight's Bread (Level 38)
+   4 Fire Shard
+   4 Water Shard
+   1 Mineral Water
+   1 Chicken Egg
+   1 Rye Flour
+   1 Midland Basil
+   1 Honey
+
+Raptor Stew (Level 39)
+   5 Fire Shard
+   4 Water Shard
+   1 Raptor Shank
+   1 Chanterelle
+   1 Gil Bun
+   1 Sunset Wheat Flour
+   1 Table Salt
+
+Stuffed Artichoke (Level 39)
+   5 Fire Shard
+   4 Water Shard
+   1 Knight's Bread
+   1 Blue Cheese
+   1 Megalocrab Leg
+   1 Maiden Artichoke
+   1 Black Pepper
+   1 Sweet Cream
+
+Apple Juice (Level 40)
+   5 Fire Shard
+   4 Water Shard
+   6 Mirror Apple
+
+Pastry Fish (Level 40)
+   5 Fire Shard
+   4 Water Shard
+   1 Raisins
+   1 Almonds
+   1 Desert Saffron
+   1 Table Salt
+   1 Pie Dough
+   1 Mirror Apple
+
+Grilled Raincaller (Level 40)
+   5 Fire Shard
+   4 Water Shard
+   1 Table Salt
+   1 Raincaller
+
+Recipes level 41 to 45
+Jerked Beef (Level 41)
+   5 Fire Shard
+   4 Water Shard
+   1 Buffalo Sirloin
+   1 Black Pepper
+   1 Nutmeg
+   1 Sagolii Sage
+   1 Table Salt
+
+Salt Cod Puffs (Level 42)
+   5 Fire Shard
+   5 Water Shard
+   1 Salt Cod
+   1 Apkallu Egg
+   1 Sunset Wheat Flour
+   1 Thyme
+   1 Nutmeg
+   1 Clove Oil
+
+Fish Soup (Level 43)
+   5 Fire Shard
+   5 Water Shard
+   1 Wild Onion
+   1 Ruby Tomato
+   1 Highland Parsley
+   1 Nutmeg
+   1 Smooth Butter
+   1 Bianaq Bream
+
+Rolanberry Cheese (Level 43)
+   5 Fire Shard
+   1 Rolanberry 
+   2 Night Milk
+
+Button Mushroom Saute (Level 44)
+   5 Fire Shard
+   5 Water Shard
+   3 Button Mushroom
+   1 Garlean Garlic
+   1 Sagolii Sage
+   1 Table Salt
+   1 Olive Oil
+
+Dzemael Gratin (Level 44)
+   5 Fire Shard
+   5 Water Shard
+   1 Eft Tail
+   1 Popoto
+   1 Garlean Garlic
+   1 Black Pepper
+   1 Nutmeg
+   1 Sweet Cream
+
+Tomato Pie (Level 45)
+   6 Fire Shard
+   5 Water Shard
+   1 Cottage Cheese
+   1 Wild Onion
+   1 Ruby Tomato
+   1 Midland Basil
+   1 Table Salt
+   1 Pie Dough
+
+Rolanberry Lassi (Level 45)
+   6 Fire Shard
+   5 Water Shard
+   2 Rolanbery
+   2 Night Milk
+
+La Noscean Toast (Level 45)
+   6 Fire Shard
+   5 Water Shard
+   1 Walnut Bread
+   1 Buffalo Milk
+   1 Apkallu Egg
+   1 Maple Syrup
+   1 Smooth Butter
+   1 Olive Oil
+
+Stuffed Cabbage (Level 45)
+   6 Fire Shard
+   5 Water Shard
+   1 Coerthas Carrot
+   1 Midland Cabbage
+   1 Salt Leek
+   1 Clove Oil
+   1 Gelatin
+   1 Northern Pike
+
+Recipes level 46 to 50
+Deviled Eggs (Level 46)
+   6 Fire Shard
+   5 Water Shard
+   1 Apkallu Egg
+   1 Highland Parsley
+   1 Paprika
+   1 Sun Lemon
+   1 Ala Mhigan Mustard
+   1 Fullmoon Sardine
+
+Mulled Tea (Level 47)
+   6 Fire Shard
+   5 Water Shard
+   1 Mineral Water
+   1 Cinnamon
+   1 Cloves
+   1 Pearl Ginger
+   1 Thanalan Tea Leaves
+
+Crowned Pie (Level 48)
+   6 Fire Shard
+   6 Water Shard
+   1 Cinnamon
+   1 Almonds
+   1 Maple Sugar
+   1 Pie Dough
+   1 Tiny Crown
+   1 Mirror Apple
+
+Buttons in a Blanket (Level 49)
+   6 Fire Shard
+   6 Water Shards
+   1 Ruby Tomato
+   1 Midland Cabbage
+   3 Button Mushroom
+   1 Desert Saffron
+   1 Table Salt
+   1 Tomato Sauce
+
+Dagger Soup (Level 50)
+   2 Fire Crystal
+   1 Water Crystal
+   1 Mineral Water
+   1 Salt Leek
+   1 Table Salt
+   1 Navigator's Dagger
+   1 Cloud Cutter
+
+Trapper's Quiche (Level 50)
+   6 Fire Shard
+   6 Water Shard
+   1 Cream Cheese
+   1 Eft Tail
+   1 Apkallu Egg
+   1 Midland Basil
+   1 Nutmeg
+   1 Pie Dough
+
+Eft Steak (Level 50)
+   6 Fire Shard
+   6 Water Shard
+   1 Eft Tail 
+   1 Garlean Garlic
+   1 Black Pepper
+   1 Laurel
+   1 Cider Vinegar
+   1 Sour Red
+
+Beef Stew (Level 50)
+   6 Fire Shard
+   6 Water Shard
+   1 Mineral Water
+   1 Buffalo Sirloin
+   1 Wild Onion
+   1 Sunset Wheat Flour
+   1 Black Pepper
+   1 Sour Red
+
+Clear Drop (Level 50)
+      3 Fire Crystal
+      2 Water Crystal
+      1 Prickly Pineapple
+      1 Highland Parsley
+      1 Shark oil
+      1 Maple Sugar
+
+Black Drop (Level 50)
+     3 Fire Crystal
+     2 Water Crystal
+     1 Honey Lemon
+     1 Kukuru Powder
+     1 Shark Oil
+     1 Maple Sugar
+
+White Drop (Level 50)
+     3 Fire Crystal
+     2 Water Crystal
+     1 Honey Lemon
+     1 Night Milk
+     1 Shark Oil
+     1 Maple Sugar
+
+Red Drop (Level 50)
+     3 Fire Crystal
+     2 Water Crystal
+     1 Dzemael Tomato
+     1 Blood Currants
+     1 Shark Oil
+     1 Maple Sugar
+
+Blue Drop (Level 50)
+     3 Fire Crystal
+     2 Water Crystal
+     1 Prickly Pineapple
+     1 Pixie Plums
+     1 Shark Oil
+     1 Maple Sugar
+
+Purple Drop (Level 50)
+     3 Fire Crystal
+     2 Water Crystal
+     1 Honey Lemon
+     1 Lowland Grapes
+     1 Shark Oil
+     1 Maple Sugar
+
+Yellow Drop (Level 50)
+     3 Fire Crystal
+     2 Water Crystal
+     1 Honey Lemon
+     1 La Noscean Orange
+     1 Shark Oil
+     1 Maple Sugar
+
+Green Drop (Level 50)
+     3 Fire Crystal
+     2 Water Crystal
+     1 Prickly Pineapple
+     1 Thanalan Tea Leaves
+     1 Shark oil
+     1 Maple Sugar
+
+Recipes level 50+
+Pan-fried Mahi-Mahi (Level 55)
+   3 Fire Crystal
+   2 Water Crystal
+   1 Sunset Wheat Flour
+   1 Table Salt
+   3 Olive Oil
+   1 Mahi-Mahi
+
+Landtrap Salad (Level 55)
+   3 Fire Crystal
+   2 Water Crystal
+   1 Wild Onion
+   1 La Noscean Lettuce
+   1 Table Salt
+   1 Olive Oil
+   1 Blue Landtrap Leaf
+   1 Dzemael Tomato
+
+Rolanberry Cheesecake (Level 55)
+   3 Fire Crystal
+   2 Water Crystal
+   2 Rolanberry Cheese
+   1 Sweet Cream
+   1 Gelatin
+   1 Honey Lemon
+
+Bouillabaisse (Level 55)
+   3 Fire Crystal
+   2 Water Crystal
+   1 Desert Saffron
+   1 Olive Oil
+   1 Finger Shrimp
+   1 Rothlyt Oyster
+   1 Razor Clam
+   1 Dzemael Tomato
+
+Pineapple Juice (Level 70)
+   1 Fire Cluster
+   1 Water Cluster
+   4 Prickly Pineapple
+
+Sauteed Coeurl (Level 70)
+   1 Fire Cluster
+   1 Water Cluster
+   1 Garlean Garlic
+   1 Smooth Butter
+   1 Coeurl Meat
+   1 Cooking Sherry
+   1 Volcanic Rock Salt
+
+Lava Toad Legs (Level 70)
+   1 Fire Cluster
+   1 Water Cluster
+   1 Wild Onion
+   1 Sunset Wheat Flour
+   1 Midland Basil
+   1 Dragon Pepper
+   1 Allagan Snail
+   1 Lava Toad
+
+Black Truffle Risotto (Level 70)
+   1 Fire Cluster
+   1 Water Cluster
+   1 Cottage Cheese
+   1 Wild Onion
+   1 Black Truffle
+   1 Sticky Rice
+
+Finger Sandwich (Level 70)
+   1 Fire Cluster
+   1 Water Cluster
+   1 Walnut Bread
+   1 Apkallu Egg
+   1 La Noscean Lettuce
+   1 Smooth Butter
+   1 Volcanic Rock Salt
+
+Apkallu Omelette (Level 70)
+   1 Fire Cluster
+   1 Water Cluster
+   1 Mineral Water
+   1 Apkallu Egg
+   1 Black Truffle
+   1 Table Salt
+   1 Sweet Cream
+   1 Smooth Butter
+
+Pineapple Ponzecake (Level 70)
+   1 Fire Cluster
+   1 Water Cluster
+   1 Apkallu Egg
+   1 Prickly Pineapple
+   1 Sunset Wheat Flour
+   1 Maple Syrup
+   1 Night Milk

@@ -1,0 +1,1663 @@
+Recipes levels 1 through 5
+Leather (Level 1)
+   1 Earth Shard
+   1 Animal Skin
+
+Leather Calot (Level 1)
+   1 Wind Shard
+   1 Earth Shard
+   1 Leather
+
+Leather Duckbills (Level 2)
+   1 Wind Shard
+   1 Earth Shard
+   1 Leather
+   1 Undyed Hempen Cloth
+
+Leather Wristguards (Level 2)
+   1 Wind Shard
+   1 Earth Shard
+   1 Leather
+   1 Animal Sinew
+
+Leather Shepherd's Belt (Level 3)
+   1 Wind Shard
+   1 Earth Shard
+   1 Bronze Ingot
+   1 Leather
+
+Leather Duckbills Of Gathering (Level 3)
+   1 Wind Shard
+   1 Earth Shard
+   1 Leather
+   1 Undyed Hempen Cloth
+
+Merchant's Purse (Level 3)
+   1 Wind Shard
+   1 Earth Shard
+   1 Bronze Ingot
+   1 Leather
+
+Leather Belt (Level 4)
+   1 Wind Shard
+   1 Earth Shard
+   1 Bronze Ingot
+   1 Leather
+   1 Animal Sinew
+
+Leather Eyepatch (Level 4)
+   1 Wind Shard
+   1 Earth Shard
+   1 Leather
+   1 Animal Sinew
+   1 Hempen Yarn
+
+Leather Shoes (Level 4)
+   1 Wind Shard
+   1 Earth Shard
+   1 Leather
+   1 Animal Sinew
+   1 Rubber
+
+Fingerless Leather Gloves (Level 4)
+   1 Wind Shard
+   1 Earth Shard
+   1 Bronze Rivets
+   2 Leather
+
+Leather Crakows (Level 5)
+   1 Wind Shard
+   1 Earth Shard
+   1 Bronze Ingot
+   1 Leather
+   1 Animal Sinew
+   1 Rubber
+
+Leather Choker (Level 5)
+   1 Wind Shard
+   1 Earth Shard
+   1 Leather
+   1 Animal Sinew
+
+Leather Culottes (Level 5)
+   1 Wind Shard
+   1 Earth Shard
+   2 Leather
+   2 Undyed Hempen Cloth
+
+Recipes levels 6 through 10
+Leather Mitts (Level 6)
+   1 Wind Shard
+   1 Earth Shard
+   2 Leather
+   1 Animal Sinew
+
+Leather Ringbands (Level 6)
+   1 Wind Shard
+   1 Earth Shard
+   1 Bronze Ingot
+   1 Leather
+   1 Hempen Cloth
+
+Leather Boots (Level 6)
+   1 Wind Shard
+   1 Earth Shard
+   1 Leather
+   1 Animal Sinew
+   1 Undyed Hempen Cloth
+   1 Rubber
+
+Leather Lightmitts (Level 6)
+   1 Wind Shard
+   1 Earth Shard
+   2 Leather
+   1 Animal Sinew
+
+Leather Wristbands (Level 7)
+   1 Wind Shard
+   1 Earth Shard
+   1 Leather
+   2 Bone Chip
+   1 Animal Glue
+
+Leather Himantes (Level 7)
+   1 Wind Shard
+   1 Earth Shard
+   1 Bronze Ingot
+   2 Leather
+   1 Undyed Hempen Cloth
+
+Hard Leather (Level 8)
+   1 Earth Shard
+   1 Animal Hide
+
+Leather Sandals (Level 8)
+   1 Wind Shard
+   1 Earth Shard
+   1 Leather
+   1 Animal Sinew
+   1 Maple Lumber
+
+Hard Leather Pot Helm (Level 8)
+   1 Wind Shard
+   1 Earth Shard
+   1 Bronze Rivets
+   1 Leather
+   1 Hard Leather
+
+Leather Leggings (Level 8)
+   1 Wind Shard
+   1 Earth Shard
+   2 Leather
+   1 Undyed Hempen Cloth
+
+Amateur's Thighboots (Level 9)
+   1 Wind Shard
+   1 Earth Shard
+   1 Hard Leather
+   1 Undyed Hempen Cloth
+   1 Rubber
+
+Amateur's Smithing Gloves (Level 9)
+   1 Wind Shard
+   1 Earth Shard
+   2 Hard Leather
+   1 Animal Sinew
+
+Amateur's Duckbills (Level 9)
+   1 Wind Shard
+   1 Earth Shard
+   1 Hard Leather
+   1 Undyed Hempen Cloth
+
+Hard Leather Wristguards (Level 10)
+   1 Wind Shard
+   1 Earth Shard
+   1 Hard Leather
+   1 Beast Sinew
+
+Hard Leather Merchant's Pouch (Level 10)
+   1 Wind Shard
+   1 Earth Shard
+   1 Bronze Ingot
+   1 Hard Leather
+
+Leather Jacket (Level 10)
+   1 Wind Shard
+   1 Earth Shard
+   3 Hard Leather
+   1 Animal Sinew
+
+Recipes levels 11 through 15
+Leather Survival Belt (Level 11)
+   1 Wind Shard
+   1 Earth Shard
+   1 Bronze Ingot
+   1 Hard Leather
+   1 Undyed Hempen Cloth
+
+Amateur's Headgear (Level 11)
+   1 Wind Shard
+   1 Earth Shard
+   1 Bronze Ingot
+   1 Bronze Rivets
+   1 Hard Leather
+
+Hard Leather Shoes (Level 11)
+   1 Wind Shard
+   1 Earth Shard
+   1 Hard Leather
+   1 Beast Sinew
+   1 Rubber
+
+Leather Jackboots (Level 12)
+   1 Wind Shard
+   1 Earth Shard
+   1 Hard Leather
+   1 Beast Sinew
+   1 Undyed Hempen Cloth
+   1 Rubber
+
+Hard Leather Harness (Level 12)
+   1 Wind Shard
+   1 Earth Shard
+   1 Bronze Ingot
+   1 Leather
+   1 Hard Leather
+
+Hard Leather Satchel Belt (Level 12)
+   1 Wind Shard
+   1 Earth Shard
+   1 Copper Ingot
+   1 Hard Leather
+   1 Hempen Yarn
+
+Hard Leather Armguards (Level 13)
+   1 Wind Shard
+   1 Earth Shard
+   1 Bronze Ingot
+   1 Bronze Rivets
+   2 Hard Leather
+
+Hard Leather Hunting Belt (Level 13)
+   1 Wind Shard
+   1 Earth Shard
+   1 Copper Ingot
+   1 Leather
+   1 Hard Leather
+
+Leather Targe (Level 13)
+   1 Wind Shard
+   1 Earth Shard
+   1 Bronze Rivets
+   2 Leather
+   1 Ash Lumber
+
+Hard Leather Caligae (Level 14)
+   1 Wind Shard
+   1 Earth Shard
+   1 Bronze Rivets
+   1 Hard Leather
+   1 Beast Sinew
+
+Hard Leather Subligar (Level 14)
+   1 Wind Shard
+   1 Earth Shard
+   1 Hard Leather
+   1 Undyed Hempen Cloth
+   1 Hempen Yarn
+
+Hard Leather Eyepatch (Level 14)
+   1 Wind Shard
+   1 Earth Shard
+   1 Hard Leather
+   1 Beast Sinew
+   1 Hempen Yarn
+
+Hard Leather Himantes (Level 14)
+   1 Wind Shard
+   1 Earth Shard
+   1 Iron Ingot
+   2 Hard Leather
+   1 Undyed Hempen Cloth
+
+Hard Leather Lightpouch (Level 14)
+   1 Wind Shard
+   1 Earth Shard
+   1 Iron Ingot
+   1 Hard Leather
+
+Hard Leather Lightmitts (Level 14)
+   1 Wind Shard
+   1 Earth Shard
+   2 Hard Leather
+   1 Beast Sinew
+
+Hard Leather Boots (Level 15)
+   1 Wind Shard
+   1 Earth Shard
+   1 Hard Leather
+   1 Beast Sinew
+   1 Undyed Hempen Cloth
+   1 Rubber
+
+Fingerless Hard Leather Gloves (Level 15)
+   1 Wind Shard
+   1 Earth Shard
+   1 Iron Rivets
+   2 Hard Leather
+
+Hard Leather Choker (Level 15)
+   1 Wind Shard
+   1 Earth Shard
+   1 Hard Leather
+   1 Beast Sinew
+
+Recipes levels 16 through 20
+Hard Leather Ringbands (Level 16)
+   1 Wind Shard
+   1 Earth Shard
+   1 Iron Ingot
+   1 Hard Leather
+
+Hard Leather Shepherd's Belt (Level 16)
+   1 Wind Shard
+   1 Earth Shard
+   1 Brass Ingot
+   2 Hard Leather
+
+Hard Leather Belt (Level 16)
+   1 Wind Shard
+   1 Earth Shard
+   1 Iron Ingot
+   1 Hard Leather
+   1 Beast Sinew
+
+Hard Leather Wristbands Of Gathering (Level 17)
+   1 Wind Shard
+   1 Earth Shard
+   1 Hard Leather
+   2 White Coral
+   1 Fish Glue
+
+Hard Leather Wristbands (Level 17)
+   1 Wind Shard
+   1 Earth Shard
+   1 Hard Leather
+   2 White Coral
+   1 Fish Glue
+
+Hard Leather Espadrilles (Level 17)
+   1 Wind Shard
+   1 Earth Shard
+   1 Hard Leather
+   1 Beast Sinew
+   1 Elm Lumber
+
+Hard Leather Skullcap (Level 17)
+   1 Wind Shard
+   1 Earth Shard
+   2 Hard Leather
+   1 Cotton Yarn
+
+Aldgoat Leather (Level 17)
+   1 Earth Shard
+   1 Aldgoat Skin
+   1 Alumen
+
+Goatskin Wristguards (Level 18)
+   1 Wind Shard
+   1 Earth Shard
+   1 Aldgoat Leather
+   1 Beast Sinew
+
+Goatskin Mitts (Level 18)
+   1 Wind Shard
+   1 Earth Shard
+   2 Aldgoat Leather
+   1 Beast Sinew
+
+Hard Leather Cesti (Level 18)
+   1 Wind Shard
+   1 Earth Shard
+   1 Bronze Ingot
+   1 Aldgoat Leather
+   1 Beast Sinew
+
+Goatskin Leggings (Level 19)
+   1 Wind Shard
+   1 Earth Shard
+   2 Aldgoat Leather
+   1 Undyed Cotton Cloth
+
+Goatskin Tool Belt (Level 19)
+   1 Wind Shard
+   1 Earth Shard
+   1 Iron Rivets
+   2 Aldgoat Leather
+
+Goatskin Pot Helm (Level 19)
+   1 Wind Shard
+   1 Earth Shard
+   1 Iron Rivets
+   1 Hard Leather
+   1 Aldgoat Leather
+
+Initiate's Gloves (Level 20)
+   1 Wind Shard
+   1 Earth Shard
+   2 Aldgoat Leather
+   1 Beast Sinew
+
+Goatskin Ring (Level 20)
+   1 Wind Shard
+   1 Earth Shard
+   1 Aldgoat Leather
+   1 Cotton Yarn
+
+Recipes levels 21 through 25
+Padded Leather Duckbills (Level 21)
+   1 Wind Shard
+   2 Earth Shard
+   1 Leather Duckbills
+   1 Leather
+   1 Undyed Cotton Cloth
+
+Padded Leather Duckbills Of Gathering (Level 21)
+   1 Wind Shard
+   2 Earth Shard
+   1 Leather Duckbills
+   1 Leather
+   1 Undyed Cotton Cloth
+
+Initiate's Thighboots (Level 21)
+   1 Wind Shard
+   2 Earth Shard
+   1 Hard Leather
+   1 Aldgoat Leather
+   1 Undyed Cotton Cloth
+   1 Rubber
+
+Goatskin Jacket (Level 22)
+   1 Wind Shard
+   2 Earth Shard
+   3 Aldgoat Leather
+   1 Beast Sinew
+
+Goatskin Armguards (Level 22)
+   1 Wind Shard
+   2 Earth Shard
+   1 Iron Rivets
+   2 Aldgoat Leather
+
+Initiate's Headgear (Level 22)
+   1 Wind Shard
+   2 Earth Shard
+   1 Iron Ingot
+   1 Iron Rivets
+   1 Aldgoat Leather
+
+Goatskin Brais (Level 22)
+   1 Wind Shard
+   3 Earth Shard
+   1 Aldgoat Leather
+   1 Beast Sinew
+   1 Undyed Cotton Cloth
+   1 Cotton Yarn
+
+Goatskin Lightmitts (Level 23)
+   1 Wind Shard
+   2 Earth Shard
+   2 Aldgoat Leather
+   1 Beast Sinew
+
+Voyager's Belt (Level 23)
+   1 Wind Shard
+   2 Earth Shard
+   1 Iron Ingot
+   1 Aldgoat Leather
+   1 Beast Sinew
+
+Goatskin Leg Guards (Level 23)
+   1 Wind Shard
+   2 Earth Shard
+   1 Iron Ingot
+   2 Aldgoat Leather
+   1 Beast Sinew
+
+Goatskin Eyepatch (Level 23)
+   1 Wind Shard
+   2 Earth Shard
+   1 Aldgoat Leather
+   1 Beast Sinew
+   1 Cotton Yarn
+
+Goatskin Satchel Belt (Level 24)
+   2 Wind Shard
+   2 Earth Shard
+   1 Iron Ingot
+   1 Aldgoat Leather
+
+Goatskin Breeches (Level 24)
+   2 Wind Shard
+   2 Earth Shard
+   2 Aldgoat Leather
+   2 Undyed Cotton Cloth
+   1 Cotton Yarn
+
+Goatskin Belt (Level 24)
+   2 Wind Shard
+   2 Earth Shard
+   1 Iron Ingot
+   1 Aldgoat Leather
+
+Goatskin Espadrilles (Level 25)
+   2 Wind Shard
+   2 Earth Shard
+   1 Aldgoat Leather
+   1 Beast Sinew
+   1 Elm Lumber
+
+Fingerless Goatksin Gloves (Level 25)
+   2 Wind Shard
+   2 Earth Shard
+   1 Iron Rivets
+   2 Aldgoat Leather
+
+Fingerless Goatskin Gloves Of Gathering (Level 25)
+   2 Wind Shard
+   2 Earth Shard
+   1 Iron Rivets
+   2 Aldgoat Leather
+
+Recipes levels 26 through 30
+Goatskin Choker (Level 26)
+   2 Wind Shard
+   2 Earth Shard
+   1 Aldgoat Leather
+   1 Diremite Sinew
+
+Goatskin Crakows (Level 26)
+   2 Wind Shard
+   2 Earth Shard
+   1 Iron Ingot
+   1 Aldgoat Leather
+   1 Diremite Sinew
+   1 Rubber
+
+Toad Leather (Level 26)
+   2 Earth Shard
+   1 Gigantoad Skin
+   1 Alumen
+
+Goatskin Crakows Of Gathering (Level 27)
+   2 Wind Shard
+   3 Earth Shard
+   1 Iron Ingot
+   1 Aldgoat Leather
+   1 Diremite Sinew
+   1 Rubber
+
+Goatskin Boots (Level 27)
+   2 Wind Shard
+   3 Earth Shard
+   1 Aldgoat Leather
+   1 Diremite Sinew
+   1 Undyed Velveteen
+   1 Rubber
+
+Goatskin Ringbands (Level 27)
+   2 Wind Shard
+   3 Earth Shard
+   1 Steel Ingot
+   1 Aldgoat Leather
+
+Goatskin Wristbands Of Gathering (Level 27)
+   2 Wind Shard
+   3 Earth Shard
+   1 Aldgoat Leather
+   2 White Coral
+   1 Fish Glue
+
+Toadskin Survival Belt (Level 27)
+   2 Wind Shard
+   3 Earth Shard
+   1 Iron Ingot
+   2 Toad Leather
+   1 Undyed Cotton Cloth
+
+Toadskin Cesti (Level 28)
+   2 Wind Shard
+   3 Earth Shard
+   1 Steel Ingot
+   1 Toad Leather
+   1 Diremite Sinew
+
+Toadskin Hunting Belt (Level 28)
+   2 Wind Shard
+   3 Earth Shard
+   1 Steel Ingot
+   1 Aldgoat Leather
+   1 Toad Leather
+
+Toadskin Brais (Level 29)
+   2 Wind Shard
+   3 Earth Shard
+   1 Toad Leather
+   1 Diremite Sinew
+   1 Undyed Cotton Cloth
+   1 Cotton Yarn
+
+Goatskin Targe (Level 29)
+   2 Wind Shard
+   3 Earth Shard
+   1 Steel Rivets
+   1 Aldgoat Leather
+   1 Walnut Lumber
+
+Goatskin Wristbands (Level 29)
+   2 Wind Shard
+   3 Earth Shard
+   1 Aldgoat Leather
+   2 White Coral
+   1 Fish Glue
+
+Toadskin Jacket (Level 30)
+   3 Wind Shard
+   3 Earth Shard
+   1 Aldgoat Leather
+   2 Toad Leather
+   1 Diremite Sinew
+
+Toadskin Armguards (Level 30)
+   3 Wind Shard
+   3 Earth Shard
+   1 Steel Ingot
+   1 Steel Rivets
+   2 Toad Leather
+
+Toadskin Jerkin (Level 30)
+   3 Wind Shard
+   3 Earth Shard
+   1 Iron Ingot
+   3 Toad Leather
+   1 Undyed Cotton Cloth
+
+Recipes levels 31 through 35
+Toadskin Workboots (Level 31)
+   3 Wind Shard
+   3 Earth Shard
+   2 Toad Leather
+   1 Diremite Sinew
+   1 Undyed Velveteen
+   1 Rubber
+
+Toadskin Culottes (Level 31)
+   3 Wind Shard
+   3 Earth Shard
+   2 Toad Leather
+   2 Undyed Velveteen
+
+Toadskin Voyager's Belt (Level 31)
+   3 Wind Shard
+   3 Earth Shard
+   1 Steel Ingot
+   1 Toad Leather
+   1 Diremite Sinew
+
+Toadskin Leg Guards (Level 31)
+   3 Wind Shard
+   3 Earth Shard
+   1 Steel Ingot
+   2 Toad Leather
+   1 Diremite Sinew
+
+Toadskin Belt (Level 32)
+   3 Wind Shard
+   3 Earth Shard
+   1 Steel Ingot
+   1 Toad Leather
+   1 Hippogryph Sinew
+
+Toadskin Breeches (Level 32)
+   3 Wind Shard
+   3 Earth Shard
+   2 Toad Leather
+   2 Undyed Velveteen
+   1 Dew Thread
+
+Toadskin Ring (Level 32)
+   3 Wind Shard
+   3 Earth Shard
+   1 Toad Leather
+   1 Dew Thread
+
+Boar Leather (Level 33)
+   4 Earth Shard
+   1 Boar Hide
+   1 Alumen
+
+Skull Eyepatch (Level 33)
+   3 Wind Shard
+   4 Earth Shard
+   1 Toad Leather
+   1 Hippogryph Sinew
+   1 Dew Thread
+
+Boarskin Satchel Belt (Level 33)
+   3 Wind Shard
+   4 Earth Shard
+   1 Silver Ingot
+   1 Boar Leather
+   1 Linen Yarn
+
+Fingerless Boarskin Gloves (Level 33)
+   3 Wind Shard
+   4 Earth Shard
+   1 Steel Rivets
+   1 Aldgoat Leather
+   2 Boar Leather
+
+Boarskin Himantes (Level 33)
+   3 Wind Shard
+   4 Earth Shard
+   1 Iron Ingot
+   1 Boar Leather
+   1 Hippogryph Sinew
+
+Boarskin Choker (Level 34)
+   3 Wind Shard
+   4 Earth Shard
+   1 Boar Leather
+   1 Hippogryph Sinew
+
+Fingerless Boarskin Gloves Of Gathering (Level 34)
+   3 Wind Shard
+   4 Earth Shard
+   1 Steel Rivets
+   1 Aldgoat Leather
+   2 Boar Leather
+
+Vintage Shepherd's Belt (Level 35)
+   1 Earth Crystal
+   1 Cracked Shepherd's Belt
+   1 Boar Leather
+
+Toadskin Duckbills (Level 35)
+   3 Wind Shard
+   4 Earth Shard
+   1 Toad Leather
+   1 Undyed Linen
+
+Boarskin Crakows (Level 35)
+   3 Wind Shard
+   4 Earth Shard
+   1 Steel Ingot
+   1 Boar Leather
+   1 Hippogryph Sinew
+   1 Rubber
+
+Boarskin Crakows Of Gathering (Level 35)
+   3 Wind Shard
+   4 Earth Shard
+   1 Steel Ingot
+   1 Boar Leather
+   1 Hippogryph Sinew
+   1 Rubber
+
+Recipes levels 36 through 40
+Boarskin Wristbands Of Gathering (Level 36)
+   4 Wind Shard
+   4 Earth Shard
+   1 Boar Leather
+   2 Blue Coral
+   1 Horn Glue
+
+Boarskin Ringbands (Level 36)
+   4 Wind Shard
+   4 Earth Shard
+   1 Steel Ingot
+   1 Boar Leather
+
+Boarskin Wristbands (Level 36)
+   4 Wind Shard
+   4 Earth Shard
+   1 Boar Leather
+   2 Blue Coral
+   1 Horn Glue
+
+Boarskin Pot Helm (Level 37)
+   4 Wind Shard
+   4 Earth Shard
+   1 Brass Ingot
+   1 Mythril Rivets
+   1 Aquamarine
+   1 Aldgoat Leather
+   1 Boar Leather
+
+Boarskin Hardness (Level 37)
+   4 Wind Shard
+   4 Earth Shard
+   2 Steel Ingot
+   1 Aldgoat Leather
+   1 Boar Leather
+
+Boarskin Subligar (Level 37)
+   4 Wind Shard
+   4 Earth Shard
+   1 Steel Ingot
+   2 Boar Leather
+   1 Undyed Linen
+
+Vintage Chef's Belt (Level 37)
+   1 Earth Crystal
+   1 Frayed Chef's Belt
+   1 Boar Leather
+
+Boarskin Shepherd's Belt (Level 37)
+   4 Wind Shard
+   4 Earth Shard
+   1 Mythril Ingot
+   2 Boar Leather
+
+Peiste Leather (Level 38)
+   4 Earth Shard
+   1 Peiste Skin
+   1 Black Alumen
+
+Fingerless Peisteskin Gloves (Level 38)
+   4 Wind Shard
+   4 Earth Shard
+   1 Steel Rivets
+   1 Boar Leather
+   2 Peiste Leather
+
+Peisteskin Crakows Of Gathering (Level 38)
+   4 Wind Shard
+   4 Earth Shard
+   1 Mythril Ingot
+   1 Peiste Leather
+   1 Hippogryph Sinew
+   1 Rubber
+
+Peisteskin Crakows (Level 38)
+   4 Wind Shard
+   4 Earth Shard
+   1 Mythril Ingot
+   1 Peiste Leather
+   1 Hippogryph Sinew
+   1 Rubber
+
+Boarskin Breeches (Level 38)
+   4 Wind Shard
+   4 Earth Shard
+   2 Boar Leather
+   2 Undyed Linen
+   1 Linen Yarn
+
+Peisteskin Harness (Level 39)
+   4 Wind Shard
+   5 Earth Shard
+   2 Mythril Ingot
+   1 Boar Leather
+   1 Peiste Leather
+
+Boarskin Ring (Level 39)
+   4 Wind Shard
+   5 Earth Shard
+   1 Boar Leather
+   1 Woolen Yarn
+
+Vintage Smithy's Gloves (Level 39)
+   1 Wind Crystal
+   1 Blackened Smithy's Gloves
+   1 Boar Leather
+   1 Diremite Sinew
+
+Fingerless Peisteskin Gloves Of Gathering (Level 39)
+   4 Wind Shard
+   5 Earth Shard
+   1 Steel Rivets
+   1 Boar Leather
+   2 Peiste Leather
+
+Boarskin Thighboots (Level 39)
+   4 Wind Shard
+   5 Earth Shard
+   1 Toad Leather
+   1 Boar Leather
+   1 Undyed Linen
+   1 Rubber
+
+Boarskin Survival Belt (Level 40)
+   4 Wind Shard
+   5 Earth Shard
+   1 Silver Ingot
+   2 Boar Leather
+   1 Undyed Linen
+
+Boarskin Tool Belt (Level 40)
+   4 Wind Shard
+   5 Earth Shard
+   1 Mythril Rivets
+   2 Boar Leather
+
+Boarskin Smithy's Gloves (Level 40)
+   4 Wind Shard
+   5 Earth Shard
+   1 Steel Ingot
+   2 Boar Leather
+   1 Hippogryph Sinew
+
+Peisteskin Hunting Belt (Level 40)
+   4 Wind Shard
+   5 Earth Shard
+   1 Mythril Ingot
+   1 Boar Leather
+   1 Peiste Leather
+
+Recipes levels 41 through 45
+Raptor Leather (Level 41)
+   5 Earth Shard
+   1 Raptor Skin
+   1 Black Alumen
+
+Vintage Thighboots (Level 41)
+   1 Earth Crystal
+   1 Mildewed Thighboots
+   1 Iron Rivets
+   1 Raptor Leather
+   1 Diremite Sinew
+   1 Rubber
+
+Peisteskin Subligar (Level 41)
+   4 Wind Shard
+   5 Earth Shard
+   1 Mythril Ingot
+   2 Peiste Leather
+   1 Undyed Woolen Cloth
+
+Boarskin Culottes (Level 41)
+   4 Wind Shard
+   5 Earth Shard
+   2 Boar Leather
+   2 Undyed Woolen Cloth
+
+Boarskin Belt (Level 41)
+   4 Wind Shard
+   5 Earth Shard
+   1 Mythril Ingot
+   1 Boar Leather
+   1 Hippogyrph Sinew
+
+Boarskin Skirt (Level 41)
+   4 Wind Shard
+   5 Earth Shard
+   1 Silver Ingot
+   2 Boar Leather
+   1 Undyed Linen
+
+Boarskin Moccasins (Level 41)
+   4 Wind Shard
+   5 Earth Shard
+   1 Aldgoat Leather
+   1 Boar Leather
+   1 Hippogryph Sinew
+   1 Rubber
+
+Raptorskin Targe (Level 42)
+   5 Wind Shard
+   5 Earth Shard
+   1 Mythril Rivets
+   1 Raptor Leather
+   1 Oak Lumber
+   1 Aldgoat Horn
+
+Boarskin Workboots (Level 42)
+   5 Wind Shard
+   5 Earth Shard
+   2 Boar Leather
+   1 Hippogryph Sinew
+   1 Undyed Linen
+   1 Rubber
+
+Uraeus Leather (Level 43)
+   1 Earth Crystal
+   1 Uraeus Skin
+   1 Black Alumen
+
+Silver Tricorne (Level 43)
+   1 Wind Crystal
+   1 Silver Ingot
+   1 Uraeus Leather
+   1 Diremite Sinew
+
+Boarskin Jerkin (Level 43)
+   5 Wind Shard
+   5 Earth Shard
+   1 Silver Ingot
+   3 Boar Leather
+   1 Undyed Woolen Cloth
+
+Raptorskin Satchel Belt (Level 43)
+   5 Wind Shard
+   5 Earth Shard
+   1 Electrum Ingot
+   1 Raptor Leather
+   1 Woolen Yarn
+
+Raptorskin Choker (Level 43)
+   5 Wind Shard
+   5 Earth Shard
+   1 Raptor Leather
+   1 Raptor Sinew
+
+Boarskin Ringbands Of Tremors (Level 43)
+   5 Wind Shard
+   5 Earth Shard
+   1 Boarskin Ringbands
+   1 Electrum Ingot
+   1 Eye Of Earth
+
+Boarskin Ringbands Of Frost (Level 43)
+   5 Wind Shard
+   5 Earth Shard
+   1 Boarskin Ringbands
+   1 Electrum Ingot
+   1 Eye Of Ice
+
+Boarskin Ringbands Of Gales (Level 43)
+   5 Wind Shard
+   5 Earth Shard
+   1 Boarskin Ringbands
+   1 Electrum Ingot
+   1 Eye Of Wind
+
+Boarskin Ringbands Of Tides (Level 43)
+   5 Wind Shard
+   5 Earth Shard
+   1 Boarskin Ringbands
+   1 Electrum Ingot
+   1 Eye Of Water
+
+Boarskin Ringbands Of Storms (Level 43)
+   5 Wind Shard
+   5 Earth Shard
+   1 Boarskin Ringbands
+   1 Electrum Ingot
+   1 Eye Of Lightning
+
+Fingerless Raptorskin Gloves (Level 43)
+   5 Wind Shard
+   5 Earth Shard
+   1 Cobalt Rivets
+   1 Boar Leather
+   2 Raptor Leather
+
+Boarskin Ringbands Of Flames (Level 43)
+   5 Wind Shard
+   5 Earth Shard
+   1 Boarskin Ringbands
+   1 Electrum Ingot
+   1 Eye Of Fire
+
+Peisteskin Cesti (Level 44)
+   5 Wind Shard
+   5 Earth Shard
+   1 Steel Ingot
+   1 Peiste Leather
+   1 Raptor Sinew
+
+Raptorskin Harness (Level 44)
+   5 Wind Shard
+   5 Earth Shard
+   2 Cobalt Ingot
+   1 Boar Leather
+   1 Raptor Leather
+
+Raptorskin Subligar (Level 44)
+   5 Wind Shard
+   5 Earth Shard
+   1 Cobalt Ingot
+   2 Raptor Leather
+   1 Undyed Felt
+
+Raptorskin Artisan's Belt (Level 44)
+   5 Wind Shard
+   5 Earth Shard
+   1 Cobalt Ingot
+   1 Raptor Leather
+   1 Woolen Yarn
+   1 Walnut Lumber
+
+Fingerless Raptorskin Gloves (Level 44)
+   5 Wind Shard
+   5 Earth Shard
+   1 Cobalt Rivets
+   1 Boar Leather
+   2 Raptor Leather
+
+Raptorskin Smithy's Gloves (Level 44)
+   5 Wind Shard
+   5 Earth Shard
+   1 Cobalt Ingot
+   2 Raptor Leather
+   1 Raptor Sinew
+
+Peisteskin Belt (Level 44)
+   5 Wind Shard
+   5 Earth Shard
+   1 Cobalt Ingot
+   1 Peiste Leather
+   1 Hippogryph Sinew
+
+Raptorskin Breeches (Level 44)
+   5 Wind Shard
+   5 Earth Shard
+   2 Raptor Leather
+   2 Undyed Woolen Cloth
+   1 Woolen Yarn
+
+Raptorskin Merchant's Purse (Level 45)
+   5 Wind Shard
+   6 Earth Shard
+   1 Mythril Ingot
+   1 Raptor Leather
+
+Raptorskin Wristbands (Level 45)
+   5 Wind Shard
+   6 Earth Shard
+   1 Raptor Leather
+   2 Red Coral
+   1 Horn Glue
+
+Raptorskin Culottes (Level 45)
+   5 Wind Shard
+   6 Earth Shard
+   2 Raptor Leather
+   2 Undyed Woolen Cloth
+
+Raptorskin Wristbands Of Gathering (Level 45)
+   5 Wind Shard
+   6 Earth Shard
+   1 Raptor Leather
+   2 Red Coral
+   1 Horn Glue
+
+Raptorskin Workboots (Level 45)
+   5 Wind Shard
+   6 Earth Shard
+   2 Raptor Leather
+   1 Raptor Sinew
+   1 Undyed Linen
+   1 Rubber
+
+Raptorskin Armguards (Level 45)
+   5 Wind Shard
+   6 Earth Shard
+   1 Cobalt Ingot
+   1 Cobalt Rivets
+   1 Raptor Leather
+
+Raptorskin Survival Belt (Level 45)
+   5 Wind Shard
+   6 Earth Shard
+   1 Silver Ingot
+   1 Boar Leather
+   1 Raptor Leather
+   1 Undyed Felt
+
+Raptorskin Pot Helm (Level 45)
+   5 Wind Shard
+   6 Earth Shard
+   1 Mythril Ingot
+   1 Cobalt Rivets
+   1 Rubellite
+   2 Raptor Leather
+
+Recipes levels 46 through 50
+Raptorskin Thighboots (Level 46)
+   5 Wind Shard
+   6 Earth Shard
+   1 Boar Leather
+   1 Raptor Leather
+   1 Undyed Linen
+   1 Rubber
+
+Raptorskin Brais (Level 46)
+   5 Wind Shard
+   6 Earth Shard
+   1 Raptor Leather
+   1 Raptor Sinew
+   1 Undyed Woolen Cloth
+   1 Woolen Yarn
+
+Hunting Moccasins (Level 47)
+   5 Wind Shard
+   6 Earth Shard
+   2 Boar Leather
+   1 Raptor Sinew
+   1 Rubber
+
+Dodore Leather (Level 47)
+   1 Earth Crystal
+   1 Dodore Wing
+   1 Black Alumen
+
+Dodore Doublet (Level 47)
+   1 Earth Crystal
+   1 Silver Ingot
+   2 Aldgoat Leather
+   2 Dodore Leather
+   1 Undyed Woolen Cloth
+
+Raptorskin Jerkin (Level 47)
+   5 Wind Shard
+   6 Earth Shard
+   1 Electrum Ingot
+   1 Boar Leather
+   2 Raptor Leather
+   1 Undyed Felt
+
+Raptorskin Ring (Level 48)
+   6 Wind Shard
+   6 Earth Shard
+   1 Raptor Leather
+   1 Raptor Sinew
+
+Oxblood Targe (Level 48)
+   6 Wind Shard
+   6 Earth Shard
+   1 Cobalt Rivets
+   1 Raptor Leather
+   1 Rosewood Lumber
+   1 Spoken Blood
+
+Raptorskin Leg Guards (Level 49)
+   6 Wind Shard
+   6 Earth Shard
+   1 Mythril Ingot
+   2 Raptor Leather
+   1 Raptor Sinew
+
+Raptorskin Voyager's Belt (Level 49)
+   6 Wind Shard
+   6 Earth Shard
+   1 Cobalt Ingot
+   1 Raptor Leather
+   1 Raptor Sinew
+
+Raptorskin Jacket (Level 49)
+   6 Wind Shard
+   6 Earth Shard
+   3 Raptor Leather
+   1 Raptor Sinew
+
+Recipes levels 55 through 70
+Hippogryph Leather (Level 55)
+   3 Earth Crystal
+   1 Hippogryph Skin
+   1 Black Alumen
+
+Miner's Workboots (Level 55)
+   2 Wind Crystal
+   3 Earth Crystal
+   1 Darksteel Nugget
+   1 Hippogryph Leather
+   1 Undyed Felt
+
+Miner's Shirt (Level 55)
+   2 Wind Crystal
+   3 Earth Crystal
+   1 Brass Ingot
+   2 Hippogryph Leather
+   2 Undyed Felt
+   1 Woolen Yarn
+   1 Twinthread
+
+Weaver's Gloves (Level 55)
+   2 Wind Crystal
+   3 Earth Crystal
+   1 Hippogryph Leather
+   1 Twinthread
+
+Weaver's Thighboots (Level 55)
+   2 Wind Crystal
+   3 Earth Crystal
+   2 Hippogryph Leather
+   1 Woolen Yarn
+   1 Rubber
+
+Blacksmith's Gloves (Level 55)
+   2 Wind Crystal
+   3 Earth Crystal
+   1 Darksteel Nugget
+   1 Hippogryph Leather
+   1 Raptor Sinew
+
+Blacksmith's Apron (Level 55)
+   2 Wind Crystal
+   3 Earth Crystal
+   1 Darksteel Nugget
+   2 Raptor Leather
+   1 Hippogryph Leather
+   1 Twinthread
+
+Goldsmith's Gloves (Level 55)
+   2 Wind Crystal
+   3 Earth Crystal
+   1 Electrum Ingot
+   2 Hippogryph Leather
+   1 Woolen Yarn
+
+Goldsmith's Boots (Level 55)
+   2 Wind Crystal
+   3 Earth Crystal
+   2 Electrum Ingot
+   1 Hippogryph Leather
+   1 Woolen Yarn
+   1 Rubber
+
+Culinarian's Gaiters (Level 55)
+   2 Wind Crystal
+   3 Earth Crystal
+   1 Electrum Ingot
+   2 Hippogryph Leather
+   1 Rubber
+
+Carpenter's Slops (Level 55)
+   2 Wind Crystal
+   3 Earth Crystal
+   1 Electrum Ingot
+   2 Hippogryph Leather
+   1 Raptor Sinew
+
+Carpenter's Gloves (Level 55)
+   2 Wind Crystal
+   3 Earth Crystal
+   1 Rose Gold Nugget
+   1 Hippogryph Leather
+   1 Raptor Sinew
+
+Carpenter's Workboots (Level 55)
+   2 Wind Crystal
+   3 Earth Crystal
+   1 Hippogryph Leather
+   1 Twinthread
+   1 Rubber
+
+Alchemist's Thighboots (Level 55)
+   2 Wind Crystal
+   3 Earth Crystal
+   2 Hippogryph Leather
+   1 Hippogryph Sinew
+   1 Rubber
+
+Miner's Slops (Level 55)
+   2 Wind Crystal
+   3 Earth Crystal
+   3 Hippogryph Leather
+   1 Undyed Felt
+   1 Woolen Yarn
+
+Armorer's Workboots (Level 55)
+   2 Wind Crystal
+   3 Earth Crystal
+   1 Darksteel Nugget
+   1 Hippogryph Leather
+   1 Raptor Sinew
+
+Armorer's Gloves (Level 55)
+   2 Wind Crystal
+   3 Earth Crystal
+   1 Hippogryph Leather
+   1 Undyed Felt
+   1 Twinthread
+
+Militia Choker (Level 55)
+   2 Wind Crystal
+   3 Earth Crystal
+   1 Hippogryph Leather
+   1 Raptor Sinew
+
+Coeurl Fur (Level 55)
+   3 Earth Crystal
+   1 Coeurl Skin
+   1 Black Alumen
+
+Miner's Gloves (Level 55)
+   2 Wind Crystal
+   3 Earth Crystal
+   1 Hippogryph Leather
+   1 Undyed Felt
+   1 Twinthread
+
+Imperial Operative Tricorne (Level 55)
+   2 Wind Crystal
+   3 Earth Crystal
+   1 Rose Gold Nugget
+   1 Raptor Sinew
+
+Hamlet Puller's Hat (Level 55)
+   2 Wind Crystal
+   3 Earth Crystal
+   1 Sinking Minnow
+   1 Whitelip Oyster
+   1 Rose Gold Nugget
+   1 Hippogryph Leather
+
+Wildling's Cesti (Level 55)
+   2 Wind Crystal
+   3 Earth Crystal
+   1 Darksteel Nugget
+   1 Bloody Cesti Covers
+
+Militia Caligae (Level 55)
+   2 Wind Crystal
+   3 Earth Crystal
+   1 Darksteel Rivets
+   1 Hippogryph Leather
+   1 Raptor Sinew
+
+Militia Subligar (Level 55)
+   2 Wind Crystal
+   3 Earth Crystal
+   1 Hippogryph Leather
+   1 Undyed Woolen Cloth
+   1 Twinthread
+
+Militia Duckbills (Level 55)
+   2 Wind Crystal
+   3 Earth Crystal
+   1 Hippogryph Leather
+   1 Undyed Woolen Cloth
+
+Militia Hardness (Level 55)
+   2 Wind Crystal
+   3 Earth Crystal
+   2 Darksteel Nugget
+   1 Boar Leather
+   1 Hippogryph Leather
+
+Militia Belt (Level 55)
+   2 Wind Crystal
+   3 Earth Crystal
+   1 Darksteel Nugget
+   1 Hippogryph Leather
+   1 Raptor Sinew
+
+Militia Ringbands (Level 55)
+   2 Wind Crystal
+   3 Earth Crystal
+   1 Darksteel Nugget
+   1 Hippogryph Leather
+   1 Woolen Yarn
+
+Leatherworker's Shirt (Level 55)
+   2 Wind Crystal
+   3 Earth Crystal
+   2 Hippogryph Leather
+   1 Undyed Woolen Cloth
+   1 Woolen Yarn
+   1 Twinthread
+
+Leatherworker's Workboots (Level 55)
+   2 Wind Crystal
+   3 Earth Crystal
+   1 Hippogryph Leather
+   1 Twinthread
+   1 Rubber
+
+Fisher's Wading Boots (Level 55)
+   2 Wind Crystal
+   3 Earth Crystal
+   1 Silver Ingot
+   1 Hippogryph Leather
+   1 Undyed Felt
+   1 Twinthread
+
+Fisher's Shirt (Level 55)
+   2 Wind Crystal
+   3 Earth Crystal
+   1 Silver Ingot
+   2 
+   1 Undyed Woolen Cloth
+   2 Undyed Felt
+
+Leatherworker's Gloves (Level 55)
+   2 Wind Crystal
+   3 Earth Crystal
+   1 Hippogryph Leather
+   1 Raptor Sinew
+   1 Twinthread
+
+Botanist's Doublet (Level 55)
+   2 Wind Crystal
+   3 Earth Crystal
+   1 Hippogryph Leather
+   2 Undyed Woolen Cloth
+   1 Twinthread
+
+Botanist's Workboots (Level 55)
+   2 Wind Crystal
+   3 Earth Crystal
+   2 Hippogryph Leather
+   1 Hippogryph Sinew
+   1 Undyed Felt
+
+Leatherworker's Hat (Level 55)
+   2 Wind Crystal
+   3 Earth Crystal
+   1 Turquoise
+   1 Hippogryph Leather
+   1 Hippogryph Sinew
+
+Fisher's Gloves (Level 55)
+   2 Wind Crystal
+   3 Earth Crystal
+   1 Silver Ingot
+   1 Hippogryph Leather
+   1 Twinthread
+
+Hard Hippogryph Leather (Level 70)
+   1 Earth Cluster
+   2 Hippogryph Leather
+   9 Animal Fat
+
+Gryphonskin Shoulder Guards (Level 70)
+   1 Wind Cluster
+   1 Earth Cluster
+   1 Hippogryph Leather
+   1 Hard Hippogryph Leather
+   1 Raptor Sinew
+
+Gryphonskin Shin Guards (Level 70)
+   1 Wind Cluster
+   1 Earth Cluster
+   1 Hippogryph Leather
+   1 Hard Hippogryph Leather
+   1 Raptor Sinew
+
+Gryphonskin Elbow Pads (Level 70)
+   1 Wind Cluster
+   1 Earth Cluster
+   1 Hippogryph Leather
+   1 Hard Hippogryph Leather
+   1 Raptor Sinew
+
+Gryphonskin Knee Pads (Level 70)
+   1 Wind Cluster
+   1 Earth Cluster
+   1 Hippogryph Leather
+   1 Hard Hippogryph Leather
+   1 Raptor Sinew
+
+Gryphonskin Ring (Level 70)
+   1 Wind Cluster
+   1 Earth Cluster
+   2 Hard Hippogryph Leather
+   2 Twinthread
+
+Gryphonskin Wristbands (Level 70)
+   1 Wind Cluster
+   1 Earth Cluster
+   1 Darksteel Ingot
+   1 Hard Hippogryph Leather
+   1 Horn Glue
+
+Gryphonskin Moccasins (Level 70)
+   1 Wind Cluster
+   1 Earth Cluster
+   2 Hard Hippogryph Leather
+   1 Hippogryph Sinew
+
+Gryphonskin Gloves (Level 70)
+   1 Wind Cluster
+   1 Earth Cluster
+   1 Rose Gold Nugget
+   1 Coeurl Fur
+   1 Raptor Sinew
+   1 Gryphonskin Elbow Pads
+
+Gryphonskin Kecks (Level 70)
+   1 Wind Cluster
+   1 Earth Cluster
+   2 Hard Hippogryph Leather
+   1 Hippogryph Sinew
+   1 Undyed Felt
+
+Gryphonskin Thighboots (Level 70)
+   1 Wind Cluster
+   1 Earth Cluster
+   1 Rose Gold Nugget
+   2 Coeurl Fur
+   1 Raptor Sinew
+   1 Gryphonskin Knee Pads
+
+Gryphonskin Jerkin (Level 70)
+   1 Wind Cluster
+   1 Earth Cluster
+   1 Rose Gold Nugget
+   1 Coeurl Fur
+   1 Raptor Sinew
+   1 Undyed Felt
+   1 Gryphonskin Shoulder Guards
+
+Gryphonskin Tunic (Level 70)
+   1 Wind Cluster
+   1 Earth Cluster
+   1 Garlean Steel Join
+   1 Hard Hippogryph Leather
+   1 Hippogryph Sinew
+   1 Undyed Linen
+   1 Undyed Felt
+
+Gryphonskin Choker (Level 70)
+   1 Wind Cluster
+   1 Earth Cluster
+   2 Hard Hippogryph Leather
+   1 Hippogryph Sinew
+
+Gryphonskin Trousers (Level 70)
+   1 Wind Cluster
+   1 Earth Cluster
+   1 Coeurl Fur
+   1 Raptor Sinew
+   1 Undyed Felt
+   1 Gryphonskin Shin Guards
+
+Gryphonskin Hat (Level 70)
+   1 Wind Cluster
+   1 Earth Cluster
+   1 Hard Hippogryph Leather
+   1 Vanya Silk
+   1 Linen Yarn
+   1 Wildfowl Feather
+
+Gryphonskin Bandana (Level 70)
+   1 Wind Cluster
+   1 Earth Cluster
+   1 Tourmaline
+   1 Hard Hippogryph Leather
+   1 Vanya Silk
+
+Gryphonskin Bracers (Level 70)
+   1 Wind Cluster
+   1 Earth Cluster
+   1 Hard Hippogryph Leather
+   1 Vanya Silk
+   1 Twinthread
+
+Gryphonskin Belt (Level 70)
+   1 Wind Cluster
+   1 Earth Cluster
+   1 Darksteel Ingot
+   1 Cobalt Rivets
+   1 Hard Hippogryph Leather
+
+Gryphonskin Voyager's Belt (Level 70)
+   1 Wind Cluster
+   1 Earth Cluster
+   1 Darksteel Ingot
+   1 Hard Hippogryph Leather
+   1 Hippogryph Sinew

@@ -1,0 +1,759 @@
+Recipes level 1 through 5
+Maple Lumber (Level 1)
+   1 Wind Shard
+   3 Maple Log
+
+Maple Clogs (Level 1)
+   1 Ice Shard
+   1 Wind Shard
+   1 Maple Lumber
+
+Maple Shortbow (Level 2)
+   1 Ice Shard
+   1 Wind Shard
+   1 Hempen Yarn
+   1 Maple Lumber
+
+Bone Harpoon (Level 3)
+   1 Ice Shard
+   1 Wind Shard
+   1 Maple Lumber
+   1 Bone Chip
+   1 Animal Glue
+
+Maple Pattens (Level 4)
+   1 Ice Shard
+   1 Wind Shard
+   1 Leather
+   1 Undyed Hempen Cloth
+   1 Maple Lumber
+
+Amateur's Grinding Wheel (Level 4)
+   1 Ice Shard
+   1 Wind Shard
+   1 Bronze Ingot
+   1 Ragstone
+   1 Maple Lumber
+
+Square Maple Shield (Level 5)
+   1 Ice Shard
+   1 Wind Shard
+   2 Bronze Rivets
+   1 Maple Lumber
+
+Amateur's Spinning Wheel (Level 5)
+   1 Ice Shard
+   1 Wind Shard
+   2 Bronze Rivets
+   2 Maple Lumber
+
+Recipes level 6 through 10
+Bronze Spear (Level 6)
+   1 Ice Shard
+   1 Wind Shard
+   1 Bronze Ingot
+   1 Maple Lumber
+   1 Fish Oil
+
+Maple Cane (Level 6)
+   1 Ice Shard
+   1 Wind Shard
+   1 Maple Lumber
+   1 Growth Formula Alpha
+
+Maple Longbow (Level 7)
+   1 Ice Shard
+   1 Wind Shard
+   1 Hempen Yarn
+   1 Maple Lumber
+   1 Maple Branch
+
+Maple Fishing Rod (Level 8)
+   1 Ice Shard
+   1 Wind Shard
+   1 Bronze Ingot
+   1 Maple Lumber
+   1 Maple Branch
+
+Maple Crook (Level 8)
+   1 Ice Shard
+   1 Wind Shard
+   1 Maple Lumber
+   1 Beastkin Blood
+
+Plumed Maple Shortbow (Level 9)
+   1 Ice Shard
+   1 Wind Shard
+   1 Maple Shortbow
+   1 Cock Feather
+   1 Maple Branch
+
+Round Shield (Level 9)
+   1 Ice Shard
+   1 Wind Shard
+   1 Bronze Ingot
+   2 Bronze Rivets
+   1 Maple Lumber
+   
+Ash Lumber (Level 10)
+   1 Wind Shard
+   3 Ash Log
+
+Ash Macuahuitl (Level 10)
+   1 Ice Shard
+   1 Wind Shard
+   1 Obsidian
+   1 Ash Lumber
+
+Ramhorn Harpoon (Level 10)
+   1 Ice Shard
+   1 Wind Shard
+   1 Ash Lumber
+   1 Ram Horn
+
+Recipes level 11 through 15
+Ragstone Grinding Wheel (Level 11)
+   1 Ice Shard
+   1 Wind Shard
+   1 Bronze Ingot
+   1 Ragstone
+   1 Ash Lumber
+
+Ash Spinning Wheel (Level 12)
+   1 Ice Shard
+   1 Wind Shard
+   2 Bronze Rivets
+   2 Ash Lumber
+
+Amateur's Fishing Rod (Level 12)
+   1 Ice Shard
+   1 Wind Shard
+   1 Bronze Ingot
+   1 Ash Lumber
+   1 Ash Branch
+
+Feathered Harpoon (Level 13)
+   1 Ice Shard
+   1 Wind Shard
+   1 Crow Feather
+   1 Ash Lumber
+   1 Soiled Femur
+   1 Animal Glue
+
+Ash Radical (Level 13)
+   1 Ice Shard
+   1 Wind Shard
+   1 Ash Branch
+   1 Bone Chip
+   1 Beastkin Blood
+
+Brass Spear (Level 14)
+   1 Ice Shard
+   1 Wind Shard
+   1 Bronze Ingot
+   1 Brass Ingot
+   1 Maple Lumber
+   1 Fish Oil
+
+Ash Pattens (Level 14)
+   1 Ice Shard
+   1 Wind Shard
+   1 Leather
+   1 Undyed Hempen Cloth
+   1 Ash Lumber
+
+Ash Mask (Level 14)
+   1 Ice Shard
+   1 Wind Shard
+   1 Leather
+   1 Ash Lumber
+   1 Fish Oil
+
+Square Ash Shield (Level 15)
+   1 Ice Shard
+   1 Wind Shard
+   2 Bronze Rivets
+   1 Ash Lumber
+
+Ash Shortbow (Level 15)
+   1 Ice Shard
+   1 Wind Shard
+   1 Hempen Yarn
+   1 Ash Lumber
+   1 Ash Branch
+
+Wrapped Maple Longbow (Level 15)
+   1 Ice Shard
+   1 Wind Shard
+   1 Maple Longbow
+   1 Hard Leather
+   2 Ash Branch
+
+Recipes level 16 through 20
+Elm Lumber (Level 16)
+   1 Wind Shard
+   3 Elm Log
+
+Elm Fishing Rod (Level 16)
+   1 Ice Shard
+   1 Wind Shard
+   1 Iron Ingot
+   1 Elm Lumber
+   1 Ash Branch
+
+Iron Spear (Level 17)
+   1 Ice Shard
+   1 Wind Shard
+   1 Clove Oil
+   1 Iron Ingot
+   1 Elm Lumber
+
+Elm Cane (Level 18)
+   1 Ice Shard
+   1 Wind Shard
+   1 Elm Lumber
+   1 Growth Formula Beta
+
+Elm Longbow (Level 19)
+   1 Ice Shard
+   1 Wind Shard
+   1 Cotton Yarn
+   1 Elm Lumber
+   2 Ash Branch
+
+Initiate's Spinning Wheel (Level 19)
+   1 Ice Shard
+   1 Wind Shard
+   2 Bronze Rivets
+   2 Elm Lumber
+
+Elm Crook (Level 19)
+   1 Ice Shard
+   1 Wind Shard
+   1 Elm Lumber
+   1 Beastkin Blood
+
+Iron Lance (Level 20)
+   1 Ice Shard
+   1 Wind Shard
+   2 Iron Ingot
+   1 Hard Leather
+   1 Elm Lumber
+
+Initiate's Fishing Rod (Level 20)
+   1 Ice Shard
+   1 Wind Shard
+   1 Iron Ingot
+   1 Elm Lumber
+   1 Yew Branch
+
+Ash Mask (Lapis Lazuli) (Level 20)
+   1 Ice Shard
+   1 Wind Shard
+   1 Clove Oil
+   1 Lapis Lazuli
+   1 Leather
+   1 Ash Lumber
+
+Recipes level 21 through 25
+Yew Lumber (Level 21)
+   2 Wind Shard
+   3 Yew Log
+
+Elm Velocity Bow (Level 21)
+   1 Ice Shard
+   2 Wind Shard
+   1 Ash Shortbow
+   1 Crow Feather
+   1 Ash Branch
+
+Yew Radical (Level 21)
+   1 Ice Shard
+   2 Wind Shard
+   1 Yew Branch
+   1 Sunrise Tellin
+   1 Beastkin Blood
+
+Mudstone Grinding Wheel (Level 22)
+   1 Ice Shard
+   2 Wind Shard
+   1 Iron Ingot
+   1 Mudstone
+   1 Elm Lumber
+
+Iron Guisarme (Level 22)
+   1 Ice Shard
+   2 Wind Shard
+   1 Iron Ingot
+   1 Elm Lumber
+   1 Animal Glue
+
+Elm Spinning Wheel (Level 23)
+   1 Ice Shard
+   2 Wind Shard
+   2 Iron Rivets
+   2 Elm Lumber
+
+Yew Crook (Level 24)
+   2 Ice Shard
+   2 Wind Shard
+   1 Yew Lumber
+   1 Beastkin Blood
+
+Wrapped Elm Longbow (Level 24)
+   2 Ice Shard
+   2 Wind Shard
+   1 Wrapped Maple Longbow
+   1 Hard Leather
+   2 Ash Branch
+
+Elm Pattens (Level 24)
+   2 Ice Shard
+   2 Wind Shard
+   1 Hard Leather
+   1 Undyed Cotton Cloth
+   1 Elm Lumber
+
+Walnut Lumber (Level 25)
+   2 Wind Shard
+   3 Walnut Log
+
+Initiate's Grinding Wheel (Level 25)
+   2 Ice Shard
+   2 Wind Shard
+   1 Iron Ingot
+   1 Mudstone
+   1 Walnut Lumber
+
+Yew Fishing Rod (Level 25)
+   2 Ice Shard
+   2 Wind Shard
+   1 Iron Ingot
+   1 Elm Lumber
+   1 Yew Branch
+   1 Jellyfish Humours
+
+Recipes level 26 through 30
+Viper-crested Round Shield (Level 26)
+   2 Ice Shard
+   2 Water Shard
+   1 Iron Rivets
+   1 Iron Ingot
+   1 Aldgoat Leather
+   1 Walnut Lumber
+
+Ash Composite Bow (Level 26)
+   2 Ice Shard
+   2 Wind Shard
+   1 Animal Sinew
+   3 Ash Lumber
+   1 Antelope Horn
+
+Silver Battle Fork (Level 27)
+   2 Ice Shard
+   3 Wind Shard
+   1 Silver Ingot
+   1 Walnut Lumber
+   1 Crab Oil
+
+Elm Macuahuitl (Level 28)
+   2 Ice Shard
+   3 Wind Shard
+   4 Obsidian
+   2 Elm Lumber
+
+Steel Halberd (Level 29)
+   2 Ice Shard
+   3 Wind Shard
+   1 Iron Ingot
+   1 Steel Ingot
+   1 Aldgoat Leather
+   1 Walnut Lumber
+
+Walnut Cane (Level 29)
+   2 Ice Shard
+   3 Wind Shard
+   1 Walnut Lumber
+   1 Growth Formula Beta
+
+Stag Horn Fishing Rod (Level 29)
+   2 Ice Shard
+   3 Wind Shard
+   1 Steel Ingot
+   1 Walnut Lumber
+   1 Yew Branch
+   1 Antelope Horn
+
+Plumed Yew Crook (Level 30)
+   3 Ice Shard
+   3 Wind Shard
+   1 Walnut Cane
+   1 Crow Feather
+   1 Scalekin Blood
+
+Steel Spear (Level 30)
+   3 Ice Shard
+   3 Wind Shard
+   1 Steel Ingot
+   1 Walnut Lumber
+   1 Crab Oil
+
+Recipes level 31 through 35
+Ash Cavalry Bow (Level 31)
+   3 Ice Shard
+   3 Wind Shard
+   1 Steel Ingot
+   1 Beast Sinew
+   2 Ash Lumber
+   1 Oak Branch
+
+Oak Lumber (Level 32)
+   3 Wind Shard
+   3 Oak Log
+
+Walnut Fishing Rod (Level 32)
+   3 Ice Shard
+   3 Wind Shard
+   1 Steel Ingot
+   1 Walnut Lumber
+   1 Oak Branch
+
+Walnut Pattens (Level 33)
+   3 Ice Shard
+   4 Wind Shard
+   1 Aldgoat Leather
+   1 Undyed Velveteen
+   1 Walnut Lumber
+
+Walnut Spinning Wheel (Level 33)
+   3 Ice Shard
+   4 Wind Shard
+   2 Steel Rivets
+   2 Walnut Lumber
+
+Siltstone Grinding Wheel (Level 34)
+   3 Ice Shard
+   4 Wind Shard
+   1 Steel Ingot
+   1 Siltstone
+   1 Walnut Lumber
+
+Walnut Macuahuitl (Level 34)
+   3 Ice Shard
+   4 Wind Shard
+   2 Wyvern Obsidian
+   1 Walnut Lumber
+
+Oak Radical (Level 35)
+   3 Ice Shard
+   4 Wind Shard
+   1 Oak Branch
+   1 Sunrise Tellin
+   1 Scalekin Blood
+
+Heavy Steel Lance (Level 35)
+   3 Ice Shard
+   4 Wind Shard
+   2 Steel Ingot
+   1 Toad Leather
+   1 Walnut Lumber
+
+Vintage Square Shield (Level 35)
+   1 Wind Crystal
+   1 Worm-eaten Square Shield
+   1 Cider Vinegar
+   1 Bronze Rivets
+   1 Leather
+   1 Elm Lumber
+
+Oak Longbow (Level 35)
+   3 Ice Shard
+   4 Wind Shard
+   1 Steel Ingot
+   1 Linen Yarn
+   1 Oak Lumber
+   2 Ash Branch
+
+Recipes level 36 through 40
+Yarzonshell Harpoon (Level 36)
+   4 Ice Shard
+   4 Wind Shard
+   1 Wildfowl Feather
+   1 Walnut Lumber
+   1 Yellow Yarzon Leg
+   1 Fish Glue
+
+Mythril Cavalry Bow (Level 36)
+   4 Ice Shard
+   4 Wind Shard
+   1 Mythril Ingot
+   1 Diremite Sinew
+   2 Oak Lumber
+   1 Oak Branch
+
+Horn Fishing Rod (Level 37)
+   4 Ice Shard
+   4 Wind Shard
+   1 Walnut Fishing Rod
+   1 Steel Ingot
+   1 Aldgoat Horn
+   1 Fish Oil
+
+Pastoral Oak Cane (Level 37)
+   4 Ice Shard
+   4 Wind Shard
+   1 Brass Ingot
+   1 Cotton Yarn
+   1 Oak Lumber
+   1 Growth Formula Gamma
+   1 Scalekin Blood
+
+Vintage Cane (Level 38)
+   1 Wind Crystal
+   1 Splintered Cane
+   1 Growth Formula Gamma
+
+Mythril Lance (Level 38)
+   4 Ice Shard
+   4 Wind Shard
+   2 Mythril Ingot
+   1 Boar Leather
+   1 Oak Lumber
+
+Oak Pattens (Level 39)
+   4 Ice Shard
+   5 Wind Shard
+   1 Boar Leather
+   1 Undyed Woolen Cloth
+   1 Oak Lumber
+
+Mahogany Lumber (Level 39)
+   5 Wind Shard
+   3 Mahogany Log
+
+Mahogany Spinning Wheel (Level 40)
+   4 Ice Shard
+   5 Wind Shard
+   2 Mythril Rivets
+   2 Mahogany Lumber
+
+Oak Composite Bow (Level 40)
+   4 Ice Shard
+   5 Wind Shard
+   1 Beast Sinew
+   3 Oak Lumber
+   1 Aldgoat Horn
+
+Mahogany Fishing Rod (Level 40)
+   4 Ice Shard
+   5 Wind Shard
+   1 Mythril Ingot
+   1 Mahogany Lumber
+   1 Oak Branch
+
+Recipes level 41 through 45
+Plumed Oak Macuahuitl (Level 41)
+   4 Ice Shard
+   5 Wind Shard
+   3 Wyvern Obsidian
+   1 Wildfowl Feather
+   1 Oak Lumber
+
+Sprouting Rosewood Radical (Level 42)
+   5 Ice Shard
+   5 Wind Shard
+   1 Wyvern Obsidian
+   1 Rosewood Branch
+   1 Spoken Blood
+
+Garnet Grinding Wheel (Level 43)
+   5 Ice Shard
+   5 Wind Shard
+   1 Mythril Ingot
+   1 Raw Garnet
+   1 Mahogany Lumber
+
+Vintage Round Shield (Level 43)
+   1 Wind Crystal
+   1 Rotting Round Shield
+   1 Iron Rivets
+   1 Ragstone
+   2 Mahogany Lumber
+   1 Lanolin
+
+Jade Crook (Level 44)
+   5 Ice Shard
+   5 Wind Shard
+   1 Jadeite
+   1 Mahogany Lumber
+   1 Spoken Blood
+   1 Horn Glue
+
+Cobalt Halberd (Level 44)
+   5 Ice Shard
+   5 Wind Shard
+   1 Cobalt Ingot
+   1 Silver Ingot
+   1 Boar Leather
+   1 Oak Lumber
+
+Rosewood Lumber (Level 45)
+   6 Wind Shard
+   3 Rosewood Log
+
+Rosewood Spinning Wheel (Level 45)
+   5 Ice Shard
+   6 Wind Shard
+   2 Cobalt Rivets
+   2 Rosewood Lumber
+  
+Vintage Guisarme (Level 45)
+   1 Ice Crystal
+   1 Crooked Guisarme
+   1 Siltstone Whetstone
+   1 Elm Lumber
+   1 Horn Glue
+
+Eagle-crested Round Shield (Level 45)
+   5 Ice Shard
+   6 Wind Shard
+   1 Cobalt Ingot
+   1 Cobalt Rivets
+   1 Boar Leather
+   1 Mahogany Lumber
+
+Cobalt Calvary Bow (Level 45)
+   5 Ice Shard
+   6 Wind Shard
+   1 Mythril Cavalry Bow
+   1 Cobalt Ingot
+   1 Raptor Sinew
+
+Rosewood Fishing Rod (Level 45)
+   5 Ice Shard
+   6 Wind Shard
+   1 Mythril Ingot
+   1 Rosewood Lumber
+   1 Rosewood Branch
+   1 Crab Oil
+
+Recipes level 46 through 50
+Yew Longbow (Level 46)
+   5 Ice Shard
+   6 Wind Shard
+   1 Clove Oil
+   1 Raptor Sinew
+   1 Rosewood Lumber
+   2 Yew Branch
+
+Basilisk Grinding Wheel (Level 47)
+   5 Ice Shard
+   6 Wind Shard
+   1 Cobalt Ingot
+   1 Basilisk Egg
+   1 Rosewood Lumber
+
+Vintage Bow (Level 47)
+   1 Wind Crystal
+   1 Warped Bow
+   1 Rosewood Lumber
+
+Cobalt Trident (Level 47)
+   5 Ice Shard
+   6 Wind Shard
+   3 Cobalt Ingot
+   1 Mahogany Lumber
+   1 Shark Oil
+
+Gilded Rosewood Fishing Rod (Level 48)
+   6 Ice Shard
+   6 Wind Shard
+   1 Rosewood Fishing Rod
+   1 Mythril Ingot
+   1 Electrum Ingot
+   1 Shark Oil
+
+Mahogany Pattens (Level 48)
+   6 Ice Shard
+   6 Wind Shard
+   1 Boar Leather
+   1 Undyed Felt
+   1 Mahogany Lumber
+
+Hart Guisarme (Level 49)
+   6 Ice Shard
+   6 Wind Shard
+   2 Cobalt Ingot
+   1 Rosewood Lumber
+   1 Horn Glue
+
+Crab Bow (Level 49)
+   6 Ice Shard
+   6 Wind Shard
+   1 Oak Composite Bow
+   1 Aldgoat Horn
+   1 Green Megalocrab Shell
+   1 Red Coral
+
+Recipes level 50+
+Spruce Lumber (Level 55)
+   3 Wind Crystal
+   3 Spruce Log
+
+Longarm's Composite Bow (Level 55)
+   2 Ice Crystal
+   3 Wind Crystal
+   1 Spruce Lumber
+   1 Bloody Bow Rim
+
+Militia Spinning Wheel (Level 55)
+   2 Ice Crystal
+   3 Wind Crystal
+   2 Cobalt Rivets
+   2 Spruce Lumber
+
+Militia Grinding Wheel (Level 55)
+   2 Ice Crystal
+   3 Wind Crystal
+   1 Darksteel Nugget
+   1 Astral Rock
+   1 Spruce Lumber
+
+Champion's Lance (Level 55)
+   2 Ice Crystal
+   3 Wind Crystal
+   1 Spruce Lumber
+   1 Bloody Lance Head
+
+Treated Spruce Lumber (Level 70)
+   1 Wind Cluster
+   2 Spruce Lumber
+   9 Hardened Sap
+
+Spruce Pattens (Level 70)
+   1 Ice Cluster
+   1 Wind Cluster
+   1 Raptor Leather
+   1 Undyed Felt
+   1 Treated Spruce Lumber
+   1 Garlean Rubber
+
+Sarnga Limb (Level 70)
+   1 Ice Cluster
+   1 Wind Cluster
+   2 Darksteel Nugget
+   1 Treated Spruce Lumber
+
+Sarnga (Level 70)
+   1 Ice Cluster
+   1 Wind Cluster
+   1 Darksteel Nugget
+   3 Spruce Lumber
+   1 Sarnga Limb
+
+Spruce Round Shield (Level 70)
+   1 Ice Cluster
+   1 Wind Cluster
+   1 Darksteel Ingot
+   2 Darksteel Rivets
+   1 Treated Spruce Lumber

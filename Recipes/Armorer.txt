@@ -1,0 +1,1212 @@
+Recipes levels 1 through 5
+Bronze Ingot (Level 1)
+   1 Ice Shard
+   2 Copper Ore
+   1 Tin Ore
+
+Bronze Rivets (Level 2)
+   1 Ice Shard
+   1 Bronze Ingot
+
+Bronze Rings (Level 2)
+   1 Ice Shard
+   1 Bronze Ingot
+
+Bronze Plate (Level 3)
+   1 Ice Shard
+   2 Bronze Ingot
+
+Bronze Alembic (Level 3)
+   1 Ice Shard
+   1 Earth Shard
+   1 Bronze Plate
+   1 Bronze Rivets
+
+Bronze Skillet (Level 4)
+   1 Ice Shard
+   1 Earth Shard
+   1 Bronze Plate
+   1 Maple Lumber
+
+Bronze Hoplon (Level 5)
+   1 Ice Shard
+   1 Earth Shard
+   2 Bronze Plate
+   1 Maple Lumber
+
+Recipes level 6 through 10
+Bronze Haubergeon (Level 6)
+   1 Ice Shard
+   1 Earth Shard
+   3 Bronze Rings
+   1 Undyed Hempen Cloth
+
+Bronze Sollerets (Level 7)
+   1 Ice Shard
+   1 Earth Shard
+   1 Bronze Plate
+   1 Bronze Rings
+   1 Leather
+
+Bronze Chain Coif (Level 8)
+   1 Ice Shard
+   1 Earth Shard
+   1 Bronze Plate
+   1 Bronze Rings
+   1 Leather
+
+Bronze Sallet (Level 8)
+   1 Ice Shard
+   1 Earth Shard
+   1 Bronze Ingot
+   1 Bronze Plate
+   1 Bronze Rivets
+
+Bronze Mitt Gauntlets (Level 9)
+   1 Ice Shard
+   1 Earth Shard
+   1 Bronze Plate
+   1 Bronze Rivets
+   1 Leather
+
+Amateur's Alembic (Level 9)
+   1 Ice Shard
+   1 Earth Shard
+   1 Copper Ingot
+   1 Bronze Plate
+   1 Bronze Rivets
+
+Bronze Barbut (Level 10)
+   1 Ice Shard
+   1 Earth Shard
+   1 Copper Ingot
+   1 Bronze Plate
+   1 Bronze Rivets
+
+Bronze Scutum (Level 10)
+   1 Ice Shard
+   1 Earth Shard
+   2 Bronze Plate
+   3 Bronze Rivets
+
+Recipes levels 11 through 15
+Bronze Plate Belt (Level 11)
+   1 Ice Shard
+   1 Earth Shard
+   2 Bronze Plate
+   1 Hard Leather
+
+Amateur's Skillet (Level 11)
+   1 Ice Shard
+   1 Earth Shard
+   1 Bronze Plate
+   1 Ash Lumber
+
+Bronze Cuirass (Level 12)
+   1 Ice Shard
+   1 Earth Shard
+   2 Bronze Plate
+   1 Bronze Rings
+
+Bronze Celata (Level 12)
+   1 Ice Shard
+   1 Earth Shard
+   2 Bronze Plate
+   1 Bronze Rings
+
+Bronze Sabatons (Level 13)
+   1 Ice Shard
+   1 Earth Shard
+   2 Bronze Plate
+   1 Bronze Rings
+   1 Hard Leather
+
+Iron Ingot (Level 13)
+   1 Ice Shard
+   3 Iron Ore
+
+Bronze Gauntlets (Level 14)
+   1 Ice Shard
+   1 Earth Shard
+   2 Bronze Plate
+   1 Iron Rivets
+
+Iron Plate (Level 14)
+   1 Ice Shard
+   2 Iron Ingot
+
+Iron Rivets (Level 14)
+   1 Ice Shard
+   1 Iron Ingot
+
+Brass Alembic (Level 15)
+   1 Ice Shard
+   1 Earth Shard
+   1 Amateur's Alembic
+   1 Brass Ingot
+   1 Bronze Rivets
+
+Iron Skillet (Level 15)
+   1 Ice Shard
+   1 Earth Shard
+   1 Iron Plate
+   1 Ash Lumber
+
+Bronze Buckler (Level 15)
+   1 Ice Shard
+   1 Earth Shard
+   1 Bronze Ingot
+   1 Bronze Plate
+   1 Iron Rivets
+
+Iron Rings (Level 15)
+   1 Ice Shard
+   1 Iron Ingot
+
+Recipes level 16 through 20
+Decorated Bronze Barbut (Level 16)
+   1 Ice Shard
+   1 Earth Shard
+   1 Bronze Barbut
+   1 Copper Ingot
+   1 Brass Ingot
+
+Decorated Bronze Mitt Gauntlets (Level 16)
+   1 Ice Shard
+   1 Earth Shard
+   1 Bronze Mitt Gauntlets
+   1 Brass Ingot
+   1 Bronze Rivets
+   1 Leather
+
+Iron Hoplon (Level 17)
+   1 Ice Shard
+   1 Earth Shard
+   2 Iron Plate
+   1 Elm Lumber
+
+Initiate's Skillet (Level 18)
+   1 Ice Shard
+   1 Earth Shard
+   1 Iron Plate
+   1 Elm Lumber
+
+Initiate's Alembic (Level 18)
+   1 Ice Shard
+   1 Earth Shard
+   1 Iron Plate
+   1 Bronze Rivets
+
+Iron Sabatons (Level 19)
+   1 Ice Shard
+   1 Earth Shard
+   2 Iron Plate
+   1 Bronze Rings
+   1 Hard Leather
+
+Iron Sallet (Level 19)
+   1 Ice Shard
+   1 Earth Shard
+   1 Iron Ingot
+   1 Iron Plate
+   1 Iron Rivets
+
+Iron Plate Belt (Level 19)
+   1 Ice Shard
+   1 Earth Shard
+   2 Iron Plate
+   1 Aldgoat Leather
+
+Ironclad Bronze Buckler (Level 20)
+   1 Ice Shard
+   1 Earth Shard
+   1 Bronze Buckler
+   1 Bronze Ingot
+   1 Iron Rivets
+
+Iron Celata (Level 20)
+   1 Ice Shard
+   1 Earth Shard
+   2 Iron Plate
+   1 Iron Rings
+
+Iron Cuirass (Level 20)
+   1 Ice Shard
+   1 Earth Shard
+   2 Iron Plate
+   1 Iron Rings
+
+Iron Gauntlets (Level 20)
+   1 Ice Shard
+   1 Earth Shard
+   2 Iron Plate
+   1 Iron Rings
+
+Recipes levels 21 through 25
+Iron Vambraces (Level 21)
+   2 Ice Shard
+   1 Earth Shard
+   1 Iron Plate
+   2 Aldgoat Leather
+
+Iron Lantern Shield (Level 21)
+   2 Ice Shard
+   1 Earth Shard
+   2 Iron Plate
+   1 Tallow Candle
+
+Iron Elmo (Level 22)
+   2 Ice Shard
+   1 Earth Shard
+   2 Iron Plate
+   1 Iron Rivets
+   1 Aldgoat Leather
+
+Iron-Plated Jackboots (Level 22)
+   2 Ice Shard
+   1 Earth Shard
+   1 Iron Ingot
+   1 Aldgoat Leather
+   1 Beast Sinew
+
+Iron Frypan (Level 23)
+   2 Ice Shard
+   1 Earth Shard
+   1 Iron Plate
+   1 Yew Lumber
+
+Iron Scale Mail (Level 23)
+   2 Ice Shard
+   1 Earth Shard
+   1 Silver Ingot
+   2 Aldgoat Leather
+
+Iron Scale Fingers (Level 23)
+   2 Ice Shard
+   1 Earth Shard
+   1 Iron Ingot
+   1 Iron Plate
+   1 Aldgoat Leather
+
+Iron Scale Greaves (Level 23)
+   2 Ice Shard
+   1 Earth Shard
+   1 Iron Ingot
+   2 Iron Plate
+   1 Aldgoat Leather
+
+Iron Alembic (Level 23)
+   2 Ice Shard
+   1 Earth Shard
+   1 Iron Plate
+   1 Iron Rivets
+
+Reinforced Iron Sallet (Level 24)
+   2 Ice Shard
+   2 Earth Shard
+   1 Iron Sallet
+   1 Brass Ingot
+   1 Iron Rivets
+
+Iron Scutum (Level 24)
+   2 Ice Shard
+   2 Earth Shard
+   2 Iron Plate
+   3 Iron Rivets
+
+Reinforced Iron Plate Belt (Level 24)
+   2 Ice Shard
+   2 Earth Shard
+   3 Iron Plate
+   1 Aldgoat Leather
+
+Heavy Iron Flanchard (Level 25)
+   2 Ice Shard
+   2 Earth Shard
+   3 Iron Ingot
+   2 Iron Rings
+   1 Aldgoat Leather
+
+Heavy Iron Gauntlets (Level 25)
+   2 Ice Shard
+   2 Earth Shard
+   3 Iron Plate
+   1 Iron Rings
+
+Heavy Iron Armor (Level 25)
+   2 Ice Shard
+   2 Earth Shard
+   1 Brass Ingot
+   4 Iron Plate
+
+Recipes levels 26 through 30
+Steel Ingot (Level 26)
+   2 Ice Shard
+   2 Iron Ore
+   1 Bomb Ash
+
+Conical Alembic (Level 26)
+   2 Ice Shard
+   2 Earth Shard
+   1 Iron Alembic
+   1 Brass Ingot
+   1 Iron Rivets
+
+Steel Plate (Level 27)
+   3 Ice Shard
+   2 Steel Ingot
+
+Steel Rivets (Level 27)
+   3 Ice Shard
+   1 Steel Ingot
+
+Iron Kite Shield (Level 27) 
+   3 Ice Shard
+   2 Earth Shard
+   3 Iron Plate
+   1 Iron Rivets
+
+Bomb Frypan (Level 27)
+   3 Ice Shard
+   2 Earth Shard
+   1 Steel Plate
+   1 Yew Lumber
+   1 Bomb Ash
+
+Steel Rings (Level 28)
+   3 Ice Shard
+   1 Steel Ingot
+
+Steel Chainmail (Level 28)
+   3 Ice Shard
+   2 Earth Shard
+   3 Steel Rings
+   1 Undyed Velveteen
+
+Steel Tassets (Level 28)
+   3 Ice Shard
+   2 Earth Shard
+   2 Steel Plate
+   1 Aldgoat Leather
+
+Steel Sallet (Level 29)
+   3 Ice Shard
+   2 Earth Shard
+   1 Steel Ingot
+   1 Iron Plate
+   1 Steel Plate
+   1 Steel Rivets
+
+Steel Alembic (Level 29)
+   3 Ice Shard
+   2 Earth Shard
+   1 Steel Plate
+   1 Steel Rivets
+
+Steel Skillet (Level 29)
+   3 Ice Shard
+   2 Earth Shard
+   1 Steel Plate
+   1 Elm Lumber
+
+Steel Gauntlets (Level 30)
+   3 Ice Shard
+   3 Earth Shard
+   1 Brass Ingot
+   2 Steel Plate
+   1 Steel Rings
+   1 Toad Leather
+
+Steel Cuirass (Level 30)
+   3 Ice Shard
+   3 Earth Shard
+   1 Brass Ingot
+   2 Steel Plate
+   1 Iron Rings
+
+Steel Sabatons (Level 30)
+   3 Ice Shard
+   3 Earth Shard
+   1 Brass Ingot
+   2 Steel Plate
+   1 Steel Rings
+   1 Toad Leather
+
+Steel Celata (Level 30)
+   3 Ice Shard
+   3 Earth Shard
+   1 Brass Ingot
+   2 Steel Plate
+   1 Iron Rings
+
+Steel-Plated Jackboots (Level 30)
+   3 Ice Shard
+   3 Earth Shard
+   1 Steel Plate
+   1 Aldgoat Leather
+   1 Diremite Sinew
+
+Recipes levels 31 through 35
+Bull Hoplon (Level 31)
+   3 Ice Shard
+   3 Earth Shard
+   2 Steel Ingot
+   1 Steel Plate
+   1 Walnut Lumber
+
+Steel Vambraces (Level 31)
+   3 Ice Shard
+   3 Earth Shard
+   1 Steel Plate
+   2 Aldgoat Leather
+
+Steel Elmo (Level 31)
+   3 Ice Shard
+   3 Earth Shard
+   2 Steel Plate
+   1 Steel Rivets
+   1 Toad Leather
+
+Steel Plate Belt (Level 31)
+   3 Ice Shard
+   3 Earth Shard
+   2 Steel Plate
+   1 Boar Leather
+
+Steel Scale Greaves (Level 32)
+   3 Ice Shard
+   3 Earth Shard
+   1 Steel Ingot
+   2 Steel Plate
+   1 Aldgoat Leather
+
+Steel Scale Fingers (Level 32)
+   3 Ice Shard
+   3 Earth Shard
+   1 Steel Ingot
+   1 Steel Plate
+   1 Toad Leather
+
+Steel Scale Mail (Level 32)
+   3 Ice Shard
+   3 Earth Shard
+   1 Silver Ingot
+   1 Steel Plate
+   2 Aldgoat Leather
+
+White Skillet (Level 33)
+   4 Ice Shard
+   3 Earth Shard
+   1 Steel Plate
+   1 Walnut Lumber
+
+Decorated Buckler (Level 33)
+   4 Ice Shard
+   3 Earth Shard
+   1 Ironclad Bronze Buckler
+   1 Silver Ingot
+   1 Iron Rivets
+
+Decorated Iron Scutum (Level 34)
+   4 Ice Shard
+   3 Earth Shard
+   1 Iron Scutum
+   1 Iron Rivets
+   1 Toad Leather
+
+Heavy Steel Gauntlets (Level 34)
+   4 Ice Shard
+   3 Earth Shard
+   3 Steel Plate
+   1 Steel Rings
+
+Heavy Steel Armor (Level 34)
+   4 Ice Shard
+   3 Earth Shard
+   1 Brass Ingot
+   4 Steel Plate
+
+Reinforced Steel Plate Belt (Level 34)
+   4 Ice Shard
+   3 Earth Shard
+   3 Steel Plate
+   1 Aldgoat Leather
+
+Silver Alembic (Level 34)
+   4 Ice Shard
+   3 Earth Shard
+   1 Silver Ingot
+   1 Steel Plate
+   1 Steel Rivets
+   1 Eye Of Fire
+
+Vintage Hoplon (Level 35)
+   1 Ice Crystal
+   1 Tarnished Hoplon
+   1 Bronze Plate
+
+Steel-Plated Caligae (Level 35)
+   1 Ice Crystal
+   1 Tarnished Hoplon
+   1 Bronze Plate
+
+Steel-Plated Caligae (Level 35)
+   4 Ice Shard
+   3 Earth Shard
+   1 Steel Plate
+   1 Steel Rivets
+   1 Boar Leather
+   1 Animal Sinew
+
+Steel Barbut (Level 35)
+   4 Ice Shard
+   3 Earth Shard
+   1 Steel Ingot
+   1 Iron Plate
+   1 Steel Plate
+   1 Steel Rivets
+
+Steel Mitt Gauntlets (Level 35)
+   4 Ice Shard
+   3 Earth Shard
+   1 Iron Plate
+   1 Steel Plate
+   1 Steel Rivets
+   1 Boar Leather
+
+Heavy Steel Flanchard (Level 35)
+   4 Ice Shard
+   3 Earth Shard
+   3 Steel Ingot
+   2 Steel Rings
+   1 Boar Leather
+
+Recipes levels 36 through 40
+Steel Frypan (Level 36)
+   4 Ice Shard
+   4 Earth Shard
+   1 Steel Plate
+   1 Oak Lumber
+
+Mythril Ingot (Level 36)
+   4 Ice Shard 
+   3 Mythril Ore
+
+Horn Scale Greaves (Level 37)
+   4 Ice Shard
+   4 Earth Shard
+   1 Steel Ingot
+   3 Steel Plate
+   1 Antelope Horn
+
+Mythril Rings (Level 37)
+   4 Ice Shard
+   1 Mythril Ingot
+
+Mythril Rivets (Level 37)
+   4 Ice Shard
+   1 Mythril Ingot
+
+Bladed Lantern Shield (Level 37)
+   4 Ice Shard
+   4 Earth Shard
+   2 Iron Ingot
+   1 Steel Plate
+   1 Steel Rivets
+   1 Tallow Candle
+
+Mythril Plate (Level 38)
+   4 Ice Shard
+   2 Mythril Ingot
+
+Horn Scale Fingers (Level 38)
+   4 Ice Shard
+   4 Earth Shard
+   2 Steel Plate
+   1 Boar Leather
+   2 Antelope Horn
+
+Mythril Celata (Level 38)
+   4 Ice Shard
+   4 Earth Shard
+   2 Mythril Plate
+   1 Mythril Rings
+
+Mythril Plate Belt (Level 38)
+   4 Ice Shard
+   4 Earth Shard
+   2 Mythril Plate
+   1 Peiste Leather
+
+Vintage Celata (Level 38)
+   1 Ice Crystal
+   1 Dented Celata
+   1 Bronze Plate
+
+Mythril Gauntlets (Level 39)
+   5 Ice Shard
+   4 Earth Shard
+   2 Mythril Plate
+   1 Mythril Rings
+
+Mythril Sabatons (Level 39)
+   5 Ice Shard
+   4 Earth Shard
+   2 Mythril Plate
+   1 Mythril Rings
+   1 Boar Leather
+
+Mythril Cuirass (Level 39)
+   5 Ice Shard
+   4 Earth Shard
+   1 Electrum Ingot
+   2 Mythril Plate
+   1 Mythril Rings
+
+Mythril Elmo (Level 40)
+   5 Ice Shard
+   4 Earth Shard
+   2 Mythril Plate
+   1 Mythril Rivets
+   1 Boar Leather
+
+Vintage Scutum (Level 40)
+   1 Earth Crystal
+   1 Rusting Scutum
+   1 Iron Plate
+
+Horn Scale Mail (Level 40)
+   5 Ice Shard
+   4 Earth Shard
+   1 Steel Ingot
+   2 Boar Leather
+   1 Aldgoat Horn
+
+Mythril Alembic (Level 40)
+   5 Ice Shard
+   4 Earth Shard
+   1 Steel Ingot
+   1 Mythril Plate
+   1 Mythril Rivets
+   1 Eye Of Earth
+
+Recipes levels 41 through 45
+Vintage Scale Mail (Level 41)
+   1 Ice Crystal
+   1 Blackened Scale Mail
+   1 Iron Plate
+
+Mythril Barbut (Level 41)
+   5 Ice Shard
+   4 Earth Shard
+   1 Mythril Ingot
+   1 Steel Plate
+   1 Mythril Plate
+   1 Mythril Rivets
+
+Mythril Vambraces (Level 41)
+   5 Ice Shard
+   4 Earth Shard
+   1 Mythril Plate
+   1 Boar Leather
+   1 Peiste Leather
+
+Mythril-Plated Jackboots (Level 41)
+   5 Ice Shard
+   4 Earth Shard
+   1 Mythril Ingot
+   1 Mythril Plate
+   1 Boar Leather
+   1 Hippogryph Sinew
+
+Mythril Sollerets (Level 42)
+   5 Ice Shard
+   5 Earth Shard
+   1 Mythril Plate
+   2 Mythril Rings
+   1 Aldgoat Leather
+   1 Hippogryph Sinew
+   
+Mythril-Plated Caligae (Level 42)
+   5 Ice Shard
+   5 Earth Shard
+   1 Bronze Ingot
+   1 Mythril Plate
+   1 Mythril Rivets
+   1 Peiste Leather
+   1 Hippogryph Sinew
+
+Mythril Mesail (Level 42)
+   5 Ice Shard
+   5 Earth Shard
+   1 Mythril Plate
+   1 Mythril Rivets
+   1 Aldgoat Leather
+
+Cobalt Ingot (Level 42)
+   5 Ice Shard
+   1 Iron Ore
+   2 Cobalt Ore
+
+Mythril Haubergeon (Level 42)
+   5 Ice Shard
+   5 Earth Shard
+   1 Steel Plate
+   3 Mythril Rings
+   1 Aldgoat Leather
+   1 Undyed Woolen Cloth
+
+Electrum Alembic (Level 42)
+   5 Ice Shard
+   5 Earth Shard
+   1 Mythril Alembic
+   2 Electrum Ingot
+
+Mythril Chain Coif (Level 42)
+   5 Ice Shard
+   5 Earth Shard
+   1 Mythril Plate
+   2 Mythril Rings
+   1 Aldgoat Leather
+
+High Mythril Gauntlets (Level 43)
+   5 Ice Shard
+   5 Earth Shard
+   3 Mythril Plate
+   1 Mythril Rings
+
+High Mythril Plate Belt (Level 43)
+   5 Ice Shard
+   5 Earth Shard
+   3 Mythril Plate
+   1 Peiste Leather
+
+Cobalt Plate (Level 43)
+   5 Ice Shard
+   2 Cobalt Ingot
+
+Cobalt Skillet (Level 43)
+   5 Ice Shard
+   5 Earth Shard
+   1 Cobalt Plate
+   1 Mahogany Lumber
+   
+Vintage Buckler (Level 43)
+   1 Earth Crystal
+   1 Notched Buckler
+   1 Mahogany Lumber
+
+Mythril Mitt Gauntlets (Level 43)
+   5 Ice Shard
+   5 Earth Shard
+   1 Steel Plate
+   1 Mythril Plate
+   1 Mythril Rivets
+   1 Peiste Leather
+
+Cobalt Rings (Level 43)
+   5 Ice Shard
+   1 Cobalt Ingot
+
+High Mythril Flanchard (Level 43)
+   5 Ice Shard
+   5 Earth Shard
+   3 Mythril Ingot
+   2 Cobalt Rings
+   1 Raptor Leather
+
+Cobalt Rivets (Level 44)
+   5 Ice Shard
+   1 Cobalt Ingot
+
+Reinforced Mythril Elmo (Level 44)
+   5 Ice Shard
+   5 Earth Shard
+   1 Mythril Elmo
+   1 Mythril Rivets
+   1 Peiste Leather
+
+Cobalt Scutum (Level 44)
+   5 Ice Shard
+   5 Earth Shard
+   2 Cobalt Plate
+   3 Cobalt Rivets
+
+High Mythril Armor (Level 44)
+   5 Ice Shard
+   5 Earth Shard
+   1 Electrum Ingot
+   4 Mythril Plate
+
+Cobalt Vambraces (Level 44)
+   5 Ice Shard
+   5 Earth Shard
+   2 Cobalt Plate
+   1 Boar Leather
+   1 Raptor Leather
+
+Tortoiseshell Scale Greaves (Level 45)
+   6 Ice Shard
+   5 Earth Shard
+   1 Cobalt Ingot
+   2 Cobalt Plate
+   1 Adamantoise Shell
+
+Tortoiseshell Scale Fingers (Level 45)
+   6 Ice Shard
+   5 Earth Shard
+   1 Cobalt Ingot
+   1 Cobalt Plate
+   1 Adamantoise Shell
+
+Vintage Kite Shield (Level 45)
+   1 Ice Crystal
+   1 Scarred Kite Shield
+   1 Siltstone Whetstone
+   1 Aldgoat Leather
+   1 Mahogany Lumber
+
+Cobalt-Plated Jackboots (Level 45)
+   6 Ice Shard
+   5 Earth Shard
+   1 Cobalt Ingot
+   1 Cobalt Plate
+   1 Raptor Leather
+   1 Raptor Sinew
+
+Cobalt Elmo (Level 45)
+   6 Ice Shard
+   5 Earth Shard
+   2 Cobalt Plate
+   1 Cobalt Rivets
+   1 Raptor Leather
+
+Tortoiseshell Scale Mail (Level 45)
+   6 Ice Shard
+   5 Earth Shard
+   1 Cobalt Ingot
+   1 Boar Leather
+   1 Raptor Leather
+   1 Adamantoise Shell
+
+Recipes levels 46 through 50
+Cobalt-Plated Caligae (Level 46)
+   6 Ice Shard
+   5 Earth Shard
+   1 Brass Ingot
+   1 Cobalt Plate
+   1 Cobalt Rivets
+   1 Raptor Leather
+   1 Raptor Sinew
+
+Vintage Haubergeon (Level 46)
+   1 Earth Crystal
+   1 Ripped Haubergeon
+   1 Iron Rings
+
+Cobalt Barbut (Level 46)
+   6 Ice Shard
+   5 Earth Shard
+   1 Cobalt Ingot
+   1 Steel Plate
+   1 Cobalt Plate
+   1 Cobalt Rivets
+
+Mosshorn Scale Mail (Level 47)
+   1 Ice Crystal
+   1 Iron Plate
+   2 Mossy Horn
+
+Hells' Kitchen (Level 47)
+   6 Ice Shard
+   5 Earth Shard
+   1 Cobalt Plate
+   1 Rosewood Lumber
+
+Cobalt Mitt Gauntlets (Level 48)
+   6 Ice Shard
+   6 Earth Shard
+   1 Steel Plate
+   1 Cobalt Plate
+   1 Cobalt Rivets
+   1 Raptor Leather
+
+Cobalt Bladed Lantern Shield (Level 49)
+   6 Ice Shard
+   6 Earth Shard
+   2 Cobalt Ingot
+   1 Cobalt Plate
+   1 Tallow Candle
+
+Cobalt Sallet (Level 49)
+   6 Ice Shard
+   6 Earth Shard
+   2 Cobalt Ingot
+   1 Cobalt Plate
+   1 Cobalt Rivets
+
+Cobalt Mesail (Level 49)
+   6 Ice Shard
+   6 Earth Shard
+   2 Cobalt Plate
+   1 Cobalt Rivets
+   1 Boar Leather
+
+Cobalt Chain Coif (Level 50)
+   6 Ice Shard
+   6 Earth Shard
+   1 Cobalt Plate
+   2 Cobalt Rings
+   1 Boar Leather
+
+Wind-Up Dullahan (Level 50)
+   99 Ice Shard
+   3 Darksteel Nugget
+
+Cobalt Haubergeon (Level 50)
+   6 Ice Shard
+   6 Earth Shard
+   1 Mythril Plate
+   3 Cobalt Rings
+   1 Boar Leather
+   1 Undyed Felt
+
+Thermal Alembic (Level 50)
+   6 Ice Shard
+   6 Earth Shard
+   1 Iron Ingot
+   1 Cobalt Plate
+   1 Cobalt Rivets
+
+Cobalt Gauntlets (Level 50)
+   6 Ice Shard
+   6 Earth Shard
+   1 Electrum Ingot
+   2 Cobalt Plate
+   1 Cobalt Rings
+   1 Boar Leather
+
+Cobalt Cuirass (Level 50)
+   6 Ice Shard
+   6 Earth Shard
+   1 Electrum Ingot
+   2 Cobalt Plate
+   1 Mythril Rings
+
+Cobalt Celata (Level 50)
+   6 Ice Shard
+   6 Earth Shard
+   1 Electrum Ingot
+   2 Cobalt Plate
+   1 Mythril Rings
+
+Cobalt Plate Belt (Level 50)
+   6 Ice Shard
+   6 Earth Shard
+   2 Cobalt Plate
+   1 Boar Leather
+
+Kite Shield (Level 50)
+   6 Ice Shard
+   6 Earth Shard
+   1 Iron Ingot
+   3 Cobalt Plate
+   1 Cobalt Rivets
+
+Cobalt Sollerets (Level 50)
+   6 Ice Shard
+   6 Earth Shard
+   1 Cobalt Plate
+   2 Cobalt Rings
+   1 Boar Leather
+   1 Raptor Sinew
+
+Cobalt Sabatons (Level 50)
+   6 Ice Shard
+   6 Earth Shard
+   1 Electrum Ingot
+   2 Cobalt Plate
+   1 Cobalt Rings
+   1 Boar Leather
+
+Recipes levels 55 through 70
+Darksteel Nugget (Level 55)
+   3 Ice Crystal
+   3 Darksteel Ore
+
+Darksteel Rings (Level 55)
+   3 Ice Crystal
+   1 Darksteel Nugget
+
+Darksteel Rivets (Level 55)
+   3 Ice Crystal
+   1 Darksteel Nugget
+
+Darksteel Plate (Level 55)
+   3 Ice Crystal
+   2 Darksteel Nugget
+
+Blacksmith's Workboots (Level 55)
+   3 Ice Crystal
+   2 Earth Crystal
+   1 Darksteel Nugget
+   1 Hippogryph Leather
+   1 Hippogryph Sinew
+
+Militia Mitt Gauntlets (Level 55)
+   3 Ice Crystal
+   2 Earth Crystal
+   1 Cobalt Plate
+   1 Darksteel Plate
+   1 Cobalt Rivets
+   1 Hippogryph Leather
+
+Militia Barbut (Level 55)
+   3 Ice Crystal
+   2 Earth Crystal
+   1 Cobalt Ingot
+   1 Cobalt Plate
+   1 Darksteel Plate
+   1 Cobalt Rivets
+
+Militia Gauntlets (Level 55)
+   3 Ice Crystal
+   2 Earth Crystal
+   1 Darksteel Plate
+   1 Cobalt Rings
+   1 Hippogryph Leather
+
+Militia Armet (Level 55)
+   3 Ice Crystal
+   2 Earth Crystal
+   1 Darksteel Plate
+   1 Cobalt Rings
+
+Militia Cuirass (Level 55)
+   3 Ice Crystal
+   2 Earth Crystal
+   1 Darksteel Plate
+   1 Cobalt Rings
+
+Militia Sabatons (Level 55)
+   3 Ice Crystal
+   2 Earth Crystal
+   1 Darksteel Plate
+   1 Cobalt Rings
+   1 Hippogryph Leather
+
+Hamlet Digger's Helmet (Level 55)
+   3 Ice Crystal
+   2 Earth Crystal
+   2 Darksteel Nugget
+   1 Rose Gold Nugget
+
+Armorer's Visor (Level 55)
+   3 Ice Crystal
+   2 Earth Crystal
+   1 Cobalt Plate
+   1 Darksteel Plate
+   1 Boar Leather
+   1 Hippogryph Leather
+
+Darksteel Ingot (Level 70)
+   1 Ice Cluster
+   2 Darksteel Nugget
+   9 Coke
+
+Darksteel Buckler (Level 70)
+   1 Ice Cluster
+   1 Earth Cluster
+   1 Darksteel Ingot
+   1 Darksteel Nugget
+   1 Darksteel Plate
+   1 Darksteel Rivets
+
+Darksteel Chain Coif (Level 70)
+   1 Ice Cluster
+   1 Earth Cluster
+   1 Darksteel Ingot
+   1 Darksteel Plate
+   1 Darksteel Rings
+   1 Darksteel Rivets
+
+Darksteel Mitt Gauntlets (Level 70)
+   1 Ice Cluster
+   1 Earth Cluster
+   2 Darksteel Ingot
+   1 Darksteel Nugget
+   1 Darksteel Plate
+
+Darksteel Sollerets (Level 70)
+   1 Ice Cluster
+   1 Earth Cluster
+   1 Darksteel Ingot
+   2 Darksteel Plate
+   1 Darksteel Rings
+
+Darksteel Tassets (Level 70)
+   1 Ice Cluster
+   1 Earth Cluster
+   1 Darksteel Ingot
+   2 Darksteel Plate
+   1 Hard Hippogryph Leather
+
+Darksteel Couters (Level 70)
+   1 Ice Cluster
+   1 Earth Cluster
+   1 Darksteel Ingot
+   2 Darksteel Rivets
+   
+Darksteel Breastplate (Level 70)
+   1 Ice Cluster
+   1 Earth Cluster
+   1 Darksteel Ingot
+   2 Darksteel Rivets
+
+Darksteel Gauntlet Plates (Level 70)
+   1 Ice Cluster
+   1 Earth Cluster
+   1 Darksteel Ingot
+   2 Darksteel Rivets
+
+Darksteel Haubergeon (Level 70)
+   1 Ice Cluster
+   1 Earth Cluster
+   1 Darksteel Ingot
+   1 Darksteel Rings
+   1 Garlean Steel Plate
+   1 Hippogryph Leather
+   1 Undyed Felt
+
+Heavy Darksteel Gauntlets (Level 70)
+   1 Ice Cluster
+   1 Earth Cluster
+   1 Silver Ingot
+   1 Rose Gold Nugget
+   1 Darksteel Plate
+   1 Darksteel Rings
+   1 Darksteel Gauntlet Plates
+
+Heavy Darksteel Flanchard (Level 70)
+   1 Ice Cluster
+   1 Earth Cluster
+   1 Silver Ingot
+   1 Rose Gold Nugget
+   1 Darksteel Plate
+   1 Darksteel Rings
+   1 Darksteel Couters
+
+Darksteel Scutum (Level 70)
+   1 Ice Cluster
+   1 Earth Cluster
+   1 Darksteel Ingot
+   2 Darksteel Plate
+   3 Darksteel Rivets
+
+Heavy Darksteel Armor (Level 70)
+   1 Ice Cluster
+   1 Earth Cluster
+   1 Silver Ingot
+   1 Rose Gold Nugget
+   2 Darksteel Plate
+   1 Darksteel Breastplate

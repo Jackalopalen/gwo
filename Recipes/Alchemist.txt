@@ -1,0 +1,806 @@
+Recipes level 1 to 5
+Distilled Water (Level 1)
+   1 Water Shard
+   1 Muddy Water
+
+Quicksilver (Level 1)
+   1 Water Shard
+   2 Cinnabar
+
+Animal Glue (Level 2)
+   1 Water Shard
+   1 Animal Skin
+   2 Bone Chip
+
+Growth Formula Alpha (Level 3)
+   1 Water Shard
+   1 Shriekshroom
+   1 Quicksilver
+   1 Rock Salt
+
+Maple Wand (Level 4)
+   1 Lightning Shard
+   1 Water Shard
+   1 Maple Branch
+   1 Growth Formula Alpha
+
+Enchanted Copper Ink (Level 4)
+   1 Water Shard
+   2 Copper Sand
+   1 Beastkin Blood
+
+Leather Grimoire (Level 5)
+   1 Lightning Shard
+   1 Water Shard
+   1 Leather
+   1 Hempen Yarn
+   1 Maple Log
+   1 Enchanted Copper Ink
+
+Antidote (Level 5)
+   1 Lightning Shard
+   1 Water Shard
+   1 Rock Salt
+   1 Grass Viper
+
+Recipes level 6 to 10
+Eye Drops (Level 6)
+   1 Lightning Shard
+   1 Water Shard
+   1 Rock Salt
+   1 Yellow Ginseng
+
+Rubber (Level 7)
+   1 Water Shard
+   1 Latex
+
+Whispering Maple Wand (Level 8)
+   1 Lightning Shard
+   1 Water Shard
+   1 Maple Wand
+   2 Growth Formula Alpha
+
+Maple Picatrix (Level 8)
+   1 Lightning Shard
+   1 Water Shard
+   1 Hempen Yarn
+   1 Maple Lumber
+   1 Maple Log
+   1 Enchanted Copper Ink
+
+Fish Oil (Level 10)
+   1 Water Shard
+   2 Princess Trout
+
+Fish Glue (Level 10)
+   1 Water Shard
+   2 Coral Butterfly
+
+Beeswax (Level 10)
+   1 Water Shard
+   3 Beehive Chip
+
+Engraved Leather Grimoire (Level 10)
+   1 Lightning Shard
+   1 Water Shard
+   1 Leather Grimoire
+   2 Leather
+   1 Ash Log
+
+Recipes level 11 through 15
+Budding Maple Wand (Level 11)
+   1 Lightning Shard
+   1 Water Shard
+   1 Whispering Maple Wand
+   1 Growth Formula Alpha
+   1 Beastkin Blood
+
+Potion (Level 12)
+   1 Lightning Shard
+   1 Water Shard
+   1 Chanterelle
+   1 Distilled Water
+   1 Tinolqa Mistletoe
+
+Ash Picatrix (Level 13)
+   1 Lightning Shard
+   1 Water Shard
+   1 Cotton Yarn
+   1 Ash Lumber
+   1 Ash Log
+   1 Enchanted Copper Ink
+
+Enchanted Iron Ink (Level 14)
+   1 Water Shard
+   2 Iron Sand
+   1 Viscous Secretions
+
+Clove Oil (Level 14)
+   1 Water Shard
+   2 Cloves
+
+Growth Formula Beta (Level 15)
+   1 Water Shard
+   1 Quicksilver
+   1 Rock Salt
+   1 Jellyfish Umbrella
+
+Ether (Level 15)
+   1 Lightning Shard
+   1 Water Shard
+   1 Distilled Water
+   1 Tinolqa Mistletoe
+   1 Imp Wing
+
+Recipes level 16 through 20
+Potion of Intelligence (Level 16)
+   1 Lightning Shard
+   1 Water Shard
+   1 Beastkin Blood
+   1 Rock Salt
+   1 Red Landtrap Leaf
+
+Ash Wand (Level 16)
+   1 Lightning Shard
+   1 Water Shard
+   1 Ash Branch
+   1 Growth Formula Beta
+
+Hard Leather Grimoire (Level 16)
+   1 Lightning Shard
+   1 Water Shard
+   1 Hard Leather
+   1 Cotton Yarn
+   1 Elm Log
+   1 Enchanted Iron Ink
+
+Potion of Dexterity (Level 17)
+   1 Lightning Shard
+   1 Water Shard
+   1 Bat Fang
+   1 Rock Salt
+
+Potion of Vitality (Level 18)
+   1 Lightning shard
+   1 Water Shard
+   1 Goobbue Fang
+   1 Rock Salt
+   1 Lavender
+
+Jellyfish Humours (Level 19)
+   1 Water Shard
+   2 Jellyfish Umbrella
+
+Potion of Strength (Level 19)
+   1 Lightning Shard
+   1 Water shard
+   1 Yellow Yarzon Leg
+   1 Rock Salt
+   1 White Scorpion
+
+Potion of Mind (Level 18)
+   1 Lightning Shard
+   1 Water Shard
+   1 Viscous Secretions
+   1 Rock Salt
+   1 Jellyfish Umbrella
+
+Engraved Hard Leather Grimoire (Level 20)
+   1 Lightning Shard
+   1 Water Shard
+   1 Hard Leather Grimoire
+   2 Hard Leather
+   1 Yew Log
+
+Recipes level 21 through 25
+Budding Ash Wand (Level 21)
+   1 Lightning Shard
+   2 Water Shard
+   1 Ash Wand
+   2 Growth Formula Beta
+
+Weak Blinding Potion (Level 21)
+   1 Lightning Shard
+   2 Water Shard
+   1 Bat Fang
+   1 Quicksilver
+   1 Bat Wing
+
+Weak Poisoning Potion (Level 21)
+   1 Lightning Shard
+   2 Water Shard
+   1 Quicksilver
+   1 Jellyfish Cnida
+   1 Grass Viper
+
+Weak Silencing Potion (Level 22)
+   1 Lightning Shard
+   2 Water Shard
+   1 Blowfish
+   1 Quicksilver
+   1 Bat Wing
+
+Echo Drops (Level 22)
+   1 Lightning Shard
+   2 Water Shard
+   1 Marjoram
+   1 Rock Salt
+   1 Lavender
+
+Yew Picatrix (Level 22)
+   1 Lightning Shard
+   2 Water Shard
+   1 Cotton Yarn
+   1 Yew Lumber
+   1 Yew Log
+   1 Enchanted Iron ink
+
+Enchanted  Silver Ink (Level 23)
+   2 Water Shard
+   2 Silver Sand
+   1 Acidic Secretions
+
+Goatskin Grimoire (Level 24)
+   2 Lightning Shard
+   2 Water Shard
+   1 Aldgoat Leather
+   1 Dew Thread
+   1 Yew Log
+   1 Enchanted Silver Ink
+
+Hi-Potion (Level 25)
+   2 Lightning Shard
+   2 Water Shard
+   1 Gil Bun
+   1 Distilled Water
+   1 Matron's Mistletoe
+
+Natron (Level 25)
+   2 Water Shard
+   1 Effervescent Water
+   1 Rock Salt
+
+Recipes level 26 through 30
+Crab Oil (Level 26)
+   2 Water Shard
+   2 Megalocrab Leg
+
+Whispering Ash Wand (Level 27)
+   2 Lightning Shard
+   3 Water Shard
+   1 Budding Ash Wand
+   1 Growth Formula Beta
+   1 Scalekin Blood
+
+Clear Glass Lens (Level 28)
+   3 Water Shard
+   1 Natron
+   1 Silex
+
+Yew Wand (Level 28)
+   2 Lightning Shard
+   3 Water Shard
+   1 Yew Branch
+   1 Growth Formula Beta
+
+Engraved Goatskin Grimoire (Level 29)
+   2 Lightning Shard
+   3 Water Shard
+   1 Goatskin Grimoire
+   2 Aldgoat Leather
+   1 Walnut Log
+
+Linseed Oil (Level 29)
+   3 Water Shard
+   2 Flax
+
+Growth Formula Gamma (Level 30)
+   3 Water Shard
+   1 Quicksilver
+   1 Rock Salt
+   1 Blue Landtrap Leaf
+
+Horn Glue (Level 30)
+   3 Water Shard
+   2 Aldgoat Horn
+
+Spine Drops (Level 30)
+   3 Lightning Shard
+   3 Water Shard
+   1 Pearl Ginger
+   1 Wolf Fang
+   1 Rock Salt
+
+Recipes level 31 through 35
+Hi-Potion of Dexterity (Level 31)
+   3 Lightning Shard
+   3 Water Shard
+   1 Scalekin Blood
+   1 Rock Salt
+   1 Belladonna
+
+ Hi-Potion of Mind (Level 31)
+   3 Lightning Shard
+   3 Water Shard
+   1 Treant Sap
+   1 Rock Salt
+   1 Moor Leech
+
+Hi-Potion of Intelligence (Level 32)
+   3 Lightning Shard
+   3 Water Shard
+   1 Pearl Ginger
+   1 Treant Sap
+   1 Rock Salt
+
+Hi-Potion of Vitality (Level 32)
+   3 Lightning Shard
+   3 Water Shard
+   1 Treant Sap 
+   1 Rock Salt
+   1 Puk Wing
+
+Hi-Potion of Strength (Level 33)
+   3 Lightning Shard
+   4 Water Shard
+   1 Gil Bun
+   1 Blue Yarzon Leg
+   1 Rock Salt
+
+Enchanted Mythril Ink (Level 33)
+   4 Water Shard
+   2 Mythril Sand
+   1 Scalekin Blood
+
+Book of Silver (Level 34)
+   3 Lightning Shard
+   4 Water Shard
+   1 Silver Ingot
+   1 Linen Yarn
+   1 Oak Log
+   1 Enchanted Silver Ink
+
+Budding Yew Wand (Level 34)
+   3 Lightning Shard
+   4 Water Shard
+   1 Yew Wand
+   3 Growth Formula Beta
+   1 Scalekin Blood
+
+Hi-Ether (Level 35)
+   3 Lightning Shard
+   4 Water Shard
+   1 Distilled Water
+   1 Matron's Mistletoe
+   1 Mandrake
+
+Paralyzing Potion (Level 35)
+   3 Lightning Shard
+   4 Water Shard
+   1 Quicksilver
+   1 Mandrake
+   1 Morbol Vine
+
+Poisoning Potion (Level 35)
+   3 Lighting Shard
+   4 Water Shard
+   1 Quicksilver
+   1 Formic Acid
+   1 Morbol Vine
+
+Vintage Picatrix (Level 35)
+   1 Water Crystal
+   1 Brittle Picatrix
+   1 Oak Log
+
+Recipes level 36 through 40
+Sleeping Potion (Level 36)
+   4 Lightning Shard
+   4 Water Shard
+   1 Quicksilver
+   1 Belladonna
+   1 Morbol Vine
+
+Blinding Potion (Level 36)
+   4 Lightning Shard
+   4 Water Shard
+   1 Quicksilver
+   1 Blue Landtrap Leaf
+   1 Morbol Vine
+
+Silencing Potion (Level 37)
+   4 Lightning Shard
+   4 Water Shard
+   1 Quicksilver
+   1 Morbol Vine
+   1 Tarantula
+
+Embossed Book of Silver (Level 38)
+   4 Lightning Shard
+   4 Water Shard
+   1 Book of Silver
+   2 Silver Ingot
+
+Budding Oak Wand (Level 38)
+   4 Lightning Shard
+   4 Water Shard
+   1 Hi-Potion of Mind
+   1 Oak Branch
+   1 Growth Formula Alpha
+
+Wand of Tremors (Level 39)
+   4 Lightning Shard
+   5 Water Shard
+   1 Eye of Earth
+   1 Oak Branch
+   1 Growth Formula Gamma
+
+Wand of Frost (Level 39)
+   4 Lightning Shard
+   5 Water shard
+   1 Eye of Ice
+   1 Oak Branch
+   1 Growth Formula Gamma
+
+Wand of Tides (Level 39)
+   4 Lightning Shard
+   5 Water Shard
+   1 Eye of Water
+   1 Oak Branch
+   1 Growth Formula Gamma
+
+Lanolin (Level 40)
+   5 Water Shard
+   1 Karakul Skin
+
+Smelling Salts (Level 40)
+   4 Lightning Shard
+   5 Water Shard
+   1 Desert Saffron
+   1 Rock Salt
+   1 Blue Landtrap Leaf
+
+Recipes level 41 through 45
+Shark Oil (Level 41)
+   5 Water Shard
+   1 Hammerhead Shark
+   1 Silver Shark
+
+Book of Mythril (Level 42)
+   5 Lightning Shard
+   5 Water shard
+   2 Mythril Ingot
+   1 Flax
+   1 Enchanted Mythril Ink
+
+Enchanted Electrum Ink (Level 43)
+   5 Water Shard
+   2 Electrum Sand
+   1 Spoken Blood
+
+Mega-Potion (Level 43)
+   5 Lightning Shard
+   5 Water Shard
+   1 Mugwort
+   1 Distilled Water
+   1 Mistletoe
+
+Mega-Potion of Mind (Level 44)
+   5 Lightning Shard
+   5 Water Shard
+   1 Blue Yarzon Leg
+   1 Rock Salt
+   1 Ahriman Wing
+
+Mega-Potion of Intelligence (Level 45)
+   5 Lightning Shard
+   6 Water Shard
+   1 Sandworm Fang
+   1 Rock Salt
+   1 Black Scorpion
+
+Mega-Potion of Strength (Level 45)
+   5 Lightning Shard
+   6 Water Shard
+   1 Sagolii Sage
+   1 Shark Oil
+   1 Rock Salt
+
+Wand of Gales (Level 45)
+   5 Lightning Shard
+   6 Water Shard
+   1 Eye of Wind
+   1 Rosewood Branch
+   1 Growth Formula Gamma
+
+Wand of Flames (Level 45)
+   5 Lightning Shard
+   6 Water Shard
+   1 Eye of Fire
+   1 Rosewood Branch
+   1 Growth Formula Gamma
+
+Wand of Storms (Level 45)
+   5 Lightning Shard
+   6 Water Shard
+   1 Eye of Lightning
+   1 Oak Branch
+   1 Growth Formula Gamma
+
+Book of Electrum (Level 45)
+   5 Lightning Shard
+   6 Water Shard
+   1 Cobalt Ingot
+   2 Electrum Ingot
+   1 Woolen Yarn
+   1 Rosewood Log
+   1 Enchanted Electrum Ink
+
+Recipes level 46 through 50
+Gold Needle (Level 46)
+   5 Lightning Shard
+   6 Water Shard
+   1 Electrum
+
+Mega-Potion of Vitality (Level 46)
+   5 Lightning Shard
+   6 Water Shard
+   1 Rock Salt
+   1 Grenade Ash
+   1 Pudding Flesh
+
+Mega-Potion of Dexterity (Level 46)
+   5 Lightning Shard
+   6 Water Shard
+   1 Dart Frog
+   1 Spoken Blood
+   1 Rock Salt
+
+Potent Paralyzing Potion (Level 47)
+   5 Lightning Shard
+   6 Water Shard
+   1 Quicksilver
+   1 Ochu Vine
+   1 Black Scorpion
+
+Potent Poisoning Potion (Level 47)
+   5 Lightning Shard
+   6 Water Shard
+   1 Quicksilver
+   1 Ochu Vine
+   1 Pudding Flesh
+
+Potent Sleeping Potion (Level 48)
+   6 Lightning Shard
+   6 Water Shard
+   1 Desert Saffron
+   1 Quicksilver
+   1 Ochu Vine
+
+Potent Silencing Potion (Level 48)
+   6 Lightning Shard
+   6 Water Shard
+   1 Dart Frog
+   1 Quicksilver
+   1 Ochu Vine
+
+Potent Blinding Potion (Level 49)
+   6 Lightning Shard
+   6 Water Shard
+   1 Quicksilver
+   1 Formic Acid
+   1 Ochu Vine
+
+Budding Rosewood Wand (Level 49)
+   6 Lightning Shard
+   6 Water Shard
+   1 Mega-Potion of Mind
+   1 Rosewood Branch
+   1 Growth Formula Gamma
+   1 Spoken Blood
+
+Embossed Book of Electrum (Level 49)
+   6 Lightning Shard
+   6 Water Shard
+   1 Book of Electrum
+   1 Cobalt Ingot
+   2 Electrum Ingot
+
+Tane Mahuta (Level 50)
+   6 Lightning Shard
+   6 Water Shard
+   1 Rosewood Branch
+   1 Growth Formula Gamma
+   1 Spoken Blood
+   1 Ochu Vine
+
+Lightning Ward Hi-Potion (Level 50)
+   6 Lightning Shard
+   6 Water Shard
+   1 Mugwort
+   1 Raw Amethyst
+   1 Rock Salt
+
+Wind Ward Hi-Potion (Level 50)
+   6 Lightning Shard
+   6 Water Shard
+   1 Mugwort
+   1 Raw Peridot
+   1 Rock Salt
+
+Ice Ward Hi-Potion (Level 50)
+   6 Lightning Shard
+   6 Water Shard
+   1 Mugwort
+   1 Raw Goshenite
+   1 Rock Salt
+
+Earth Ward Hi-Potion (Level 50)
+   6 Lightning Shard
+   6 Water Shard
+   1 Mugwort
+   1 Raw Heliodor
+   1 Rock Salt
+
+Water Ward Hi-Potion (Level 50)
+   6 Lightning Shard
+   6 Water Shard
+   1 Mugwort
+   1 Raw Aquamarine
+   1 Rock Salt
+
+Fire Ward Hi-Potion (Level 50)
+   6 Lightning Shard
+   6 Water Shard
+   1 Mugwort
+   1 Raw Garnet
+   1 Rock Salt
+
+Elixir (Level 50)
+   6 Lightning Shard
+   6 Water Shard
+   1 Nutmeg
+   1 Distilled Water
+   1 Mistletoe
+
+Mega-Ether (Level 50)
+   6 Lightning Shard
+   6 Water Shard
+   1 Mugwort
+   1 Distilled Water
+   1 Mistletoe
+
+Recipes level 50+
+Erudite's Picatrix of Healing (Level 55)
+   2 Lightning Crystal
+   3 Water Crystal
+   1 Enchanted Gold Ink
+   1 Bloody Grimoire Binding
+
+Erudite's Picatrix of Casting (Level 55)
+   2 Lightning Crystal
+   3 Water Crystal
+   1 Enchanted Gold Ink
+   1 Bloody Grimoire Binding
+
+Madman's Whispering Rod (Level 55)
+   2 Lightning Crystal
+   3 Water Crystal
+   1 Growth Formula Delta
+   1 Thavnairian Mistletoe
+   1 Vampire Plant
+
+Growth Formula Delta (Level 55)
+   3 Water Crystal
+   1 Quicksilver
+   1 Rock Salt
+   1 Trillium Bulb
+
+Enchanted Gold Ink (Level 55)
+   3 Water Crystal
+   3 Gold Sand
+   1 Spoken Blood
+
+Enchanted Rose Gold Ink (Level 70)
+   1 Water Cluster
+   9 Minium
+   1 Enchanted Gold Ink
+
+Wind Ward Mega-Potion (Level 70)
+   1 Lightning Cluster
+   1 Water Cluster
+   1 Raw Tourmaline
+   1 Trillium Bulb
+   1 Volcanic Rock Salt
+
+Growth Formula Delta Concentrate (Level 70)
+   1 Water Cluster
+   2 Growth Formula Delta
+   9 Lime Sulphur
+
+Suspended Trillium Flower (Level 70)
+   1 Water Cluster
+   1 Growth Formula Delta
+   1 Growth Formula Delta Concentrate
+   1 Trillium
+
+Alkalurops (Level 70)
+   1 Lightning Cluster
+   1 Water Cluster
+   1 Darksteel Nugget
+   2 Spruce Lumber
+   1 Suspended Trillium Flower
+
+X-Ether (Level 70)
+   1 Lightning Cluster
+   1 Water Cluster
+   1 Mugwort
+   1 Thavnairian Mistletoe
+   1 Voidsent Blood
+
+X-Potion (Level 70)
+   1 Lightning Cluster
+   1 Water Cluster
+   1 Thavnairian Mistletoe
+   1 Vampire Plant
+   1 Filtered Water
+
+Hi-Elixir (Level 70)
+   1 Lightning Cluster
+   1 Water Cluster
+   1 Growth Formula Delta Concentrate
+   1 Treant Sap
+   1 Thavnairian Mistletoe
+
+Fire Ward Mega-Potion (Level 70)
+   1 Lightning Cluster
+   1 Water Cluster
+   1 Raw Rubellite
+   1 Trillium Bulb
+   1 Volcanic Rock Salt
+
+Earth Ward Mega-Potion (Level 70)
+   1 Lightning Cluster
+   1 Water Cluster
+   1 Raw Amber
+   1 Trillium Bulb
+   1 Volcanic Rock Salt
+
+Ice Ward Mega-Potion (Level 70)
+   1 Lightning Cluster
+   1 Water Cluster
+   1 Raw Zircon
+   1 Trillium Bulb
+   1 Volcanic Rock Salt
+
+Lightning Ward Mega-Potion (Level 70)
+   1 Lightning Cluster
+   1 Water Cluster
+   1 Raw Spinel
+   1 Trillium Bulb
+   1 Volcanic Rock Salt
+
+Water Ward Mega-Potion (Level 70)
+   1 Lightning Cluster
+   1 Water Cluster
+   1 Raw Turquoise
+   1 Trillium Bulb
+   1 Volcanic Rock Salt
+
+Deus Ex Gratia (Level 70)
+   1 Lightning Cluster
+   1 Water Cluster
+   3 Darksteel Nugget
+   1 Silver Ingot
+   1 Hippogyph Leather
+   1 Twinthread
+   1 Enchanted Rose Gold Ink
+
+Deus Ex Verbis (Level 70)
+   1 Lightning Cluster
+   1 Water Cluster
+   3 Darksteel Nugget
+   1 Silver Ingot
+   1 Hippogyph Leather
+   1 Twinthread
+   1 Enchanted Rose Gold Ink

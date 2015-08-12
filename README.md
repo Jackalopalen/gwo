@@ -22,5 +22,5 @@ Feel free to make your own adjustments as you see fit.
 
 The recipe and ingredient lists I am using come from http://www.gameskinny.com/27qul/just-ashleys-final-fantasy-xiv-guides-current-and-upcoming-listed
 Without Ashley SSS putting the lists together with the tedious work, I'm sure I'd never have done so.
-(On that note, if there are any erros in the recipes or the ingredient info, not my fault)
+(On that note, some data is likely outdated and I haven't checked the accuracy, so if there are any errors in the recipes or the ingredient info, not my fault)
 Thank you.

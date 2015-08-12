@@ -2,8 +2,13 @@ import cPickle as pickle
 import Tkinter, ttk, re
 
 #load recipe list
-f = open('Recipes.list','r')
+f = open('sub/Recipes.list','r')
 Recipes = pickle.load(f)
+f.close()
+
+#load ingredient list
+f = open('sub/Ingredients.dict','r')
+Ingredients = pickle.load(f)
 f.close()
 
 #useful lists for later
@@ -56,6 +61,8 @@ def update(*args):
         for ingredient in recipe['Ingredients']:
             if ingredient[0] not in [iltree.item(child)['text'] for child in iltree.get_children()]:
                 iltree.insert('', 'end', ingredient[0], text=ingredient[0])
+                if ingredient[0] in Ingredients:
+                    iltree.set(ingredient[0], 'info', Ingredients[ingredient[0]])
                 iltree.set(ingredient[0], 'count', ingredient[1] * mllistd[str(item)])
             else:
                 iltree.set(ingredient[0], 'count', iltree.set(ingredient[0], 'count') + ingredient[1] * mllistd[str(item)])
@@ -73,6 +80,8 @@ def birth(parent):
         _id = '{}/{}'.format(parent, ingredient[0])
         if _id not in iltree.get_children(parent):
             iltree.insert(parent, 'end', _id, text=ingredient[0])
+            if ingredient[0] in Ingredients:
+                iltree.set(_id, 'info', Ingredients[ingredient[0]])
         iltree.set(_id, 'count', ingredient[1] * iltree.set(parent, 'count'))
         if ingredient[0] in [recipe['Name'] for recipe in Recipes]:
             birth(_id)

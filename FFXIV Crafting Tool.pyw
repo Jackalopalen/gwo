@@ -54,8 +54,11 @@ def minus(*args):
 
 #update ingredient list
 def update(*args):
+    totals = {}
     for child in iltree.get_children():
         iltree.delete(child)
+    for child in tltree.get_children():
+        tltree.delete(child)
     for item in mllistd:
         recipe = find(item)
         for ingredient in recipe['Ingredients']:
@@ -67,14 +70,27 @@ def update(*args):
             else:
                 iltree.set(ingredient[0], 'count', iltree.set(ingredient[0], 'count') + ingredient[1] * mllistd[str(item)])
             if ingredient[0] in [recipe['Name'] for recipe in Recipes]:
-                birth(ingredient[0])
+                birth(ingredient[0], totals)
+            else:
+                if ingredient[0] not in totals:
+                    totals[ingredient[0]] = iltree.set(ingredient[0], 'count')
+                else:
+                    totals[ingredient[0]] += iltree.set(ingredient[0], 'count')
+    for base in totals:
+        bid = tltree.insert('', 'end', text=base, values=(totals[base],))
+        if base in Ingredients:
+            tltree.set(bid, 'info', Ingredients[base])
     for child in iltree.get_children():
         name = iltree.item(child)['text'].lower()
         if 'shard' in name or 'crystal' in name or 'cluster' in name:
             iltree.move(child, '', 0)
+    for child in tltree.get_children():
+        name = tltree.item(child)['text'].lower()
+        if 'shard' in name or 'crystal' in name or 'cluster' in name:
+            tltree.move(child, '', 0)
 
 #populate tree with child ingredients
-def birth(parent):
+def birth(parent, totals):
     recipe = find(iltree.item(parent)['text'])
     for ingredient in recipe['Ingredients']:
         _id = '{}/{}'.format(parent, ingredient[0])
@@ -84,7 +100,12 @@ def birth(parent):
                 iltree.set(_id, 'info', Ingredients[ingredient[0]])
         iltree.set(_id, 'count', ingredient[1] * iltree.set(parent, 'count'))
         if ingredient[0] in [recipe['Name'] for recipe in Recipes]:
-            birth(_id)
+            birth(_id, totals)
+        else:
+            if ingredient[0] not in totals:
+                totals[ingredient[0]] = iltree.set(_id, 'count')
+            else:
+                totals[ingredient[0]] += iltree.set(_id, 'count')
 
         
 #make a window
@@ -98,6 +119,7 @@ sup = ttk.Frame(root, padding=(5,5,5,5))
 sup.grid(column=0, row=0, sticky='NSEW')
 sup.grid_columnconfigure(0, weight=1)
 sup.grid_columnconfigure(1, weight=4)
+sup.grid_columnconfigure(2, weight=4)
 sup.grid_rowconfigure(0, weight=1)
 sup.grid_rowconfigure(1, weight=1)
 
@@ -199,10 +221,26 @@ iltree.configure(yscrollcommand=ilscroll.set)
 iltree.grid(column=0, row=0, sticky='NSEW', padx=(5, 0), pady=(5, 5))
 ilscroll.grid(column=1, row=0, sticky='NS', padx=(0, 5), pady=(5, 5))
 
+#next is a list of the total base mats required (not craftable, this is for if you plan to craft from scratch)
+##frame
+tlframe = ttk.LabelFrame(sup, text='Base Material Totals')
+tlframe.grid(column=2, row=0, rowspan=2, sticky='NSEW', padx=5)
+tlframe.grid_columnconfigure(0, weight=1)
+tlframe.grid_rowconfigure(0,weight=1)
+##widgets
+tltree = ttk.Treeview(tlframe, columns=('count','info'))
+tltree.column('count', width=50, minwidth=50, stretch=0)
+tltree.heading('count', text='Count', anchor='w')
+tltree.heading('info', text='Info', anchor='w')
+tlscroll = ttk.Scrollbar(tlframe, orient=Tkinter.VERTICAL, command=tltree.yview)
+tltree.configure(yscrollcommand=tlscroll.set)
+##arrange
+tltree.grid(column=0, row=0, sticky='NSEW', padx=(5, 0), pady=(5, 5))
+tlscroll.grid(column=1, row=0, sticky='NS', padx=(0, 5), pady=(5, 5))
 
 
 #throw on a sizegrip
-ttk.Sizegrip(sup).grid(column=1, row=2, sticky='SE')
+ttk.Sizegrip(sup).grid(column=2, row=2, sticky='SE')
 
 #initial search populates results list with all recipes
 search()

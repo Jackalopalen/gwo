@@ -70,12 +70,8 @@ def update(*args):
             else:
                 iltree.set(ingredient[0], 'count', iltree.set(ingredient[0], 'count') + ingredient[1] * mllistd[str(item)])
             if ingredient[0] in [recipe['Name'] for recipe in Recipes]:
-                birth(ingredient[0], totals)
-            else:
-                if ingredient[0] not in totals:
-                    totals[ingredient[0]] = iltree.set(ingredient[0], 'count')
-                else:
-                    totals[ingredient[0]] += iltree.set(ingredient[0], 'count')
+                birth(ingredient[0])
+    counttotals('', totals)
     for base in totals:
         bid = tltree.insert('', 'end', text=base, values=(totals[base],))
         if base in Ingredients:
@@ -90,7 +86,7 @@ def update(*args):
             tltree.move(child, '', 0)
 
 #populate tree with child ingredients
-def birth(parent, totals):
+def birth(parent):
     recipe = find(iltree.item(parent)['text'])
     for ingredient in recipe['Ingredients']:
         _id = '{}/{}'.format(parent, ingredient[0])
@@ -100,12 +96,17 @@ def birth(parent, totals):
                 iltree.set(_id, 'info', Ingredients[ingredient[0]])
         iltree.set(_id, 'count', ingredient[1] * iltree.set(parent, 'count'))
         if ingredient[0] in [recipe['Name'] for recipe in Recipes]:
-            birth(_id, totals)
-        else:
-            if ingredient[0] not in totals:
-                totals[ingredient[0]] = iltree.set(_id, 'count')
+            birth(_id)
+
+def counttotals(parent, totals):
+    for child in iltree.get_children(parent):
+        if len(iltree.get_children(child)) == 0:
+            if iltree.item(child)['text'] not in totals:
+                totals[iltree.item(child)['text']] = iltree.set(child, 'count')
             else:
-                totals[ingredient[0]] += iltree.set(_id, 'count')
+                totals[iltree.item(child)['text']] += iltree.set(child,'count')
+        else:
+            counttotals(child, totals)
 
         
 #make a window

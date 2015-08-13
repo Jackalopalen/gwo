@@ -212,7 +212,9 @@ ilframe.grid_rowconfigure(0,weight=1)
 illistd = {}
 ##widgets
 iltree = ttk.Treeview(ilframe, columns=('count','info'), height=8)
+iltree.column('#0', width=150, minwidth=150, stretch=0)
 iltree.column('count', width=50, minwidth=50, stretch=0)
+iltree.heading('#0', text='Ingredient', anchor='w')
 iltree.heading('count', text='Count', anchor='w')
 iltree.heading('info', text='Info', anchor='w')
 ilscroll = ttk.Scrollbar(ilframe, orient=Tkinter.VERTICAL, command=iltree.yview)
@@ -227,9 +229,12 @@ tlframe = ttk.LabelFrame(sup, text='Base Material Totals')
 tlframe.grid(column=2, row=0, rowspan=2, sticky='NSEW', padx=5)
 tlframe.grid_columnconfigure(0, weight=1)
 tlframe.grid_rowconfigure(0,weight=1)
+
 ##widgets
 tltree = ttk.Treeview(tlframe, columns=('count','info'))
+tltree.column('#0', width=120, minwidth=120, stretch=0)
 tltree.column('count', width=50, minwidth=50, stretch=0)
+tltree.heading('#0', text='Ingredient', anchor='w')
 tltree.heading('count', text='Count', anchor='w')
 tltree.heading('info', text='Info', anchor='w')
 tlscroll = ttk.Scrollbar(tlframe, orient=Tkinter.VERTICAL, command=tltree.yview)

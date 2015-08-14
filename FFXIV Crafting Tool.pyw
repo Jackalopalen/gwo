@@ -51,6 +51,9 @@ def add(*args):
         else:
             mllistd[item] = 1
     mllist.set(tuple(['{}x {}'.format(mllistd[item], item) for item in mllistd if mllistd[item] > 0]))
+    sentry.focus_set()
+    sentry.select_range(0, Tkinter.END)
+
 
 #remove selected recipe to makelist
 def minus(*args):
@@ -84,17 +87,21 @@ def update(*args):
                 birth(ingredient[0])
     counttotals('', totals)
     for base in totals:
-        bid = tltree.insert('', 'end', text=base, values=(totals[base],))
+        bid = tltree.insert('', 'end', base, text=base, values=(totals[base],))
         if base in Ingredients:
             tltree.set(bid, 'info', Ingredients[base])
-    for child in iltree.get_children():
+    for child in sorted(iltree.get_children()):
         name = iltree.item(child)['text'].lower()
         if 'shard' in name or 'crystal' in name or 'cluster' in name:
             iltree.move(child, '', 0)
-    for child in tltree.get_children():
+        else:
+            iltree.move(child, '', 'end')
+    for child in sorted(tltree.get_children()):
         name = tltree.item(child)['text'].lower()
         if 'shard' in name or 'crystal' in name or 'cluster' in name:
             tltree.move(child, '', 0)
+        else:
+            tltree.move(child, '', 'end')
 
 #populate tree with child ingredients
 def birth(parent):
@@ -276,6 +283,10 @@ ttk.Sizegrip(sup).grid(column=0, row=1, sticky='SE')
 
 #initial search populates results list with all recipes
 search()
+
+#set initial focus on search entry
+sentry.focus_set()
+sentry.select_range(0, Tkinter.END)
 
 #LOOP IT!!!
 root.mainloop()

@@ -16,6 +16,17 @@ classlist = ['Any','Alchemist','Armorer','Blacksmith','Carpenter','Culinarian','
 levellist = ['Any','1-5','6-10','11-15','16-20','21-25','26-30','31-35','36-40','41-45','46-50','50+']
 leveldict = {'Any':range(1,100),'1-5':range(1,6),'6-10':range(6,11),'11-15':range(11,16),'16-20':range(16,21),'21-25':range(21,26),'26-30':range(26,31),'31-35':range(31,36),'36-40':range(36,41),'41-45':range(41,46),'46-50':range(46,51),'51+':range(51,100)}
 
+
+
+
+
+
+
+
+
+
+
+
 #search recipe list by name
 def find(name):
     for recipe in Recipes:
@@ -98,6 +109,7 @@ def birth(parent):
         if ingredient[0] in [recipe['Name'] for recipe in Recipes]:
             birth(_id)
 
+#get the total counts for base mats
 def counttotals(parent, totals):
     for child in iltree.get_children(parent):
         if len(iltree.get_children(child)) == 0:
@@ -108,10 +120,19 @@ def counttotals(parent, totals):
         else:
             counttotals(child, totals)
 
+
+
+
+
+
+
+
+
         
 #make a window
 root = Tkinter.Tk()
 root.title('FFXIV Crafting Tool')
+root.geometry('{}x{}'.format(int(root.winfo_screenwidth()*.75), int(root.winfo_screenheight()*.75)))
 root.grid_columnconfigure(0, weight=1)
 root.grid_rowconfigure(0,weight=1)
 
@@ -119,14 +140,15 @@ root.grid_rowconfigure(0,weight=1)
 sup = ttk.Frame(root, padding=(5,5,5,5))
 sup.grid(column=0, row=0, sticky='NSEW')
 sup.grid_columnconfigure(0, weight=1)
-sup.grid_columnconfigure(1, weight=4)
-sup.grid_columnconfigure(2, weight=4)
 sup.grid_rowconfigure(0, weight=1)
-sup.grid_rowconfigure(1, weight=1)
+
+#top level panedwindow
+tpane = ttk.Panedwindow(sup, orient=Tkinter.HORIZONTAL)
+tpane.grid(column=0, row=0, sticky='NSEW')
 
 #input frame with instructions for user
 inst = ttk.LabelFrame(sup, text='What would you like to create?')
-inst.grid(column=0, row=0, rowspan=2, sticky='NSEW', padx=(0,5))
+tpane.add(inst, weight=1)
 inst.grid_columnconfigure(0, weight=1)
 inst.grid_columnconfigure(1, weight=1)
 inst.grid_rowconfigure(4, weight=1)
@@ -184,28 +206,13 @@ raddbutton.grid(column=3, row=0, padx=5, sticky='SEW')
 ralabel.grid(column=3, row=1)
 rminusbutton.grid(column=3, row=2, padx=5, pady=(0, 25), sticky='NEW')
 
-#makelist frame
-mlframe = ttk.LabelFrame(sup, text='Make List')
-mlframe.grid(column=1, row=1, sticky='NSEW')
-mlframe.grid_columnconfigure(0, weight=1)
-mlframe.grid_rowconfigure(0,weight=1)
-
-##variable
-mllist = Tkinter.StringVar(value=())
-mllist.trace('w', update)
-mllistd = {}
-##widgets
-mllistbox = Tkinter.Listbox(mlframe, listvariable=mllist, selectmode='extended', height=10)
-mllistbox.bind('<Double-1>', minus)
-mlscroll = ttk.Scrollbar(mlframe, orient=Tkinter.VERTICAL, command=mllistbox.yview)
-mllistbox.configure(yscrollcommand=mlscroll.set)
-##arrange
-mllistbox.grid(column=0, row=0, sticky='NSEW', padx=(5, 0), pady=(0, 5))
-mlscroll.grid(column=1, row=0, sticky='NS', padx=(0, 5), pady=(0, 5))
+#mlist and tlist frams' paned window
+mpane = ttk.Panedwindow(tpane, orient=Tkinter.VERTICAL)
+tpane.add(mpane, weight=1)
 
 #ingredient list frame
 ilframe = ttk.LabelFrame(sup, text='Ingredient List')
-ilframe.grid(column=1, row=0, sticky='NSEW')
+mpane.add(ilframe, weight=2)
 ilframe.grid_columnconfigure(0, weight=1)
 ilframe.grid_rowconfigure(0,weight=1)
 
@@ -224,10 +231,29 @@ iltree.configure(yscrollcommand=ilscroll.set)
 iltree.grid(column=0, row=0, sticky='NSEW', padx=(5, 0), pady=(5, 5))
 ilscroll.grid(column=1, row=0, sticky='NS', padx=(0, 5), pady=(5, 5))
 
+#makelist frame
+mlframe = ttk.LabelFrame(sup, text='Make List')
+mpane.add(mlframe, weight=1)
+mlframe.grid_columnconfigure(0, weight=1)
+mlframe.grid_rowconfigure(0,weight=1)
+
+##variable
+mllist = Tkinter.StringVar(value=())
+mllist.trace('w', update)
+mllistd = {}
+##widgets
+mllistbox = Tkinter.Listbox(mlframe, listvariable=mllist, selectmode='extended', height=10)
+mllistbox.bind('<Double-1>', minus)
+mlscroll = ttk.Scrollbar(mlframe, orient=Tkinter.VERTICAL, command=mllistbox.yview)
+mllistbox.configure(yscrollcommand=mlscroll.set)
+##arrange
+mllistbox.grid(column=0, row=0, sticky='NSEW', padx=(5, 0), pady=(0, 5))
+mlscroll.grid(column=1, row=0, sticky='NS', padx=(0, 5), pady=(0, 5))
+
 #next is a list of the total base mats required (not craftable, this is for if you plan to craft from scratch)
 ##frame
 tlframe = ttk.LabelFrame(sup, text='Base Material Totals')
-tlframe.grid(column=2, row=0, rowspan=2, sticky='NSEW', padx=5)
+tpane.add(tlframe, weight=2)
 tlframe.grid_columnconfigure(0, weight=1)
 tlframe.grid_rowconfigure(0,weight=1)
 
@@ -246,7 +272,7 @@ tlscroll.grid(column=1, row=0, sticky='NS', padx=(0, 5), pady=(5, 5))
 
 
 #throw on a sizegrip
-ttk.Sizegrip(sup).grid(column=2, row=2, sticky='SE')
+ttk.Sizegrip(sup).grid(column=0, row=1, sticky='SE')
 
 #initial search populates results list with all recipes
 search()

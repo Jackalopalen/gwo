@@ -1,3 +1,6 @@
+import os
+
+#this is PART of the function used to convert the lists of recipes acquired from ashley sss into something useful
 for rlist in os.listdir('Recipes'):
 	rc = 0
 	cc += 1

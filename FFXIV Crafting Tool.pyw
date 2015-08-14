@@ -2,12 +2,12 @@ import cPickle as pickle
 import Tkinter, ttk, re
 
 #load recipe list
-f = open('sub/Recipes.list','r')
+f = open('sub/Recipes.pkl','r')
 Recipes = pickle.load(f)
 f.close()
 
 #load ingredient list
-f = open('sub/Ingredients.dict','r')
+f = open('sub/Ingredients.pkl','r')
 Ingredients = pickle.load(f)
 f.close()
 

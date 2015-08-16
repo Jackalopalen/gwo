@@ -17,6 +17,8 @@ Select one or more result and click the '+' button (or double click) to add to t
 Ingredients will appear in the box above.
 Select one or more item in the Make List and click the '-' button (or double click) to remove it.
 
+Once you have a list of ingredients, you can use the checkboxes to mark off what you have gathered.
+
 The tool is a work in progress, I will improve it as I feel like it.
 Feel free to make your own adjustments as you see fit.
 

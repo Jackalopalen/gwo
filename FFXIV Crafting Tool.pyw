@@ -1,6 +1,7 @@
 import cPickle as pickle
 import Tkinter, ttk, re
 
+
 #load recipe list
 f = open('sub/Recipes.pkl','r')
 Recipes = pickle.load(f)
@@ -20,12 +21,7 @@ leveldict = {'Any':range(1,100),'1-5':range(1,6),'6-10':range(6,11),'11-15':rang
 
 
 
-
-
-
-
-
-
+#these functions used to search for recipes and display results
 
 #search recipe list by name
 def find(name):
@@ -40,6 +36,13 @@ def search(*args):
     ns = nsearch.get()
     trl = [recipe for recipe in Recipes if (cs == 'Any' or recipe['Class'] == cs) and (recipe['Level'] in leveldict[ls]) and (ns.lower() in recipe['Name'].lower())]
     resultlist.set(tuple(['{} ({} Level {})'.format(recipe['Name'], recipe['Class'], recipe['Level']) for recipe in trl]))
+
+
+
+
+
+
+#these functions add/remove items to/from the make list, ingredients list, and totals list
 
 #add selected recipe to makelist
 def add(*args):
@@ -60,10 +63,8 @@ def add(*args):
                 iltree.insert('', 'end', name, text=name, values=(count, '[  ]', ))
                 if name in Ingredients:
                     iltree.set(name, 'info', Ingredients[name])
-            print name
             if name in [this['Name'] for this in Recipes]:
-                print 'hih'
-                birthadd(name)
+                birthadd(name, count)
             else:
                 if name in tltree.get_children():
                     tltree.set(name, 'count', int(tltree.set(name, 'count')) + count)
@@ -85,43 +86,41 @@ def add(*args):
         else:
             tltree.move(child, '', 'end')
     mllist.set(tuple(sorted(['{}x {}'.format(mllistd[item], item) for item in mllistd if mllistd[item] > 0], key=lambda k: re.sub('[0-9]*x ', '', k))))
+    check()
     sentry.focus_set()
     sentry.select_range(0, Tkinter.END)
 
 #add child ingredients
-def birthadd(parent):
-    print 'birthing'
+def birthadd(parent, parent_count):
     recipe = find(iltree.item(parent)['text'])
     for ingredient in recipe['Ingredients']:
         name, count = ingredient[0], ingredient[1]
         _id = '{}/{}'.format(parent, ingredient[0])
         if _id in iltree.get_children(parent):
-            iltree.set(_id, 'count', int(iltree.set(_id, 'count')) + count)
+            iltree.set(_id, 'count', int(iltree.set(_id, 'count')) + (count * parent_count))
             iltree.set(_id, 'mark', '[  ]')
         else:
-            iltree.insert(parent, 'end', _id, text=name, values=(count, '[  ]', ))
+            iltree.insert(parent, 'end', _id, text=name, values=(count * parent_count, '[  ]', ))
             if name in Ingredients:
                 iltree.set(_id, 'info', Ingredients[name])
         if name in [this['Name'] for this in Recipes]:
-            birthadd(_id)
+            birthadd(_id, count)
         else:
             if name in tltree.get_children():
-                tltree.set(name, 'count', int(tltree.set(name, 'count')) + count)
+                tltree.set(name, 'count', int(tltree.set(name, 'count')) + (count * parent_count))
                 tltree.set(name, 'mark', '[  ]')
             else:
-                tltree.insert('', 'end', name, text=name, values=(count, '[  ]', ))
+                tltree.insert('', 'end', name, text=name, values=(count * parent_count, '[  ]', ))
                 if name in Ingredients:
                     tltree.set(name, 'info', Ingredients[name])
 
 
 #add selected recipe to makelist
 def minus(*args):
-    print 'going'
     for idx in mllistbox.curselection():
         idx = int(idx)
         item = re.sub('^[0-9]*x ', '', eval(mllist.get())[idx])
         if item in mllistd:
-            print 'yo'
             mllistd[item] -= 1
             if mllistd[item] <= 0:
                 del(mllistd[item])
@@ -132,30 +131,36 @@ def minus(*args):
                 iltree.set(name, 'count', int(iltree.set(name, 'count')) - count)
                 if iltree.set(name, 'count') <= 0:
                     iltree.delete(name)
+                    if name in [this['Name'] for this in Recipes]:
+                        birthminus(name, count, True)
                 elif name in [this['Name'] for this in Recipes]:
-                    birthminus(name)
-            if name not in Recipes and name in tltree.get_children():
+                    birthminus(name, count)
+            if name not in [this['Name'] for this in Recipes] and name in tltree.get_children():
                 tltree.set(name, 'count', int(tltree.set(name, 'count')) - count)
                 if tltree.set(name, 'count') <= 0:
                     tltree.delete(name)
     mllist.set(tuple(sorted(['{}x {}'.format(mllistd[item], item) for item in mllistd if mllistd[item] > 0], key=lambda k: re.sub('[0-9]*x ', '', k))))
 
 #add child ingredients
-def birthminus(parent):
-    recipe = find(iltree.item(parent)['text'])
+def birthminus(parent, parent_count, tot=False):
+    intot = tot
+    if not tot: recipe = find(iltree.item(parent)['text'])
+    else: recipe = find(parent)
     for ingredient in recipe['Ingredients']:
         name, count = ingredient[0], ingredient[1]
         _id = '{}/{}'.format(parent, ingredient[0])
-        if _id in iltree.get_children(parent):
-            iltree.set(_id, 'count', int(iltree.set(_id, 'count')) - count)
+        if not tot and _id in iltree.get_children(parent):
+            iltree.set(_id, 'count', int(iltree.set(_id, 'count')) - (count * parent_count))
             if iltree.set(_id, 'count') <= 0:
+                intot = True
                 iltree.delete(_id)
-            elif name in [this['Name'] for this in Recipes]:
-                birthminus(_id)
-        if name not in Recipes and name in tltree.get_children():
-                tltree.set(name, 'count', int(tltree.set(name, 'count')) - count)
+        if name not in [this['Name'] for this in Recipes] and name in tltree.get_children():
+                tltree.set(name, 'count', int(tltree.set(name, 'count')) - (count * parent_count))
                 if tltree.set(name, 'count') <= 0:
                     tltree.delete(name)
+        if name in [this['Name'] for this in Recipes]:
+            if intot: birthminus(name, count, intot)
+            else: birthminus(_id, count, intot)
 
 
 
@@ -163,11 +168,135 @@ def birthminus(parent):
 
 
 
+#the following functions handle marking/unmarking items in the ingredients lists
 
+##mark/unmark selected item(s) in ingredients list
+def ilmark(*args):
+    for item in iltree.selection():
+        mark = iltree.set(item, 'mark')
+        name = iltree.item(item)['text']
+        if mark == '[  ]':
+            iltree.set(item, 'mark', '[x]')
+            birthmark(item)
+            parentmark(item)
+        if mark == '[x]':
+            iltree.set(item, 'mark', '[  ]')
+            birthmark(item, True)
+            parentmark(item, True)
+    check()
 
+##check for marked items in ingredient list and automatically assign
+##appropriate mark to crorresponding itemin totals list
+def check():
+    for name in tltree.get_children():
+        completion = []
+        children = iltree.get_children()
+        for child in children:
+            if child == name:
+                if iltree.set(child, 'mark') == '[x]':
+                    completion.append(1)
+                else:
+                    completion.append(0)
+            tlincmark(child, name, completion)
+        if 1 in completion and 0 in completion:
+            tltree.set(name, 'mark', '[-]')
+        elif 0 in completion:
+            tltree.set(name, 'mark', '[  ]')
+        elif 1 in completion:
+            tltree.set(name, 'mark', '[x]')
 
+###used by previous function to iterate (downward) through trees
+def tlincmark(parent, name, completion):
+    children = iltree.get_children(parent)
+    for child in children:
+        if child.endswith(name):
+            if iltree.set(child, 'mark') == '[x]':
+                completion.append(1)
+            else:
+                completion.append(0)
+        tlincmark(child, name, completion)
 
+##this function checks the parent of an item that is marked in the ingredient
+##list. if all children are thusly marked, the parent is automatically marked
+##if any child ingredient is found unmarked, the parent in unmarked
+##(iterates upward)
+def parentmark(child, unmark=False):
+    parent = iltree.parent(child)
+    if parent != '':
+        if unmark:
+            iltree.set(parent, 'mark', '[  ]')
+            parentmark(parent, True)
+        else:
+            children = iltree.get_children(parent)
+            markit = True
+            for child in children:
+                if iltree.set(child, 'mark') == '[  ]':
+                    markit = False
+            if markit:
+                iltree.set(parent, 'mark', '[x]')
+                parentmark(parent)
         
+##this function will automatically mark/unmark any children of an item that is marked in
+##the ingredient list
+##(iterates downward)
+def birthmark(parent, unmark=False):
+    children = iltree.get_children(parent)
+    if len(children) > 0:
+        for child in children:
+            name = iltree.item(child)['text']
+            if not unmark:
+                iltree.set(child, 'mark', '[x]')
+                birthmark(child)
+            else:
+                iltree.set(child, 'mark', '[  ]')
+                birthmark(child, True)
+
+##next function marks/unmarks selected item(s) in totals list
+##then it marks/unmarks any corresponding item in the ingredient list
+def tlmark(*args):
+    for item in tltree.selection():
+        mark = tltree.set(item, 'mark')
+        if mark != '[x]':
+            tltree.set(item, 'mark', '[x]')
+            children = iltree.get_children()
+            for child in children:
+                if child == item:
+                    iltree.set(child, 'mark', '[x]')
+                    parentmark(child)
+                tlilbirthmark(child, item)
+        if mark == '[x]':
+            tltree.set(item, 'mark', '[  ]')
+            children = iltree.get_children()
+            for child in children:
+                if child == item:
+                    iltree.set(child, 'mark', '[  ]')
+                    parentmark(child, True)
+                tlilbirthmark(child, item, True)
+
+###used by previous function to iterate (downward) through trees
+def tlilbirthmark(parent, name, unmark=False):
+    children = iltree.get_children(parent)
+    if len(children) > 0:
+        for child in iltree.get_children(parent):
+            if child.endswith(name):
+                if not unmark:
+                    iltree.set(child, 'mark', '[x]')
+                    parentmark(child)
+                else:
+                    iltree.set(child, 'mark', '[  ]')
+                    parentmark(child, True)
+            tlilbirthmark(child, name, unmark)
+
+
+
+
+
+
+
+
+
+
+#construct the UI
 #make a window
 root = Tkinter.Tk()
 root.title('FFXIV Crafting Tool')
@@ -198,7 +327,7 @@ inst.grid_rowconfigure(4, weight=1)
 csearch = Tkinter.StringVar(value='Any')
 lsearch = Tkinter.StringVar(value='Any')
 nsearch = Tkinter.StringVar()
-nsearch.trace('w',search)
+nsearch.trace('w', search)
 ##various widgets
 clabel = ttk.Label(inst, text='Class')
 llabel = ttk.Label(inst, text='Level Range')
@@ -233,6 +362,7 @@ resultlist = Tkinter.StringVar()
 ###widgets
 rlistbox = Tkinter.Listbox(resultframe, listvariable=resultlist, selectmode='extended', height=10)
 rlistbox.bind('<Double-1>', add)
+rlistbox.bind('<Return>', add)
 rscroll = ttk.Scrollbar(resultframe, orient=Tkinter.VERTICAL, command=rlistbox.yview)
 rlistbox.configure(yscrollcommand=rscroll.set)
 raddbutton = ttk.Button(resultframe, text='+', width=3, command=add)
@@ -253,12 +383,16 @@ tpane.add(mpane, weight=1)
 ilframe = ttk.LabelFrame(sup, text='Ingredient List')
 mpane.add(ilframe, weight=2)
 ilframe.grid_columnconfigure(0, weight=1)
-ilframe.grid_rowconfigure(0,weight=1)
+ilframe.grid_rowconfigure(1, weight=1)
 
 ##variable
 illistd = {}
 ##widgets
+illabel = ttk.Label(ilframe, text='(double click to mark/unmark an item)')
 iltree = ttk.Treeview(ilframe, columns=('count','mark','info'), height=8)
+iltree.bind('<Double-1>', ilmark)
+iltree.bind('<space>', ilmark)
+iltree.bind('<Return>', ilmark)
 iltree.column('#0', width=150, minwidth=150, stretch=0)
 iltree.column('count', width=50, minwidth=50, stretch=0)
 iltree.column('mark', width=30, minwidth=30, stretch=0)
@@ -269,8 +403,9 @@ iltree.heading('info', text='Info', anchor='w')
 ilscroll = ttk.Scrollbar(ilframe, orient=Tkinter.VERTICAL, command=iltree.yview)
 iltree.configure(yscrollcommand=ilscroll.set)
 ##arrange
-iltree.grid(column=0, row=0, sticky='NSEW', padx=(5, 0), pady=(5, 5))
-ilscroll.grid(column=1, row=0, sticky='NS', padx=(0, 5), pady=(5, 5))
+illabel.grid(column=0,row=0, sticky='W', padx=5)
+iltree.grid(column=0, row=1, sticky='NSEW', padx=(5, 0), pady=(5, 5))
+ilscroll.grid(column=1, row=1, sticky='NS', padx=(0, 5), pady=(5, 5))
 
 #makelist frame
 mlframe = ttk.LabelFrame(sup, text='Make List')
@@ -284,6 +419,8 @@ mllistd = {}
 ##widgets
 mllistbox = Tkinter.Listbox(mlframe, listvariable=mllist, selectmode='extended', height=10)
 mllistbox.bind('<Double-1>', minus)
+mllistbox.bind('<BackSpace>', minus)
+mllistbox.bind('<Delete>', minus)
 mlscroll = ttk.Scrollbar(mlframe, orient=Tkinter.VERTICAL, command=mllistbox.yview)
 mllistbox.configure(yscrollcommand=mlscroll.set)
 ##arrange
@@ -295,10 +432,14 @@ mlscroll.grid(column=1, row=0, sticky='NS', padx=(0, 5), pady=(0, 5))
 tlframe = ttk.LabelFrame(sup, text='Base Material Totals')
 tpane.add(tlframe, weight=2)
 tlframe.grid_columnconfigure(0, weight=1)
-tlframe.grid_rowconfigure(0,weight=1)
+tlframe.grid_rowconfigure(1, weight=1)
 
 ##widgets
+tllabel = ttk.Label(tlframe, text='(double click to mark/unmark an item)')
 tltree = ttk.Treeview(tlframe, columns=('count','mark','info'))
+tltree.bind('<Double-1>', tlmark)
+tltree.bind('<space>', tlmark)
+tltree.bind('<Return>', tlmark)
 tltree.column('#0', width=120, minwidth=120, stretch=0)
 tltree.column('count', width=50, minwidth=50, stretch=0)
 tltree.column('mark', width=30, minwidth=30, stretch=0)
@@ -309,12 +450,17 @@ tltree.heading('info', text='Info', anchor='w')
 tlscroll = ttk.Scrollbar(tlframe, orient=Tkinter.VERTICAL, command=tltree.yview)
 tltree.configure(yscrollcommand=tlscroll.set)
 ##arrange
-tltree.grid(column=0, row=0, sticky='NSEW', padx=(5, 0), pady=(5, 5))
-tlscroll.grid(column=1, row=0, sticky='NS', padx=(0, 5), pady=(5, 5))
+tllabel.grid(column=0,row=0, sticky='W', padx=5)
+tltree.grid(column=0, row=1, sticky='NSEW', padx=(5, 0), pady=(5, 5))
+tlscroll.grid(column=1, row=1, sticky='NS', padx=(0, 5), pady=(5, 5))
 
 
 #throw on a sizegrip
 ttk.Sizegrip(sup).grid(column=0, row=1, sticky='SE')
+
+
+
+#initialize the program
 
 #initial search populates results list with all recipes
 search()

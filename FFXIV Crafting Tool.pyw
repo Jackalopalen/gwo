@@ -117,10 +117,11 @@ def birthadd(parent):
 #add selected recipe to makelist
 def minus(*args):
     print 'going'
-    for idx in rlistbox.curselection():
+    for idx in mllistbox.curselection():
         idx = int(idx)
-        item = re.sub(' \(.* Level [0-9]*\)$', '', eval(resultlist.get())[idx])
+        item = re.sub('^[0-9]*x ', '', eval(mllist.get())[idx])
         if item in mllistd:
+            print 'yo'
             mllistd[item] -= 1
             if mllistd[item] <= 0:
                 del(mllistd[item])
@@ -128,11 +129,11 @@ def minus(*args):
         for ingredient in recipe['Ingredients']:
             name, count = ingredient[0], ingredient[1]
             if name in iltree.get_children():
-                iltree.set(name, 'count', int(iltree.set(_id, 'count')) - count)
+                iltree.set(name, 'count', int(iltree.set(name, 'count')) - count)
                 if iltree.set(name, 'count') <= 0:
                     iltree.delete(name)
                 elif name in [this['Name'] for this in Recipes]:
-                    birthminus(_id)
+                    birthminus(name)
             if name not in Recipes and name in tltree.get_children():
                 tltree.set(name, 'count', int(tltree.set(name, 'count')) - count)
                 if tltree.set(name, 'count') <= 0:

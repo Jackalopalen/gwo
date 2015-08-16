@@ -9,7 +9,7 @@ This is my first attempt at constructing a GUI, I guess it's my first proper "pr
 
 Like on xivdb, you select some crafting recipes and the tool will tell you the ingredients required.
 Unlike xivdb, however, there is no limit on how many recipes you can select at once.
-Also, the tool will provide tree diagrams if the ingredients themselves can be crafted.
+Also, the tool will provide tree diagrams if the ingredients themselves can be crafted and check boxes so you can keep track of what ingredients you have acquired.
 
 To use, download the files and run 'FFXIV Crafting Tool.pyw'
 Python 2.7 is required. I assume it won't work with Python 3.

@@ -178,7 +178,6 @@ def ilmark(*args):
         if mark == '[  ]':
             iltree.set(item, 'mark', '[x]')
             birthmark(item)
-            parentmark(item)
         if mark == '[x]':
             iltree.set(item, 'mark', '[  ]')
             birthmark(item, True)
@@ -262,7 +261,6 @@ def tlmark(*args):
             for child in children:
                 if child == item:
                     iltree.set(child, 'mark', '[x]')
-                    parentmark(child)
                 tlilbirthmark(child, item)
         if mark == '[x]':
             tltree.set(item, 'mark', '[  ]')
@@ -281,7 +279,6 @@ def tlilbirthmark(parent, name, unmark=False):
             if child.endswith(name):
                 if not unmark:
                     iltree.set(child, 'mark', '[x]')
-                    parentmark(child)
                 else:
                     iltree.set(child, 'mark', '[  ]')
                     parentmark(child, True)

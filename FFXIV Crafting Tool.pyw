@@ -104,7 +104,7 @@ def birthadd(parent, parent_count):
             if name in Ingredients:
                 iltree.set(_id, 'info', Ingredients[name])
         if name in [this['Name'] for this in Recipes]:
-            birthadd(_id, count)
+            birthadd(_id, count * parent_count)
         else:
             if name in tltree.get_children():
                 tltree.set(name, 'count', int(tltree.set(name, 'count')) + (count * parent_count))

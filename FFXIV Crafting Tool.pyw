@@ -159,8 +159,8 @@ def birthminus(parent, parent_count, tot=False):
                 if tltree.set(name, 'count') <= 0:
                     tltree.delete(name)
         if name in [this['Name'] for this in Recipes]:
-            if intot: birthminus(name, count, intot)
-            else: birthminus(_id, count, intot)
+            if intot: birthminus(name, count * parent_count, intot)
+            else: birthminus(_id, count * parent_count, intot)
 
 
 
